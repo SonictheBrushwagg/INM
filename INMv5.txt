@@ -1786,7 +1786,7 @@
 	        "mana_cost": "{3}{G}{G}{G}",
 	        "type": "Legendary Creature — Human Werewolf ",
 	        "image_uris": {
-	            "en": "Krendel of Kessig.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Krendel of Kessig.png"
 	        },
 	        "printed names": {
 	            "en": "Krendel of Kessig"
@@ -1797,7 +1797,7 @@
 	                "en": "Krendel, Krallenhorde Alpha"
 	            },
 	            "image_uris": {
-	                "en": "Krendel, Krallenhorde Alpha.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Krendel, Krallenhorde Alpha.png"
 	            },
 	            "type": "Legendary Creature — Werewolf "
 	        }
@@ -3479,4 +3479,3 @@
 		50 Markov Fencer
 		50 Dread Elk
 		50 Flawless Finesse
-	[BasicSlot(1 
