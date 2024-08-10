@@ -139,7 +139,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "Resting Tombs.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Resting Tombs.png"
 	        },
 	        "printed names": {
 	            "en": "Resting Tombs"
@@ -147,7 +147,7 @@
 	        "back": {
 	            "name": " Restless Souls",
 	            "printed_names": {
-	                "en": " Restless Souls"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/ Restless Souls"
 	            },
 	            "image_uris": {
 	                "en": " Restless Souls.png"
@@ -421,7 +421,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Peasant ",
 	        "image_uris": {
-	            "en": "Avacyn's Partisan.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn's Partisan.png"
 	        },
 	        "printed names": {
 	            "en": "Avacyn's Partisan"
@@ -432,7 +432,7 @@
 	                "en": "Avacyn's Paladin"
 	            },
 	            "image_uris": {
-	                "en": "Avacyn's Paladin.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn's Paladin.png"
 	            },
 	            "type": "Creature — Human Cleric Knight "
 	        }
@@ -505,7 +505,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "Corrupted Sorcerer.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Corrupted Sorcerer.png"
 	        },
 	        "printed names": {
 	            "en": "Corrupted Sorcerer"
@@ -516,7 +516,7 @@
 	                "en": "Conjured Stalker"
 	            },
 	            "image_uris": {
-	                "en": "Conjured Stalker.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Conjured Stalker.png"
 	            },
 	            "type": "Creature — Spirit Horror "
 	        }
@@ -706,7 +706,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "Paranormal Convergence.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Paranormal Convergence.png"
 	        },
 	        "printed names": {
 	            "en": "Paranormal Convergence"
@@ -717,7 +717,7 @@
 	                "en": "Parabolic Predator"
 	            },
 	            "image_uris": {
-	                "en": "Parabolic Predator.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Parabolic Predator.png"
 	            },
 	            "type": "Creature — Elemental Horror "
 	        }
@@ -961,7 +961,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Legenday Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "Oswin, Skirsdag Diabolist.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Oswin, Skirsdag Diabolist.png"
 	        },
 	        "printed names": {
 	            "en": "Oswin, Skirsdag Diabolist"
@@ -972,7 +972,7 @@
 	                "en": "Griselbrand, the Usurper"
 	            },
 	            "image_uris": {
-	                "en": "Griselbrand, the Usurper.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Griselbrand, the Usurper.png"
 	            },
 	            "type": "Legendary Creature — Demon "
 	        }
@@ -982,7 +982,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "Corpse Thief.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Corpse Thief.png"
 	        },
 	        "printed names": {
 	            "en": "Corpse Thief"
@@ -993,7 +993,7 @@
 	                "en": "Copse Tyrant"
 	            },
 	            "image_uris": {
-	                "en": "Copse Tyrant.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Copse Tyrant.png"
 	            },
 	            "type": "Creature — Treefolk "
 	        }
@@ -1204,7 +1204,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "Charging Commando.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Charging Commando.png"
 	        },
 	        "printed names": {
 	            "en": "Charging Commando"
@@ -1215,7 +1215,7 @@
 	                "en": "Cornered Cathar"
 	            },
 	            "image_uris": {
-	                "en": "Cornered Cathar.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Cornered Cathar.png"
 	            },
 	            "type": "Creature — Human Soldier "
 	        }
@@ -1297,7 +1297,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Artificer Werewolf ",
 	        "image_uris": {
-	            "en": "Kessig Jeweler.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Kessig Jeweler.png"
 	        },
 	        "printed names": {
 	            "en": "Kessig Jeweler"
@@ -1308,7 +1308,7 @@
 	                "en": "Kessig Tombrobber"
 	            },
 	            "image_uris": {
-	                "en": "Kessig Tombrobber.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Kessig Tombrobber.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -1318,7 +1318,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Human Wizard Werewolf ",
 	        "image_uris": {
-	            "en": "Leyran Spellchainer.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Leyran Spellchainer.png"
 	        },
 	        "printed names": {
 	            "en": "Leyran Spellchainer"
@@ -1329,7 +1329,7 @@
 	                "en": "Leyran Spellclaw"
 	            },
 	            "image_uris": {
-	                "en": "Leyran Spellclaw.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Leyran Spellclaw.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -1339,7 +1339,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Human Shaman Werewolf ",
 	        "image_uris": {
-	            "en": "Pyromantic Duo.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Pyromantic Duo.png"
 	        },
 	        "printed names": {
 	            "en": "Pyromantic Duo"
@@ -1350,7 +1350,7 @@
 	                "en": "Mayhem Tandem"
 	            },
 	            "image_uris": {
-	                "en": "Mayhem Tandem.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Mayhem Tandem.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -1378,7 +1378,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Werewolf ",
 	        "image_uris": {
-	            "en": "Somberwald Rider.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Somberwald Rider.png"
 	        },
 	        "printed names": {
 	            "en": "Somberwald Rider"
@@ -1389,7 +1389,7 @@
 	                "en": "Somberwald Slaughterer"
 	            },
 	            "image_uris": {
-	                "en": "Somberwald Slaughterer.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Somberwald Slaughterer.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -1408,7 +1408,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Druid Werewolf ",
 	        "image_uris": {
-	            "en": "Desperate Botanist.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Desperate Botanist.png"
 	        },
 	        "printed names": {
 	            "en": "Desperate Botanist"
@@ -1419,7 +1419,7 @@
 	                "en": "Bramblemane"
 	            },
 	            "image_uris": {
-	                "en": "Bramblemane.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Bramblemane.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -1555,7 +1555,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Archer Werewolf ",
 	        "image_uris": {
-	            "en": "Treeline Archer.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Treeline Archer.png"
 	        },
 	        "printed names": {
 	            "en": "Treeline Archer"
@@ -1566,7 +1566,7 @@
 	                "en": "Towering Alpha"
 	            },
 	            "image_uris": {
-	                "en": "Towering Alpha.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Towering Alpha.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -1594,7 +1594,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "Dawnhart Ceremony.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dawnhart Ceremony.png"
 	        },
 	        "printed names": {
 	            "en": "Dawnhart Ceremony"
@@ -1605,7 +1605,7 @@
 	                "en": "Dawnhart Scourge"
 	            },
 	            "image_uris": {
-	                "en": "Dawnhart Scourge.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dawnhart Scourge.png"
 	            },
 	            "type": "Creature — Horror "
 	        }
@@ -1660,7 +1660,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Ranger Werewolf ",
 	        "image_uris": {
-	            "en": "Ulvenwald Ranger.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Ulvenwald Ranger.png"
 	        },
 	        "printed names": {
 	            "en": "Ulvenwald Ranger"
@@ -1671,7 +1671,7 @@
 	                "en": "Ulvenwald Howler"
 	            },
 	            "image_uris": {
-	                "en": "Ulvenwald Howler.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Ulvenwald Howler.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -1708,7 +1708,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Warrior Werewolf ",
 	        "image_uris": {
-	            "en": "Vartrossen Primalist.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Vartrossen Primalist.png"
 	        },
 	        "printed names": {
 	            "en": "Vartrossen Primalist"
@@ -1719,7 +1719,7 @@
 	                "en": "Vartrossen Packleader"
 	            },
 	            "image_uris": {
-	                "en": "Vartrossen Packleader.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Vartrossen Packleader.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -1738,7 +1738,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "Mistwood Rites.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Mistwood Rites.png"
 	        },
 	        "printed names": {
 	            "en": "Mistwood Rites"
@@ -1749,7 +1749,7 @@
 	                "en": "Mistwood Enigma"
 	            },
 	            "image_uris": {
-	                "en": "Mistwood Enigma.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Mistwood Enigma.png"
 	            },
 	            "type": "Creature — Horror "
 	        }
@@ -1915,7 +1915,7 @@
 	        "mana_cost": "{R}{R}{G}{G}",
 	        "type": "Legendary Creature — Human Werewolf ",
 	        "image_uris": {
-	            "en": "Valseid, Leyran Brute.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Valseid, Leyran Brute.png"
 	        },
 	        "printed names": {
 	            "en": "Valseid, Leyran Brute"
@@ -1926,7 +1926,7 @@
 	                "en": "Valseid, Leyran Ravager"
 	            },
 	            "image_uris": {
-	                "en": "Valseid, Leyran Ravager.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Valseid, Leyran Ravager.png"
 	            },
 	            "type": "Legendary Creature — Werewolf "
 	        }
@@ -2413,7 +2413,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Rebel Werewolf ",
 	        "image_uris": {
-	            "en": "Hanweir Miscreant.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Hanweir Miscreant.png"
 	        },
 	        "printed names": {
 	            "en": "Hanweir Miscreant"
@@ -2424,7 +2424,7 @@
 	                "en": "Garrison Intruder"
 	            },
 	            "image_uris": {
-	                "en": "Garrison Intruder.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Garrison Intruder.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -2479,7 +2479,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Peasant ",
 	        "image_uris": {
-	            "en": "Haunted Waif.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Haunted Waif.png"
 	        },
 	        "printed names": {
 	            "en": "Haunted Waif"
@@ -2490,7 +2490,7 @@
 	                "en": "Geist Whisperer"
 	            },
 	            "image_uris": {
-	                "en": "Geist Whisperer.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Geist Whisperer.png"
 	            },
 	            "type": "Creature — Human Wizard "
 	        }
@@ -2500,7 +2500,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "Carnage Throne.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Carnage Throne.png"
 	        },
 	        "printed names": {
 	            "en": "Carnage Throne"
@@ -2511,7 +2511,7 @@
 	                "en": "Carnage Demon"
 	            },
 	            "image_uris": {
-	                "en": "Carnage Demon.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Carnage Demon.png"
 	            },
 	            "type": "Creature — Demon "
 	        }
@@ -2530,7 +2530,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Werewolf ",
 	        "image_uris": {
-	            "en": "Troublesome Throng.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Troublesome Throng.png"
 	        },
 	        "printed names": {
 	            "en": "Troublesome Throng"
@@ -2541,7 +2541,7 @@
 	                "en": "Vartrossen Vandals"
 	            },
 	            "image_uris": {
-	                "en": "Vartrossen Vandals.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Vartrossen Vandals.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -2560,7 +2560,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "Havengul Banshee.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Havengul Banshee.png"
 	        },
 	        "printed names": {
 	            "en": "Havengul Banshee"
@@ -2571,7 +2571,7 @@
 	                "en": "Curse of the Banshee"
 	            },
 	            "image_uris": {
-	                "en": "Curse of the Banshee.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of the Banshee.png"
 	            },
 	            "type": "Enchantment — Aura Curse "
 	        }
@@ -2590,7 +2590,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "Dowager of Traublassen.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dowager of Traublassen.png"
 	        },
 	        "printed names": {
 	            "en": "Dowager of Traublassen"
@@ -2601,7 +2601,7 @@
 	                "en": "Despot of Traublassen"
 	            },
 	            "image_uris": {
-	                "en": "Despot of Traublassen.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Despot of Traublassen.png"
 	            },
 	            "type": "Creature — Vampire "
 	        }
@@ -2827,7 +2827,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Zombie ",
 	        "image_uris": {
-	            "en": "Lone Zombie.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Lone Zombie.png"
 	        },
 	        "printed names": {
 	            "en": "Lone Zombie"
@@ -2838,7 +2838,7 @@
 	                "en": "Zombie Legion"
 	            },
 	            "image_uris": {
-	                "en": "Zombie Legion.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Zombie Legion.png"
 	            },
 	            "type": "Creature — Zombie "
 	        }
@@ -2866,7 +2866,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "Undercroft Portal.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Undercroft Portal.png"
 	        },
 	        "printed names": {
 	            "en": "Undercroft Portal"
@@ -2877,7 +2877,7 @@
 	                "en": "Unleashed Mindboggler"
 	            },
 	            "image_uris": {
-	                "en": "Unleashed Mindboggler.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Unleashed Mindboggler.png"
 	            },
 	            "type": "Creature — Horror "
 	        }
@@ -2923,7 +2923,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Soldier Werewolf ",
 	        "image_uris": {
-	            "en": "Embercut Duelist.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Embercut Duelist.png"
 	        },
 	        "printed names": {
 	            "en": "Embercut Duelist"
@@ -2934,7 +2934,7 @@
 	                "en": "Emberslash Werewolf"
 	            },
 	            "image_uris": {
-	                "en": "Emberslash Werewolf.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Emberslash Werewolf.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -2953,7 +2953,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Assassin Werewolf ",
 	        "image_uris": {
-	            "en": "Adderblade Exterminator.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Adderblade Exterminator.png"
 	        },
 	        "printed names": {
 	            "en": "Adderblade Exterminator"
@@ -2964,7 +2964,7 @@
 	                "en": "Addermark Eviscerator"
 	            },
 	            "image_uris": {
-	                "en": "Addermark Eviscerator.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Addermark Eviscerator.png"
 	            },
 	            "type": "Creature — Werewolf "
 	        }
@@ -2974,7 +2974,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Vampire Warrior ",
 	        "image_uris": {
-	            "en": "Voldaren Heartslicer.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Voldaren Heartslicer.png"
 	        },
 	        "printed names": {
 	            "en": "Voldaren Heartslicer"
@@ -2985,7 +2985,7 @@
 	                "en": "Curse of Incurable Wounds"
 	            },
 	            "image_uris": {
-	                "en": "Curse of Incurable Wounds.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of Incurable Wounds.png"
 	            },
 	            "type": "Enchantment — Aura Curse "
 	        }
@@ -2995,7 +2995,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "Alabaster Halo.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Alabaster Halo.png"
 	        },
 	        "printed names": {
 	            "en": "Alabaster Halo"
@@ -3006,7 +3006,7 @@
 	                "en": "Alabaster Avenger"
 	            },
 	            "image_uris": {
-	                "en": "Alabaster Avenger.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Alabaster Avenger.png"
 	            },
 	            "type": "Creature — Angel "
 	        }
@@ -3025,7 +3025,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Leviathan Egg ",
 	        "image_uris": {
-	            "en": "Drunau Egg.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Drunau Egg.png"
 	        },
 	        "printed names": {
 	            "en": "Drunau Egg"
@@ -3036,7 +3036,7 @@
 	                "en": "Drunau Engulfer"
 	            },
 	            "image_uris": {
-	                "en": "Drunau Engulfer.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Drunau Engulfer.png"
 	            },
 	            "type": "Creature — Leviathan "
 	        }
@@ -3181,7 +3181,7 @@
 	        "mana_cost": "",
 	        "type": "Legendary Land",
 	        "image_uris": {
-	            "en": "Wesgoth Cemetery.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Wesgoth Cemetery.png"
 	        },
 	        "printed names": {
 	            "en": "Wesgoth Cemetery"
@@ -3192,7 +3192,7 @@
 	                "en": "Skullbriar, Death's Mockery"
 	            },
 	            "image_uris": {
-	                "en": "Skullbriar, Death's Mockery.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Skullbriar, Death's Mockery.png"
 	            },
 	            "type": "Legendary Creature — Zombie Elemental "
 	        }
