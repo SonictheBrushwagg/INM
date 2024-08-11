@@ -10,438 +10,6 @@
   <cards>
 
     <card>
-      <name>Puresoul Possessor</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>W</manacost>
-        <cmc>1</cmc>
-        <type>Creature - Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Lifelink
-{W}, {T}: Target creature gets +1/+1 and gains lifelink until end of turn. Activate only as a sorcery.</text>
-    </card>
-    <card>
-      <name>Beckoning Possessor</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever Beckoning Possessor deals combat damage to a player, create a 1/1 white Spirit creature token with flying.
-4W, {T}: Until end of turn, target creature gets +2/+2 and gains “Whenever this creature deals combat damage to a player, create a 1/1 white Spirit creature token with flying.” Activate only as a sorcery.</text>
-    </card>
-    <card>
-      <name>Cathedral Gargoyle</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>3W</manacost>
-        <cmc>4</cmc>
-        <type>Artifact Creature - Gargoyle </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Foreshadow 4W (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
-Flying
-When Cathedral Gargoyle dies, you gain 2 life and create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)</text>
-    </card>
-    <card>
-      <name>Angel of Sunrise</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>5W</manacost>
-        <cmc>6</cmc>
-        <type>Creature - Angel </type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>This spell costs {X} less to cast, where X is the amount of life you gained this turn.
-Flying
-When Angel of Sunrise enters, each opponent exiles a Spirit, Vampire, Werewolf, Zombie, or double-faced permanent they control.</text>
-    </card>
-    <card>
-      <name>Blessed Bladewright</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Human Artificer </type>
-        <maintype>Creature</maintype>
-        <pt>3/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Blessed Bladewright enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)
-Creatures you control that are enchanted or equipped have ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
-    </card>
-    <card>
-      <name>Phantom Presence</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Put a +1/+1 counter on each creature you control. If this spell was cast from a graveyard, those creatures gain flying until end of turn.
-Flashback 5WW (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-    </card>
-    <card>
-      <name>Sacralize</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Exile target artifact, creature, or enchantment. If that permanent’s mana value was 3 or greater, its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle. (A transformed permanent retains the mana value of its front face.)</text>
-    </card>
-    <card>
-      <name>Lifted Spirits</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Enchantment - Aura </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant creature
-When Lifted Spirits enters, create a 1/1 white Spirit creature token with flying.
-Enchanted creature gets +1/+1 and has flying.</text>
-    </card>
-    <card>
-      <name>Avacyn&apos;s Mark</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>W</manacost>
-        <cmc>1</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Choose one —
-• You gain hexproof until end of turn.
-• Target creature you control gains double strike until end of turn.
-• Exile target card from a graveyard. You gain 4 life.</text>
-    </card>
-    <card>
-      <name>Plains</name>
-      <set rarity="">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Plains </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Island2</name>
-      <set rarity="">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Island </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Swamp</name>
-      <set rarity="">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Swamp </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Mountain2</name>
-      <set rarity="">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Mountain </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Forest2</name>
-      <set rarity="">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Forest </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Resting Tombs</name>
-      <set rarity="rare" splitterPath="/Resting Tombs.png" >INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>If a creature would die, exile it instead.
-When Resting Tombs enters, exile target creature an opponent controls until this enchantment leaves the battlefield.
-3BB: Exile all creature cards from all graveyards. Transform Resting Tombs. Activate only as a sorcery.
----
-(Back):  Restless Souls</text>
-      <related attach="transform"> Restless Souls</related>
-    </card>
-    <card>
-      <name> Restless Souls</name>
-      <set rarity="rare" splitterPath="/ Restless Souls.png" >INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost></manacost>
-        <cmc>3</cmc>
-        <type>Enchantment</type>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>At the beginning of your end step, put a creature card that’s exiled with this enchantment onto the battlefield under your control. That creature becomes a 1/1 Spirit creature in addition to its other types and gains flying and “If this creature would die, put it on the bottom of its owner’s library instead.”
----
-(Front): Resting Tombs</text>
-    </card>
-    <card>
-      <name>Cenotaph Possessor</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>0/0</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Cenotaph Possessor gets +1/+1 for each artifact, creature, and/or enchantment you control. (A permanent that’s more than one of those types counts only once for this effect.)
-2W, {T}: Target creature gets +1/+1 for each artifact, creature, and/or enchantment you control until end of turn. Activate only as a sorcery.</text>
-    </card>
-    <card>
-      <name>Cathar&apos;s Armory</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>When Cathar’s Armory enters, create three Weapon tokens. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)
-Whenever one or more creatures you control that are enchanted or equipped deal combat damage to a player, draw a card.</text>
-    </card>
-    <card>
-      <name>Flight of Angels</name>
-      <set rarity="mythic">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>XXWWW</manacost>
-        <cmc>3</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Create X 4/4 white Angel creature tokens with flying.
-Flashback XWWWWW (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-    </card>
-    <card>
-      <name>Plains2</name>
-      <set rarity="">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Plains </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Island</name>
-      <set rarity="">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Island </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Swamp2</name>
-      <set rarity="">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Swamp </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Mountain</name>
-      <set rarity="">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Mountain </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Forest</name>
-      <set rarity="">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Basic Land - Forest </type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text></text>
-    </card>
-    <card>
-      <name>Avacyn</name>
-      <set rarity="mythic">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2WWW</manacost>
-        <cmc>5</cmc>
-        <type>Legendary Creature - Angel </type>
-        <maintype>Creature</maintype>
-        <pt>5/5</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flash
-Flying, vigilance
-When Avacyn enters, put an indestructible counter on another target permanent you control.</text>
-    </card>
-    <card>
-      <name>Quell Evil</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>W</manacost>
-        <cmc>1</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Look at target opponent’s hand. You may exile a noncreature, nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
-Flashback—2W or Tap two untapped white creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)</text>
-    </card>
-    <card>
-      <name>Archdemon Shilgengar</name>
-      <set rarity="mythic">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>6BBBB</manacost>
-        <cmc>10</cmc>
-        <type>Legendary Creature - Elder Demon </type>
-        <maintype>Creature</maintype>
-        <pt>8/8</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying, lifelink
-When Archdemon Shilgengar enters, put all creature cards from all graveyards onto the battlefield under your control with a finality counter on each of them. They’re Vampires in addition to their other types.</text>
-    </card>
-    <card>
-      <name>Sorin, Vampire Maverick</name>
-      <set rarity="mythic">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>2BB</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Planeswalker - Sorin </type>
-        <maintype>Planeswalker</maintype>
-      <loyalty>4</loyalty>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>[+1]: Draw a card. Each player loses 1 life.
-[-2]: Create two 1/1 black Bat creature tokens with flying and lifelink.
-[-3]: Target creature gets -13/-13 until end of turn. Whenever a triggered ability of that creature triggers this turn, you may gain control of that ability.</text>
-    </card>
-    <card>
-      <name>Wurgelurg</name>
-      <set rarity="mythic">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>4BBB</manacost>
-        <cmc>7</cmc>
-        <type>Creature - Avatar Horror </type>
-        <maintype>Creature</maintype>
-        <pt>7/7</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Foreshadow 7BB (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
-When Wurgelurg dies, each opponent discards three cards, sacrifices three creatures, and loses 3 life. You draw three cards, create three tapped 2/2 black Zombie creature tokens, and gain 3 life.</text>
-    </card>
-    <card>
-      <name>Outrider Captain</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>3W</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Human Knight </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-Whenever Outrider Captain attacks, search your library for a creature card with mana value 1 or less and put it onto the battlefield tapped and attacking, then shuffle.</text>
-    </card>
-    <card>
       <name>Cobblespook</name>
       <set rarity="common">INM</set>
       <prop>
@@ -471,6 +39,38 @@ When Cobblespook enters the battlefield, tap target artifact or creature an oppo
       <tablerow>2</tablerow>
       <text>First strike
 5W, {T}: Target creature gets +2/+1 and gains first strike until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Avacyn&apos;s Partisan</name>
+      <set rarity="common" splitterPath="/Avacyn's Partisan.png" >INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your first main phase, if you control two or more artifacts and/or enchantments, transform Avacyn’s Partisan.
+---
+(Back): Avacyn&apos;s Paladin</text>
+      <related attach="transform">Avacyn&apos;s Paladin</related>
+    </card>
+    <card>
+      <name>Avacyn&apos;s Paladin</name>
+      <set rarity="common" splitterPath="/Avacyn's Paladin.png" >INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Cleric Knight </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+---
+(Front): Avacyn&apos;s Partisan</text>
     </card>
     <card>
       <name>Stalwart Cathar</name>
@@ -503,21 +103,6 @@ Whenever Stalwart Cathar and at least two other creatures attack, Stalwart Catha
 When Departed Butler enters, draw a card.</text>
     </card>
     <card>
-      <name>Loyal Retriever</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Dog </type>
-        <maintype>Creature</maintype>
-        <pt>3/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Foreshadow 5W (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
-When Loyal Retriever dies, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.</text>
-    </card>
-    <card>
       <name>Curewitch of Ghrin-Danu</name>
       <set rarity="common">INM</set>
       <prop>
@@ -531,6 +116,21 @@ When Loyal Retriever dies, search your library for an Aura or Equipment card, re
       <tablerow>2</tablerow>
       <text>Vigilance
 Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Loyal Retriever</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dog </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Foreshadow 5W (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Loyal Retriever dies, search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.</text>
     </card>
     <card>
       <name>Moorland Slayer</name>
@@ -561,6 +161,22 @@ Invocation — Whenever you spend four or more mana to cast a spell or activate 
       <tablerow>2</tablerow>
       <text>Flying
 When Sigarda’s Shepherd enters, put a +1/+1 counter on another target creature you control. If that creature is a Human, it gains indestructible until end of turn.</text>
+    </card>
+    <card>
+      <name>Candlecrown Stag</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Candlecrown Stag enters, choose one or both —
+• Exile target card from a graveyard.
+• You gain 3 life.</text>
     </card>
     <card>
       <name>Weizenmother</name>
@@ -607,18 +223,73 @@ Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)
 Enchanted permanent can’t attack, block, or transform.</text>
     </card>
     <card>
-      <name>Evanescence</name>
-      <set rarity="uncommon">INM</set>
+      <name>Alert the Village</name>
+      <set rarity="common">INM</set>
       <prop>
         <colors>W</colors>
-        <manacost>W</manacost>
-        <cmc>1</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Exile target artifact or creature you control, then return it to the battlefield under its owner’s control. Create a 1/1 white Spirit creature token with flying.
-Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+      <text>Create two 1/1 white Human creature tokens.</text>
+    </card>
+    <card>
+      <name>Flawless Finesse</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature you control. It gains indestructible until end of turn. Create a Weapon token and attach it to that creature. (A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)</text>
+    </card>
+    <card>
+      <name>Spectral Salvo</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Spectral Salvo deals 13 damage to target tapped creature. Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Breaking Dawn</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Creatures you control get +2/+0 until end of turn.
+• Destroy target artifact or enchantment. You gain 3 life.</text>
+    </card>
+    <card>
+      <name>Lifted Spirits</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature
+When Lifted Spirits enters, create a 1/1 white Spirit creature token with flying.
+Enchanted creature gets +1/+1 and has flying.</text>
     </card>
     <card>
       <name>Frightful Visitation</name>
@@ -635,19 +306,6 @@ Flashback {W} (You may cast this card from your graveyard for its flashback cost
 Flashback 3U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
-      <name>Spectral Salvo</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Spectral Salvo deals 13 damage to target tapped creature. Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
-    </card>
-    <card>
       <name>Slayer&apos;s Grimoire</name>
       <set rarity="common">INM</set>
       <prop>
@@ -662,36 +320,300 @@ Flashback 3U (You may cast this card from your graveyard for its flashback cost.
 {W}, {T}: You gain 1 life.</text>
     </card>
     <card>
-      <name>Avacyn&apos;s Partisan</name>
-      <set rarity="common" splitterPath="/Avacyn's Partisan.png" >INM</set>
+      <name>Puresoul Possessor</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+{W}, {T}: Target creature gets +1/+1 and gains lifelink until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Blessed Bladewright</name>
+      <set rarity="uncommon">INM</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
         <cmc>2</cmc>
-        <type>Creature - Human Peasant </type>
+        <type>Creature - Human Artificer </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Blessed Bladewright enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)
+Creatures you control that are enchanted or equipped have ward {1}. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+    </card>
+    <card>
+      <name>Beckoning Possessor</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit </type>
         <maintype>Creature</maintype>
         <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When an artifact or enchantment enters under your control, transform Avacyn’s Partisan.
----
-(Back): Avacyn&apos;s Paladin</text>
-      <related attach="transform">Avacyn&apos;s Paladin</related>
+      <text>Whenever Beckoning Possessor deals combat damage to a player, create a 1/1 white Spirit creature token with flying.
+4W, {T}: Until end of turn, target creature gets +2/+2 and gains “Whenever this creature deals combat damage to a player, create a 1/1 white Spirit creature token with flying.” Activate only as a sorcery.</text>
     </card>
     <card>
-      <name>Avacyn&apos;s Paladin</name>
-      <set rarity="common" splitterPath="/Avacyn's Paladin.png" >INM</set>
+      <name>Silverblade Cathar</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Whenever Silverblade Cathar and two other creatures attack, draw a card.</text>
+    </card>
+    <card>
+      <name>Haunted Waif</name>
+      <set rarity="uncommon" splitterPath="/Haunted Waif.png" >INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Peasant </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When you activate an ability of a Spirit you control or a Spirit card in your hand or graveyard, transform Haunted Waif.
+---
+(Back): Geist Whisperer</text>
+      <related attach="transform">Geist Whisperer</related>
+    </card>
+    <card>
+      <name>Geist Whisperer</name>
+      <set rarity="uncommon" splitterPath="/Geist Whisperer.png" >INM</set>
       <prop>
         <colors>W</colors>
         <manacost></manacost>
-        <cmc>2</cmc>
-        <type>Creature - Human Cleric Knight </type>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When this creature transforms into Geist Whisperer, create two 1/1 white Spirit creature tokens with flying.
+At the beginning of each combat, untap all Spirits you control.
+---
+(Front): Haunted Waif</text>
+    </card>
+    <card>
+      <name>Cathedral Gargoyle</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Gargoyle </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Foreshadow 4W (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+Flying
+When Cathedral Gargoyle dies, you gain 2 life and create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)</text>
+    </card>
+    <card>
+      <name>Righteous Chaplain</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Cleric </type>
+        <maintype>Creature</maintype>
         <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Lifelink
+      <text>Other Humans you control get +1/+1.
+Whenever Righteous Chaplain or another Human you control enters, tap target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Angel of Sunrise</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {X} less to cast, where X is the amount of life you gained this turn.
+Flying
+When Angel of Sunrise enters, each opponent exiles a Spirit, Vampire, Werewolf, Zombie, or double-faced permanent they control.</text>
+    </card>
+    <card>
+      <name>Evanescence</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target artifact or creature you control, then return it to the battlefield under its owner’s control. Create a 1/1 white Spirit creature token with flying.
+Flashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Avacyn&apos;s Mark</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• You gain hexproof until end of turn.
+• Target creature you control gains double strike until end of turn.
+• Exile target card from a graveyard. You gain 4 life.</text>
+    </card>
+    <card>
+      <name>Sacralize</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target artifact, creature, or enchantment. If that permanent’s mana value was 3 or greater, its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle. (A transformed permanent retains the mana value of its front face.)</text>
+    </card>
+    <card>
+      <name>Alabaster Halo</name>
+      <set rarity="uncommon" splitterPath="/Alabaster Halo.png" >INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control
+Enchanted creature gets +2/+2.
+When enchanted creature dies, return Alabaster Halo to the battlefield transformed under your control.
 ---
-(Front): Avacyn&apos;s Partisan</text>
+(Back): Alabaster Avenger</text>
+      <related attach="transform">Alabaster Avenger</related>
+    </card>
+    <card>
+      <name>Alabaster Avenger</name>
+      <set rarity="uncommon" splitterPath="/Alabaster Avenger.png" >INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel </type>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Whenever Alabaster Avenger attacks, if it’s enchanted or equipped, it gains first strike until end of turn.
+---
+(Front): Alabaster Halo</text>
+    </card>
+    <card>
+      <name>Phantom Presence</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on each creature you control. If this spell was cast from a graveyard, those creatures gain flying until end of turn.
+Flashback 5WW (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Cenotaph Possessor</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cenotaph Possessor gets +1/+1 for each artifact, creature, and/or enchantment you control. (A permanent that’s more than one of those types counts only once for this effect.)
+2W, {T}: Target creature gets +1/+1 for each artifact, creature, and/or enchantment you control until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Traft, Lunarch&apos;s Edge</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Legendary Creature - Human Cleric Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Angel spells you cast cost {2} less to cast.
+Prevent all noncombat damage that would be dealt to Angels and Humans you control.</text>
+    </card>
+    <card>
+      <name>Dawnhart&apos;s Envoy</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Elk </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Your opponents casting spells don’t cause abilities to trigger.
+Creatures entering under your opponents’ control don’t cause abilities to trigger.</text>
+    </card>
+    <card>
+      <name>Outrider Captain</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever Outrider Captain attacks, search your library for a creature card with mana value 1 or less and put it onto the battlefield tapped and attacking, then shuffle.</text>
     </card>
     <card>
       <name>Hecatomb Haunter</name>
@@ -710,6 +632,157 @@ Flying
 Whenever Hecatomb Haunter enters or attacks, up to one other target nonland permanent phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
     </card>
     <card>
+      <name>Quell Evil</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at target opponent’s hand. You may exile a noncreature, nonland card from it. For as long as that card remains exiled, its owner may play it. A spell cast this way costs {2} more to cast.
+Flashback—2W or Tap two untapped white creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Cathar&apos;s Armory</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Cathar’s Armory enters, create three Weapon tokens. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)
+Whenever one or more creatures you control that are enchanted or equipped deal combat damage to a player, draw a card.</text>
+    </card>
+    <card>
+      <name>Resting Tombs</name>
+      <set rarity="rare" splitterPath="/Resting Tombs.png" >INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>If a creature would die, exile it instead.
+When Resting Tombs enters, exile target creature an opponent controls until this enchantment leaves the battlefield.
+3BB: Exile all creature cards from all graveyards. Transform Resting Tombs. Activate only as a sorcery.
+---
+(Back): Restless Souls</text>
+      <related attach="transform">Restless Souls</related>
+    </card>
+    <card>
+      <name>Restless Souls</name>
+      <set rarity="rare" splitterPath="/Restless Souls.png" >INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, put a creature card that’s exiled with this enchantment onto the battlefield under your control. That creature becomes a 1/1 Spirit creature in addition to its other types and gains flying and “If this creature would die, put it on the bottom of its owner’s library instead.”
+---
+(Front): Resting Tombs</text>
+    </card>
+    <card>
+      <name>Sword of the Heavens</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Sword of the Heavens enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and has flying, vigilance, and “Whenever this creature attacks, you may search your library and/or graveyard for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.”
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Flight of Angels</name>
+      <set rarity="mythic">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>XXWWW</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create X 4/4 white Angel creature tokens with flying.
+Flashback XWWWWW (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Avacyn</name>
+      <set rarity="mythic">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WWW</manacost>
+        <cmc>5</cmc>
+        <type>Legendary Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying, vigilance
+When Avacyn enters, put an indestructible counter on another target permanent you control.</text>
+    </card>
+    <card>
+      <name>Polina Elgaud</name>
+      <set rarity="mythic">INM</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Legendary Planeswalker - Polina </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>5</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Create a white enchantment token named Intangible Virtue. It has “Creature tokens you control get +1/+1 and have vigilance.”
+[-3]: Create a 4/4 white Angel creature token with flying. You gain life equal to the number of tokens you control.
+[-5]: Exile all other nonland, nontoken permanents.</text>
+    </card>
+    <card>
+      <name>Nebelgast Possessor</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+3U, {T}: Target creature gets +1/+1 and gains flying until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Memory Surgeon</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add CC. Spend this mana only to activate abilities.
+{2}, {T}: Target player mills two cards.</text>
+    </card>
+    <card>
       <name>Widow Wisp</name>
       <set rarity="common">INM</set>
       <prop>
@@ -724,6 +797,35 @@ Whenever Hecatomb Haunter enters or attacks, up to one other target nonland perm
       <text>Flying
 Widow Wisp can’t block unless you control another Spirit.
 When Widow Wisp enters, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Seagraf Shamblers</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards leave your graveyard, put a +1/+1 counter on Seagraf Shamblers.</text>
+    </card>
+    <card>
+      <name>Covetous Possessor</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Covetous Possessor deals combat damage to a player, draw a card.
+4U, {T}: Until end of turn, target creature gets +2/+2 and gains “Whenever this creature deals combat damage to a player, draw a card.” Activate only as a sorcery.</text>
     </card>
     <card>
       <name>Brine Cultist</name>
@@ -741,19 +843,19 @@ When Widow Wisp enters, surveil 1. (Look at the top card of your library. You ma
 5U: Draw a card.</text>
     </card>
     <card>
-      <name>Covetous Possessor</name>
+      <name>Carrion Drake</name>
       <set rarity="common">INM</set>
       <prop>
         <colors>U</colors>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Spirit </type>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Drake </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Covetous Possessor deals combat damage to a player, draw a card.
-4U, {T}: Until end of turn, target creature gets +2/+2 and gains “Whenever this creature deals combat damage to a player, draw a card.” Activate only as a sorcery.</text>
+      <text>Flying
+When Carrion Drake enters, you may exile a creature card from your graveyard. If you do, draw a card.</text>
     </card>
     <card>
       <name>Escaped Ooze</name>
@@ -848,6 +950,20 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
 Flashback 3U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
+      <name>Unethical Research</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 1, then draw a card.
+Flashback—1B, Pay 1 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
       <name>Claim of the Deep</name>
       <set rarity="common">INM</set>
       <prop>
@@ -860,6 +976,19 @@ Flashback 3U (You may cast this card from your graveyard for its flashback cost.
       <tablerow>3</tablerow>
       <text>Return up to one target nonland permanent you control and up to one target nonland permanent you don’t control to their owners’ hands.
 Flashback 4U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Remove Soul</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target creature spell.</text>
     </card>
     <card>
       <name>Curse of Doubt</name>
@@ -964,6 +1093,20 @@ Flying, vigilance
 Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)</text>
     </card>
     <card>
+      <name>Omendancer</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>0/0</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>You may have Omendancer enter as a copy of a creature you control or a Curse you control. (If it copies a double-faced permanent, it can’t transform.)</text>
+    </card>
+    <card>
       <name>Severed Hands</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -1010,6 +1153,40 @@ Flying
 When Morkrut Gryff dies, surveil 1, then draw a card. (To surveil 1, look at the top card of your library. You may put that card into your graveyard.)</text>
     </card>
     <card>
+      <name>Drunau Egg</name>
+      <set rarity="uncommon" splitterPath="/Drunau Egg.png" >INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Leviathan Egg </type>
+        <maintype>Creature</maintype>
+        <pt>0/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+When Drunau Egg enters, target player mills two cards.
+At the beginning of each end step, if an opponent has thirteen or more cards in their graveyard, transform Drunau Egg.
+---
+(Back): Drunau Engulfer</text>
+      <related attach="transform">Drunau Engulfer</related>
+    </card>
+    <card>
+      <name>Drunau Engulfer</name>
+      <set rarity="uncommon" splitterPath="/Drunau Engulfer.png" >INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Leviathan </type>
+        <pt>13/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+---
+(Front): Drunau Egg</text>
+    </card>
+    <card>
       <name>Braineater Abominus</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -1039,6 +1216,55 @@ Whenever a creature you control deals combat damage to a player, exile the top c
 • Counter target spell or triggered ability.
 • Target player draws two cards, then discards a card.
 • Tap target creature and put three stun counters on it.</text>
+    </card>
+    <card>
+      <name>Curse of the Tattletale</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura Curse </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant player
+Whenever Curse of the Tattletale or another Curse becomes attached to enchanted player, each of their opponents draws a card.</text>
+    </card>
+    <card>
+      <name>Havengul Banshee</name>
+      <set rarity="uncommon" splitterPath="/Havengul Banshee.png" >INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Havengul Banshee attacks, each creature defending player controls gets -1/-0 until end of turn.
+3U: Return Havengul Banshee from your graveyard to the battlefield transformed under your control attached to target opponent. Activate only as a sorcery.
+---
+(Back): Curse of the Banshee</text>
+      <related attach="transform">Curse of the Banshee</related>
+    </card>
+    <card>
+      <name>Curse of the Banshee</name>
+      <set rarity="uncommon" splitterPath="/Curse of the Banshee.png" >INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura Curse </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant player
+Creatures enchanted player controls get -1/-0.
+If Curse of Curse of the Banshee would be put into a graveyard from the battlefield, exile it instead.
+---
+(Front): Havengul Banshee</text>
     </card>
     <card>
       <name>Shackled Memories</name>
@@ -1128,7 +1354,7 @@ Whenever a Kraken, Leviathan, Octopus, or Serpent you control deals combat damag
       </prop>
       <tablerow>3</tablerow>
       <text>You may reveal a creature card with flying you own from outside the game and put it into your hand.
-Flashback—2U or Tap two untapped blue creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback—2U or Tap two untapped blue creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)</text>
     </card>
     <card>
       <name>Paranormal Convergence</name>
@@ -1168,6 +1394,40 @@ Whenever you cast an instant or sorcery spell, Parabolic Predator deals 3 damage
 (Front): Paranormal Convergence</text>
     </card>
     <card>
+      <name>Undercroft Portal</name>
+      <set rarity="rare" splitterPath="/Undercroft Portal.png" >INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Undercroft Portal enters with four barrier counters on it.
+Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, draw a card and remove a barrier counter from Undercroft Portal. Then if it has no barrier counters 
+on it, transform it.
+---
+(Back): Unleashed Mindboggler</text>
+      <related attach="transform">Unleashed Mindboggler</related>
+    </card>
+    <card>
+      <name>Unleashed Mindboggler</name>
+      <set rarity="rare" splitterPath="/Unleashed Mindboggler.png" >INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Horror </type>
+        <pt>6/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>If you would draw one or more cards, draw that many cards plus one instead.
+When Unleashed Mindboggler dies, return it to the battlefield (front face up).
+---
+(Front): Undercroft Portal</text>
+    </card>
+    <card>
       <name>Curse of the Breathless</name>
       <set rarity="rare">INM</set>
       <prop>
@@ -1198,6 +1458,21 @@ Enchanted player can’t cast spells during their opponents’ turns.
 Whenever enchanted player casts a spell from anywhere other than exile, exile that spell. At the beginning of that player’s next upkeep, they may cast that card without paying its mana cost.</text>
     </card>
     <card>
+      <name>Nervewing Skaab</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {2}
+Whenever Nervewing Skaab enters, target instant or sorcery card in your graveyard with mana value 3 or less gains flashback {0} until end of turn. (You may cast that card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
       <name>Stitched Gargantua</name>
       <set rarity="mythic">INM</set>
       <prop>
@@ -1212,6 +1487,19 @@ Whenever enchanted player casts a spell from anywhere other than exile, exile th
       <text>You may cast spells from among cards you put into your graveyard from your library this turn.
 Whenever one or more cards leave your graveyard, create a tapped 2/2 black Zombie creature token.
 When Stitched Gargantua is put into your graveyard from your library, you may return it to your hand.</text>
+    </card>
+    <card>
+      <name>Occult Metamorphosis</name>
+      <set rarity="mythic">INM</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, create a token that’s a copy of target transformed permanent you control, except it has “This permanent can’t transform.”</text>
     </card>
     <card>
       <name>Fathom the Unfathomable</name>
@@ -1258,6 +1546,35 @@ When Contagious Ghoul dies, target creature an opponent controls gets -1/-1 unti
 When Mirrorfright enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
     </card>
     <card>
+      <name>Crypt Viper</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Snake </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Deathtouch</text>
+    </card>
+    <card>
+      <name>Markov Fencer</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2W: Markov Fencer gains first strike until end of turn. You gain 1 life.</text>
+    </card>
+    <card>
       <name>Falkenrath Ordainer</name>
       <set rarity="common">INM</set>
       <prop>
@@ -1274,6 +1591,39 @@ Ward—Pay 2 life. (Whenever this creature becomes the target of a spell or abil
 Falkenrath Ordainer has lifelink as long as you control a token.</text>
     </card>
     <card>
+      <name>Lone Zombie</name>
+      <set rarity="common" splitterPath="/Lone Zombie.png" >INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+When Lone Zombie and two other creatures attack, transform Lone Zombie.
+---
+(Back): Zombie Legion</text>
+      <related attach="transform">Zombie Legion</related>
+    </card>
+    <card>
+      <name>Zombie Legion</name>
+      <set rarity="common" splitterPath="/Zombie Legion.png" >INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+---
+(Front): Lone Zombie</text>
+    </card>
+    <card>
       <name>Acolyte of Griselbrand</name>
       <set rarity="common">INM</set>
       <prop>
@@ -1287,6 +1637,50 @@ Falkenrath Ordainer has lifelink as long as you control a token.</text>
       <tablerow>2</tablerow>
       <text>Foreshadow 4B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
 When Acolyte of Griselbrand dies, you draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Undead Servant</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Undead Servant enters, create a 2/2 black Zombie creature token for each card named Undead Servant in your graveyard.</text>
+    </card>
+    <card>
+      <name>Dread Elk</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Elk </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Foreshadow 5B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Dread Elk dies, put a +1/+1 counter on target creature you control. If that creature is a Zombie, put two +1/+1 counters on it instead.</text>
+    </card>
+    <card>
+      <name>Shilgengar&apos;s Harvester</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+{3}, Sacrifice another creature: Draw a card. Activate only as a sorcery.</text>
     </card>
     <card>
       <name>It Came from the Bog</name>
@@ -1331,7 +1725,7 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
 2B, {T}: Target Zombie you control gains menace until end of turn.</text>
     </card>
     <card>
-      <name>Curse of Opened Tombs</name>
+      <name>Curse of the Unburied</name>
       <set rarity="common">INM</set>
       <prop>
         <colors>B</colors>
@@ -1342,8 +1736,22 @@ Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, 
       </prop>
       <tablerow>1</tablerow>
       <text>Enchant player
-When Curse of Opened Tombs enters, return up to two target creature cards from your graveyard to your hand.
+When Curse of the Unburied enters, return up to two target creature cards from your graveyard to your hand.
 Whenever a land enchanted player controls enters, they lose 1 life.</text>
+    </card>
+    <card>
+      <name>Undead Hex</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -X/-X until end of turn, where X is 2 plus the number of cards named Undead Servant in your graveyard.
+As long as this card is in your graveyard, its name is Undead Servant.</text>
     </card>
     <card>
       <name>Drain Youth</name>
@@ -1428,6 +1836,40 @@ Target creature gets -13/-13 until end of turn. If that creature would die this 
 3BB, Exile Bone Lich from your graveyard: Return another target creature card from your graveyard to the battlefield tapped. Activate only as a sorcery.</text>
     </card>
     <card>
+      <name>Dowager of Traublassen</name>
+      <set rarity="uncommon" splitterPath="/Dowager of Traublassen.png" >INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Noble </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature dies, target opponent loses 1 life and you gain 1 life.
+At the beginning of each end step, if you gained 3 or more life this turn, transform Dowager of Traublassen.
+---
+(Back): Despot of Traublassen</text>
+      <related attach="transform">Despot of Traublassen</related>
+    </card>
+    <card>
+      <name>Despot of Traublassen</name>
+      <set rarity="uncommon" splitterPath="/Despot of Traublassen.png" >INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire </type>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever another creature dies, target opponent loses 1 life and you gain 1 life. Put a +1/+1 counter on Despot of Traublassen.
+---
+(Front): Dowager of Traublassen</text>
+    </card>
+    <card>
       <name>Vespercloak Vampire</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -1459,6 +1901,21 @@ Whenever Diregraf Crawler deals combat damage to a player, that player discards 
 Whenever one or more cards leave your graveyard, put a +1/+1 counter on Diregraf Crawler.</text>
     </card>
     <card>
+      <name>Undead Necromancer</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Undead Necromancer enters, search your library for a card, put that card into your graveyard, then shuffle.
+As long as this card is in your graveyard, its name is Undead Servant.</text>
+    </card>
+    <card>
       <name>Grim Raven of Wesgoth</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -1475,6 +1932,21 @@ Flying, deathtouch
 When Grim Raven of Wesgoth dies, return target non-Bird creature card from your graveyard to your hand.</text>
     </card>
     <card>
+      <name>Plague Herald</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Goat </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Zombies you control get +1/+1.
+Whenever Plague Herald or another Zombie enters under your control, target creature you control gains deathtouch until end of turn.</text>
+    </card>
+    <card>
       <name>Umbersteed</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -1487,8 +1959,40 @@ When Grim Raven of Wesgoth dies, return target non-Bird creature card from your 
       </prop>
       <tablerow>2</tablerow>
       <text>Foreshadow 5BB (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
-Lifelink
 When Umbersteed dies, target creature an opponent controls gets -4/-4 until end of turn.</text>
+    </card>
+    <card>
+      <name>Carnage Throne</name>
+      <set rarity="uncommon" splitterPath="/Carnage Throne.png" >INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}, Sacrifice a creature: Draw a card. Activate only as a sorcery.
+Whenever you sacrifice a creature, put a corpse counter on Carnage Throne. Then if it has three or more corpse counters on it, remove them all and transform it.
+---
+(Back): Carnage Demon</text>
+      <related attach="transform">Carnage Demon</related>
+    </card>
+    <card>
+      <name>Carnage Demon</name>
+      <set rarity="uncommon" splitterPath="/Carnage Demon.png" >INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Demon </type>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When this permanent transforms into Carnage Demon, each opponent sacrifices a creature.
+---
+(Front): Carnage Throne</text>
     </card>
     <card>
       <name>Skirsdag Edict</name>
@@ -1508,6 +2012,34 @@ When Umbersteed dies, target creature an opponent controls gets -4/-4 until end 
 Flashback—4B, Discard a card. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
+      <name>Malicious Eclipse</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>All creatures get -2/-2 until end of turn. If a creature an opponent controls would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Curse of Nightmares</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment - Aura Curse </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant player
+When Curse of Nightmares enters, destroy target creature or planeswalker enchanted player controls.
+Whenever enchanted player draws a card, they lose 1 life and you gain 1 life.</text>
+    </card>
+    <card>
       <name>Death Undone</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -1518,38 +2050,8 @@ Flashback—4B, Discard a card. (You may cast this card from your graveyard for 
         <maintype>Sorcery</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Return target creature card from your graveyard to the battlefield. If this spell was cast from a graveyard, you lose life equal to that creature’s mana value.
-Flashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-    </card>
-    <card>
-      <name>Nervewing Skaab</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>2UU</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Zombie Horror </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying, ward {2}
-Whenever Nervewing Skaab enters or attacks, target instant or sorcery card in your graveyard with mana value 3 or less gains flashback {0} until end of turn. (You may cast that card from your graveyard for its flashback cost. Then exile it.)</text>
-    </card>
-    <card>
-      <name>Sword of the Heavens</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2WW</manacost>
-        <cmc>4</cmc>
-        <type>Artifact - Equipment </type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>When Sword of the Heavens enters, attach it to target creature you control.
-Equipped creature gets +2/+2 and has flying, vigilance, and “Whenever this creature attacks, you may search your library and/or graveyard for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.”
-Equip {3}</text>
+      <text>Return target creature card from your graveyard to the battlefield.
+Flashback 1BB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
       <name>Oswin, Skirsdag Diabolist</name>
@@ -1683,7 +2185,7 @@ Invocation — Whenever you spend four or more mana to cast a spell or activate 
       </prop>
       <tablerow>3</tablerow>
       <text>Choose target card in a graveyard other than a basic land card. Search its owner’s graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles.
-Flashback—2B or Tap two untapped black creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback—2B or Tap two untapped black creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)</text>
     </card>
     <card>
       <name>Left for Dead</name>
@@ -1698,6 +2200,20 @@ Flashback—2B or Tap two untapped black creatures you control. (You may cast th
       <tablerow>1</tablerow>
       <text>When Left for Dead enters, create four 1/1 red Human Survivor creature tokens. Those tokens gain haste until end of turn.
 At the beginning of your end step, sacrifice a Survivor. If you do, draw a card. Then if you control no Survivors, sacrifice Left for Dead.</text>
+    </card>
+    <card>
+      <name>Dark Ascension</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BBB</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Dark Ascension enters, if it was cast, all creatures gets -13/-13 until end of turn.
+Whenever you cast a black spell, Dark Ascension deals X damage to any target and you gain X life, where X is the number of black mana symbols in that spell’s mana cost.</text>
     </card>
     <card>
       <name>Curse of Fangs</name>
@@ -1715,6 +2231,129 @@ When Curse of Fangs enters, gain control of target creature enchanted player con
 Creatures attacking enchanted player have lifelink.</text>
     </card>
     <card>
+      <name>Sorin, Vampire Maverick</name>
+      <set rarity="mythic">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2BB</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Planeswalker - Sorin </type>
+        <maintype>Planeswalker</maintype>
+      <loyalty>4</loyalty>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>[+1]: Draw a card. Each player loses 1 life.
+[-2]: Create two 1/1 black Bat creature tokens with flying and lifelink.
+[-3]: Target creature gets -13/-13 until end of turn. You control abilities of that creature that trigger this turn.</text>
+    </card>
+    <card>
+      <name>Wurgelurg</name>
+      <set rarity="mythic">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BBB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Avatar Horror </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Foreshadow 7BB (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Wurgelurg dies, each opponent discards three cards, sacrifices three creatures, and loses 3 life. You draw three cards, create three tapped 2/2 black Zombie creature tokens, and gain 3 life.</text>
+    </card>
+    <card>
+      <name>Archdemon Shilgengar</name>
+      <set rarity="mythic">INM</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>6BBBB</manacost>
+        <cmc>10</cmc>
+        <type>Legendary Creature - Elder Demon </type>
+        <maintype>Creature</maintype>
+        <pt>8/8</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink
+When Archdemon Shilgengar enters, put all creature cards from all graveyards onto the battlefield under your control with a finality counter on each of them. They’re Vampires in addition to their other types.</text>
+    </card>
+    <card>
+      <name>Embercut Duelist</name>
+      <set rarity="common" splitterPath="/Embercut Duelist.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Soldier Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+1R: Transform Embercut Duelist. Activate only if it’s attacking.
+---
+(Back): Emberslash Werewolf</text>
+      <related attach="transform">Emberslash Werewolf</related>
+    </card>
+    <card>
+      <name>Emberslash Werewolf</name>
+      <set rarity="common" splitterPath="/Emberslash Werewolf.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+At the beginning of your end step, if Emberslash Werewolf didn’t attack this turn, transform it.
+---
+(Front): Embercut Duelist</text>
+    </card>
+    <card>
+      <name>Torch Reveler</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Devil </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Torch Reveler gets +2/+0 as long as you control an artifact.</text>
+    </card>
+    <card>
+      <name>Affluent Host</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Noble </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Foreshadow 2R (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Affluent Host dies, it deals 1 damage to each opponent. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
+    </card>
+    <card>
+      <name>Stromkirk Sangromancer</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an instant, sorcery, or Curse spell, Stromkirk Sangromancer deals 1 damage to each opponent.</text>
+    </card>
+    <card>
       <name>Skirsdag Ritualist</name>
       <set rarity="common">INM</set>
       <prop>
@@ -1727,6 +2366,115 @@ Creatures attacking enchanted player have lifelink.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Whenever Skirsdag Ritualist attacks, exile the top card of your library. You may play that card this turn.</text>
+    </card>
+    <card>
+      <name>Volatile Alchemist</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+2U: Volatile Alchemist gains vigilance until end of turn and can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Voldaren Crypt-Guard</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Voldaren Crypt-Guard enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)</text>
+    </card>
+    <card>
+      <name>Troublesome Throng</name>
+      <set rarity="common" splitterPath="/Troublesome Throng.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+3R: Transform Troublesome Throng. Activate only if it’s attacking.
+---
+(Back): Vartrossen Vandals</text>
+      <related attach="transform">Vartrossen Vandals</related>
+    </card>
+    <card>
+      <name>Vartrossen Vandals</name>
+      <set rarity="common" splitterPath="/Vartrossen Vandals.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+At the beginning of your end step, if Vartrossen Vandals didn’t attack this turn, transform it.
+---
+(Front): Troublesome Throng</text>
+    </card>
+    <card>
+      <name>Falkenrath Fletcher</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire Archer </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Falkenrath Fletcher enters, if an opponent lost life this turn, create a 1/1 black and red Vampire creature token with menace.</text>
+    </card>
+    <card>
+      <name>Stensia Cavalcade</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Vampire Knight </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Stensia Cavalcade enters, create two Weapon tokens. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)</text>
+    </card>
+    <card>
+      <name>Crater Thing</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental Horror </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Crater Thing enters, it deals 3 damage to up to one target creature or planeswalker.
+Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Alchemist&apos;s Grimoire</name>
@@ -1757,7 +2505,7 @@ Creatures attacking enchanted player have lifelink.</text>
 Flashback 6G (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
-      <name>Crave for Blood</name>
+      <name>Suffer the Blade</name>
       <set rarity="common">INM</set>
       <prop>
         <colors>R</colors>
@@ -1767,7 +2515,20 @@ Flashback 6G (You may cast this card from your graveyard for its flashback cost.
         <maintype>Instant</maintype>
       </prop>
       <tablerow>3</tablerow>
-      <text>Crave for Blood deals 3 damage to target creature or planeswalker. Crave for Blood also deals 2 damage to that permanent’s controller if you control a Vampire.</text>
+      <text>Target creature you control gets +2/+0 and gains first strike until end of turn. If you control an artifact, draw a card.</text>
+    </card>
+    <card>
+      <name>Vampiric Vice</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Vampiric Vice deals 3 damage to target creature or planeswalker. Vampiric Vice also deals 2 damage to that permanent’s controller if you control a Vampire.</text>
     </card>
     <card>
       <name>Curse of the Vein</name>
@@ -1844,6 +2605,74 @@ Choose one —
 • Exile target artifact.</text>
     </card>
     <card>
+      <name>Voldaren Heartslicer</name>
+      <set rarity="uncommon" splitterPath="/Voldaren Heartslicer.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Vampire Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Attacking creatures you control get +1/+0.
+2R: Return Voldaren Heartslicer from your graveyard to the battlefield transformed under your control attached to target opponent. Activate only as a sorcery.
+---
+(Back): Curse of Incurable Wounds</text>
+      <related attach="transform">Curse of Incurable Wounds</related>
+    </card>
+    <card>
+      <name>Curse of Incurable Wounds</name>
+      <set rarity="uncommon" splitterPath="/Curse of Incurable Wounds.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura Curse </type>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant player
+Creatures attacking enchanted player get +1/+0.
+If Curse of Incurable Wounds would be put into a graveyard from the battlefield, exile it instead.
+---
+(Front): Voldaren Heartslicer</text>
+    </card>
+    <card>
+      <name>Kessig Jeweler</name>
+      <set rarity="uncommon" splitterPath="/Kessig Jeweler.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Artificer Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Kessig Jeweler attacks, you may discard a card. If you do, draw a card.
+1R: Transform Kessig Jeweler. Activate only if it’s attacking.
+---
+(Back): Kessig Tombrobber</text>
+      <related attach="transform">Kessig Tombrobber</related>
+    </card>
+    <card>
+      <name>Kessig Tombrobber</name>
+      <set rarity="uncommon" splitterPath="/Kessig Tombrobber.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>2</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>At the beginning of your first main phase, you may discard a card. If you do, draw a card and create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
+At the beginning of your end step, if Kessig Tombrobber didn’t attack this turn, transform it.
+---
+(Front): Kessig Jeweler</text>
+    </card>
+    <card>
       <name>Hellfreaks</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -1860,6 +2689,55 @@ Hellfreaks gets +1/+0 for each Curse you control.
 Hellfreaks gets +1/+0 for each instant and sorcery card you own in exile and in your graveyard.</text>
     </card>
     <card>
+      <name>Hanweir Miscreant</name>
+      <set rarity="uncommon" splitterPath="/Hanweir Miscreant.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Rebel Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Hanweir Miscreant can’t be blocked by creature tokens.
+2R: Transform Hanweir Miscreant. Activate only if it’s attacking.
+---
+(Back): Garrison Intruder</text>
+      <related attach="transform">Garrison Intruder</related>
+    </card>
+    <card>
+      <name>Garrison Intruder</name>
+      <set rarity="uncommon" splitterPath="/Garrison Intruder.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Creatures you control can’t be blocked by creature tokens and/or creatures with defender.
+At the beginning of your end step, if Garrison Intruder didn’t attack this turn, transform it.
+---
+(Front): Hanweir Miscreant</text>
+    </card>
+    <card>
+      <name>Irascible Bloodwitch</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Vampire Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Vampires you control get +1/+1.
+Whenever Irascible Bloodwitch or another Vampire enters under your control, Irascible Bloodwitch deals 1 damage to any target.</text>
+    </card>
+    <card>
       <name>Obsidian Hellkite</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -1874,6 +2752,21 @@ Hellfreaks gets +1/+0 for each instant and sorcery card you own in exile and in 
       <text>Foreshadow 4RR (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
 Flying
 When Obsidian Hellkite dies, it deals 2 damage to up to one target creature or planeswalker. If that permanent would die this turn, exile it instead.</text>
+    </card>
+    <card>
+      <name>Surfacing Horripede</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4R</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Insect Horror </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace, reach
+When Surfacing Horripede enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
     </card>
     <card>
       <name>Curse of the Hunter&apos;s Moon</name>
@@ -1901,7 +2794,7 @@ Whenever enchanted player is attacked, the attacking player adds {R}. Until end 
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Silvershot Crossbow enters, it deals 3 damage to target creature an opponent controls. If that creature is tapped, Silvershot Crossbow deals 13 damage to it instead.
+      <text>When Silvershot Crossbow enters, it deals 3 damage to target creature an opponent controls. If that creature is transformed, Silvershot Crossbow deals 13 damage to it instead.
 Equipped creature has reach and “{T}: This creature deals 1 damage to each opponent.”
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
     </card>
@@ -1933,6 +2826,82 @@ Whenever one or more creatures deal combat damage to enchanted player, you creat
       <tablerow>3</tablerow>
       <text>Exile the top three cards of your library. Until the end of your next turn, you may play those cards. If this spell was cast from a graveyard, you may play cards this way without paying their mana costs.
 Flashback 7R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Dance with Devils</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create two 1/1 red Devil creature tokens. They have “When this creature dies, it deals 1 damage to any target.”</text>
+    </card>
+    <card>
+      <name>Clash at Geier Reach</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Clash at Geier Reach deals 2 damage to each opponent and each creature and planeswalker they control.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    </card>
+    <card>
+      <name>Fangs of Wesgoth</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Vampire Assassin </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Fangs of Wesgoth deals combat damage to a player, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)
+As long as you control three or more artifacts, Fangs of Wesgoth has menace.</text>
+    </card>
+    <card>
+      <name>Leyran Spellchainer</name>
+      <set rarity="rare" splitterPath="/Leyran Spellchainer.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Wizard Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Leyran Spellchainer enters, return target instant or sorcery card from your graveyard to your hand.
+2R: Transform Leyran Spellchainer. Activate only if it’s attacking.
+---
+(Back): Leyran Spellclaw</text>
+      <related attach="transform">Leyran Spellclaw</related>
+    </card>
+    <card>
+      <name>Leyran Spellclaw</name>
+      <set rarity="rare" splitterPath="/Leyran Spellclaw.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>4</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you cast an instant or sorcery spell, you may copy it and you may choose new targets for the copy. Do this only once each turn.
+At the beginning of your end step, if Leyran Spellclaw didn’t attack this turn, transform it.
+---
+(Front): Leyran Spellchainer</text>
     </card>
     <card>
       <name>Charging Commando</name>
@@ -1968,6 +2937,42 @@ Flashback 7R (You may cast this card from your graveyard for its flashback cost.
 (Front): Charging Commando</text>
     </card>
     <card>
+      <name>Pyromantic Duo</name>
+      <set rarity="rare" splitterPath="/Pyromantic Duo.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shaman Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Your opponents can’t gain life.
+If a source you control would deal damage to an opponent, it deals that much damage plus 1 instead.
+3R: Transform Pyromantic Duo. Activate only if it’s attacking.
+---
+(Back): Mayhem Tandem</text>
+      <related attach="transform">Mayhem Tandem</related>
+    </card>
+    <card>
+      <name>Mayhem Tandem</name>
+      <set rarity="rare" splitterPath="/Mayhem Tandem.png" >INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost></manacost>
+        <cmc>3</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Your opponents can’t gain life.
+If a source you control would deal damage to an opponent, it deals twice that much damage instead.
+At the beginning of your end step, if Mayhem Tandem didn’t attack this turn, transform it.
+---
+(Front): Pyromantic Duo</text>
+    </card>
+    <card>
       <name>Tallowkeep</name>
       <set rarity="rare">INM</set>
       <prop>
@@ -1983,6 +2988,21 @@ Flashback 7R (You may cast this card from your graveyard for its flashback cost.
 Tallowkeep enters with two wax counters on it.
 Whenever Tallowkeep attacks, remove a wax counter from it. Then if Tallowkeep has no wax counters on it, sacrifice it.
 Whenever another artifact you control enters, put a wax counter on Tallowkeep.</text>
+    </card>
+    <card>
+      <name>Infernal Direwolf</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Elemental Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+When Infernal Direwolf enters, it fights up to one target creature an opponent controls. Excess damage Infernal Direwolf deals this way is dealt to that creature’s controller instead.</text>
     </card>
     <card>
       <name>Welcome to the Ashmouth</name>
@@ -2026,7 +3046,7 @@ Whenever enchanted player is attacked, the attacking player creates a token that
       </prop>
       <tablerow>3</tablerow>
       <text>Discard your hand, then draw three cards. You can’t cast more spells this turn.
-Flashback—2R or Tap two untapped red creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback—2R or Tap two untapped red creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)</text>
     </card>
     <card>
       <name>Volcanic Malignus</name>
@@ -2072,125 +3092,6 @@ Whenever Marzela Falkenrath deals combat damage to a player, create a 1/1 black 
       </prop>
       <tablerow>3</tablerow>
       <text>Starting with the next opponent in turn order, each player sacrifices a permanent. Repeat this process until the total mana value of all permanents sacrificed this way is 13 or greater, or until thirteen or more permanents have been sacrificed this way, or until there are only lands on the battlefield. Exile Utter Pandemonium.</text>
-    </card>
-    <card>
-      <name>Affluent Host</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Vampire Noble </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Foreshadow 2R (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
-When Affluent Host dies, it deals 1 damage to each opponent. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)</text>
-    </card>
-    <card>
-      <name>Kessig Jeweler</name>
-      <set rarity="uncommon" splitterPath="/Kessig Jeweler.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Human Artificer Werewolf </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever Kessig Jeweler attacks, you may discard a card. If you do, draw a card.
-1R: Transform Kessig Jeweler. Activate only if it’s attacking.
----
-(Back): Kessig Tombrobber</text>
-      <related attach="transform">Kessig Tombrobber</related>
-    </card>
-    <card>
-      <name>Kessig Tombrobber</name>
-      <set rarity="uncommon" splitterPath="/Kessig Tombrobber.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost></manacost>
-        <cmc>2</cmc>
-        <type>Creature - Werewolf </type>
-        <pt>3/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>At the beginning of your first main phase, you may discard a card. If you do, draw a card and create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)
-At the beginning of your end step, if Kessig Tombrobber didn’t attack this turn, transform it.
----
-(Front): Kessig Jeweler</text>
-    </card>
-    <card>
-      <name>Leyran Spellchainer</name>
-      <set rarity="rare" splitterPath="/Leyran Spellchainer.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>2RR</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Human Wizard Werewolf </type>
-        <maintype>Creature</maintype>
-        <pt>3/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Leyran Spellchainer enters, return target instant or sorcery card from your graveyard to your hand.
-2R: Transform Leyran Spellchainer. Activate only if it’s attacking.
----
-(Back): Leyran Spellclaw</text>
-      <related attach="transform">Leyran Spellclaw</related>
-    </card>
-    <card>
-      <name>Leyran Spellclaw</name>
-      <set rarity="rare" splitterPath="/Leyran Spellclaw.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost></manacost>
-        <cmc>4</cmc>
-        <type>Creature - Werewolf </type>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever you cast an instant or sorcery spell, you may copy it and you may choose new targets for the copy. Do this only once each turn.
-At the beginning of your end step, if Leyran Spellclaw didn’t attack this turn, transform it.
----
-(Front): Leyran Spellchainer</text>
-    </card>
-    <card>
-      <name>Pyromantic Duo</name>
-      <set rarity="rare" splitterPath="/Pyromantic Duo.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1RR</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Shaman Werewolf </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Your opponents can’t gain life.
-If a source you control would deal damage to an opponent, it deals that much damage plus 1 instead.
-3R: Transform Pyromantic Duo. Activate only if it’s attacking.
----
-(Back): Mayhem Tandem</text>
-      <related attach="transform">Mayhem Tandem</related>
-    </card>
-    <card>
-      <name>Mayhem Tandem</name>
-      <set rarity="rare" splitterPath="/Mayhem Tandem.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost></manacost>
-        <cmc>3</cmc>
-        <type>Creature - Werewolf </type>
-        <pt>3/5</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Your opponents can’t gain life.
-If a source you control would deal damage to an opponent, it deals twice that much damage instead.
-At the beginning of your end step, if Mayhem Tandem didn’t attack this turn, transform it.
----
-(Front): Pyromantic Duo</text>
     </card>
     <card>
       <name>Creep of the Crop</name>
@@ -2273,6 +3174,21 @@ At the beginning of your end step, if Somberwald Slaughterer didn’t attack thi
 When Lambholt Tracker dies, exile up to one target card from a graveyard.</text>
     </card>
     <card>
+      <name>Banewidow</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spider </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+2B: Each opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
       <name>Desperate Botanist</name>
       <set rarity="common" splitterPath="/Desperate Botanist.png" >INM</set>
       <prop>
@@ -2321,6 +3237,21 @@ When Lambholt Tracker dies, exile up to one target card from a graveyard.</text>
 When Kessig Woodcutter dies, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)</text>
     </card>
     <card>
+      <name>Grizzled Parish-Blade</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Grizzled Parish-Blade gets +3/+0 as long as you control an artifact and an enchantment.</text>
+    </card>
+    <card>
       <name>Killer Scorpion</name>
       <set rarity="common">INM</set>
       <prop>
@@ -2365,6 +3296,22 @@ When Orchard Overseer dies, you gain 3 life.</text>
       <tablerow>2</tablerow>
       <text>When Prowling Wolf enters, you may sacrifice another creature. If you do, draw a card and you gain 2 life.
 Whenever another creature you control dies, put a +1/+1 counter on Prowling Wolf.</text>
+    </card>
+    <card>
+      <name>Terror of the Ulvenwald</name>
+      <set rarity="common">INM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Insect Horror </type>
+        <maintype>Creature</maintype>
+        <pt>4/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Terror of the Ulvenwald enters, target creature gets +3/+3 until end of turn.
+Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand, then shuffle.)</text>
     </card>
     <card>
       <name>Moldgraf Wurm</name>
@@ -2483,6 +3430,41 @@ Enchanted land has “{T}: Add two mana of any one color.”</text>
 {T}: Add {G}.</text>
     </card>
     <card>
+      <name>Adderblade Exterminator</name>
+      <set rarity="uncommon" splitterPath="/Adderblade Exterminator.png" >INM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Assassin Werewolf </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+2G: Transform Adderblade Exterminator. Activate only if it’s attacking.
+---
+(Back): Addermark Eviscerator</text>
+      <related attach="transform">Addermark Eviscerator</related>
+    </card>
+    <card>
+      <name>Addermark Eviscerator</name>
+      <set rarity="uncommon" splitterPath="/Addermark Eviscerator.png" >INM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>1</cmc>
+        <type>Creature - Werewolf </type>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Whenever Addermark Eviscerator deals combat damage to a player, draw a card.
+At the beginning of your end step, if Addermark Eviscerator didn’t attack this turn, transform it.
+---
+(Front): Adderblade Exterminator</text>
+    </card>
+    <card>
       <name>Gavony Cavaliers</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -2499,6 +3481,21 @@ Whenever Gavony Cavaliers attacks, create a Weapon token. (It’s an Equipment a
 Creatures you control that are enchanted or equipped have trample.</text>
     </card>
     <card>
+      <name>Brambleswine</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Boar </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Foreshadow 4G (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
+When Brambleswine dies, create a 2/2 green Wolf creature token.</text>
+    </card>
+    <card>
       <name>Cabin Golem</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -2511,6 +3508,21 @@ Creatures you control that are enchanted or equipped have trample.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, reveal the top three cards of your library. You may put a creature card from among them into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Hungering Howlpack</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Wolves and Werewolves you control get +1/+1.
+Whenever Hungering Howlpack or another Wolf or Werewolf you control enters, you gain 2 life.</text>
     </card>
     <card>
       <name>Treeline Archer</name>
@@ -2783,7 +3795,7 @@ When Ursagore dies, draw a card.</text>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample
-When Vartrossen Primalist enters, target creature you control fights up to one other target creature you don’t control. (Each deals damage equal to its power to the other.)
+When Vartrossen Primalist enters, target creature you control fights up to one target creature you don’t control. (Each deals damage equal to its power to the other.)
 4G: Transform Vartrossen Primalist. Activate only if it’s attacking.
 ---
 (Back): Vartrossen Packleader</text>
@@ -2869,7 +3881,7 @@ Landfall — Whenever a land you control enters, draw a card.
       </prop>
       <tablerow>3</tablerow>
       <text>Search your library for up to two Forest cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.
-Flashback—2G or Tap two untapped green creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback—2G or Tap two untapped green creatures you control. (You may cast this card from your graveyard for either of its flashback costs. Then exile it.)</text>
     </card>
     <card>
       <name>Prayers for the Hunted</name>
@@ -3032,6 +4044,21 @@ As long as Heron’s Grace Patrol is enchanted or equipped, it gets +1/+1 and ha
 Whenever you attack with three or more creatures, each opponent loses 1 and you gain 1 life.</text>
     </card>
     <card>
+      <name>Malevolus</name>
+      <set rarity="uncommon">INM</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>6UR</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Elemental Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {2} less to cast for each Curse you control.
+Flying, vigilance, haste</text>
+    </card>
+    <card>
       <name>Garden Ghoul</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -3084,11 +4111,11 @@ Invocation — Whenever you spend four or more mana to cast a spell or activate 
         <cmc>4</cmc>
         <type>Legendary Creature - Angel </type>
         <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Flash
-Flying, vigilance
+Flying
 When Bruna, Shepherd of Souls enters, exile target noncreature spell or ability. Then exile its controller’s graveyard.</text>
     </card>
     <card>
@@ -3103,7 +4130,7 @@ When Bruna, Shepherd of Souls enters, exile target noncreature spell or ability.
         <pt>2/8</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Whenever Drownyard Colossus or another creature you control enters, any number of target player each mill cards equal to that creature’s toughness.
+      <text>Whenever Drownyard Colossus or another creature you control enters, any number of target players each mill cards equal to that creature’s toughness.
 2UB, {T}: Draw a card, then create a 0/3 blue Crab creature token with “{T}: Target player mills a card.”</text>
     </card>
     <card>
@@ -3223,6 +4250,21 @@ Once during each of your turns, you may cast a double-faced spell you own from o
 You may spend mana as though it were mana of any color to cast double-faced spells or activate abilities of double-faced sources.</text>
     </card>
     <card>
+      <name>Gisela, Blade of Morning</name>
+      <set rarity="rare">INM</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RWW</manacost>
+        <cmc>4</cmc>
+        <type>Legendary Creature - Angel </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, first strike, haste
+Whenever you gain life, you may have Gisela, Blade of Morning deal that much damage to any target. Do this only once each turn.</text>
+    </card>
+    <card>
       <name>Makodonis&apos;s Wolfbro</name>
       <set rarity="rare">INM</set>
       <prop>
@@ -3244,7 +4286,7 @@ Whenever Makodonis’s Wolfbro attacks, if its power is greater than its base po
         <colors>WG</colors>
         <manacost>1GW</manacost>
         <cmc>3</cmc>
-        <type>Legendary Creature - God </type>
+        <type>Legendary Creature - Elk God </type>
         <maintype>Creature</maintype>
         <pt>6/6</pt>
       </prop>
@@ -3254,35 +4296,18 @@ Ghrin-Danu, the Dawnhart can’t attack or block unless you control three other 
 Whenever you attack, put a +1/+1 counter on up to one other target creature you control.</text>
     </card>
     <card>
-      <name>Edgar Markov, Bloodsire</name>
+      <name>Divine Decree</name>
       <set rarity="mythic">INM</set>
       <prop>
-        <colors>WBR</colors>
-        <manacost>4RWB</manacost>
-        <cmc>7</cmc>
-        <type>Legendary Creature - Vampire Knight </type>
-        <maintype>Creature</maintype>
-        <pt>5/5</pt>
+        <colors>WB</colors>
+        <manacost>3WB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
       </prop>
-      <tablerow>2</tablerow>
-      <text>First strike, haste
-Whenever Edgar Markov, Bloodsire attacks, exile the top four cards of your library. You may put a Vampire card from among them onto the battlefield tapped and attacking. You may play the rest until end of turn.</text>
-    </card>
-    <card>
-      <name>Polina Elgaud</name>
-      <set rarity="mythic">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>4WW</manacost>
-        <cmc>6</cmc>
-        <type>Legendary Planeswalker - Polina </type>
-        <maintype>Planeswalker</maintype>
-      <loyalty>5</loyalty>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>[+1]: Create a white enchantment token named Intangible Virtue. It has “Creature tokens you control get +1/+1 and have vigilance.”
-[-3]: Create a 4/4 white Angel creature token with flying. You gain life equal to the number of tokens you control.
-[-5]: Exile all other nonland, nontoken permanents.</text>
+      <tablerow>3</tablerow>
+      <text>Choose two nonland permanent types. Exile each permanent that’s at least one of the chosen types.
+Flashback 8WB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
     </card>
     <card>
       <name>Makodonis, Master of Form</name>
@@ -3297,7 +4322,7 @@ Whenever Edgar Markov, Bloodsire attacks, exile the top four cards of your libra
       </prop>
       <tablerow>1</tablerow>
       <text>If a creature entering causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
-[+1]: Target player draws two cards, then discards a card. Put a +1/+1 counter on up to one target creature you control.
+[+1]: Target player draws two cards, then discard a card. Put a +1/+1 counter on up to one target creature you control.
 [-3]: Create a token that’s a copy of target creature you control.
 [-8]: Return any number of target nonland permanents to their owner’s hand.</text>
     </card>
@@ -3315,6 +4340,21 @@ Whenever Edgar Markov, Bloodsire attacks, exile the top four cards of your libra
       <tablerow>2</tablerow>
       <text>Menace
 Whenever you cast a spell from your graveyard, The Selhoff Twins deals damage equal to that spell’s mana value to any target. Then copy that spell. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)</text>
+    </card>
+    <card>
+      <name>Edgar Markov, Bloodsire</name>
+      <set rarity="mythic">INM</set>
+      <prop>
+        <colors>WBR</colors>
+        <manacost>4RWB</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Vampire Knight </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike, haste
+Whenever Edgar Markov, Bloodsire attacks, exile the top four cards of your library. You may put a Vampire card from among them onto the battlefield tapped and attacking. You may play the rest until end of turn.</text>
     </card>
     <card>
       <name>Hunter&apos;s Arsenal</name>
@@ -3525,7 +4565,7 @@ When The Wickerscreech of Gatstaf dies, destroy target nonland permanent an oppo
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>When Helvault, Shard of the Moon enters, for each player, exile up to one target nonland permanent that player controls until Helvault, Shard of the Moon leaves the battlefield. When you exile a permanent you control this way, draw three cards.
+      <text>When Helvault, Shard of the Moon enters, for each player, exile up to one other target nonland permanent that player controls until Helvault, Shard of the Moon leaves the battlefield. When you exile a permanent you control this way, draw three cards.
 {T}: Add CCCCC.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
     </card>
@@ -3699,1117 +4739,6 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 {5}, {T}, Sacrifice Ghoulcaller’s Graf: Return up to two target creature cards from your graveyard to your hand.</text>
     </card>
     <card>
-      <name>Elgaud Fortress</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>0</cmc>
-        <type>Land</type>
-        <maintype>Land</maintype>
-      </prop>
-      <tablerow>0</tablerow>
-      <text>When Elgaud Fortress enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)
-{T}: Add {C}.
-{5}, {T}: Create a token that’s a copy of target artifact you control. This ability costs {3} less to activate if it targets a token. Activate only as a sorcery.</text>
-    </card>
-    <card>
-      <name>Divine Decree</name>
-      <set rarity="mythic">INM</set>
-      <prop>
-        <colors>WB</colors>
-        <manacost>3WB</manacost>
-        <cmc>5</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Choose two nonland permanent types. Exile all permanents that’s at least one of the chosen types.
-Flashback 8WB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-    </card>
-    <card>
-      <name>Hanweir Miscreant</name>
-      <set rarity="uncommon" splitterPath="/Hanweir Miscreant.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Rebel Werewolf </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Hanweir Miscreant can’t be blocked by creature tokens.
-2R: Transform Hanweir Miscreant. Activate only if it’s attacking.
----
-(Back): Garrison Intruder</text>
-      <related attach="transform">Garrison Intruder</related>
-    </card>
-    <card>
-      <name>Garrison Intruder</name>
-      <set rarity="uncommon" splitterPath="/Garrison Intruder.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost></manacost>
-        <cmc>3</cmc>
-        <type>Creature - Werewolf </type>
-        <pt>5/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Creatures you control can’t be blocked by creature tokens and/or creatures with defender.
-At the beginning of your end step, if Garrison Intruder didn’t attack this turn, transform it.
----
-(Front): Hanweir Miscreant</text>
-    </card>
-    <card>
-      <name>Dark Ascension</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>2BBB</manacost>
-        <cmc>5</cmc>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>When Dark Ascension enters, if it was cast, all creatures gets -13/-13 until end of turn.
-Whenever you cast a black spell, Dark Ascension deals X damage to any target and you gain X life, where X is the number of black mana symbols in that spell’s mana cost.</text>
-    </card>
-    <card>
-      <name>Curse of Nightmares</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>3B</manacost>
-        <cmc>4</cmc>
-        <type>Enchantment - Aura Curse </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant player
-When Curse of Nightmares enters, destroy target creature or planeswalker enchanted player controls.
-Whenever enchanted player draws a card, they lose 1 life and you gain 1 life.</text>
-    </card>
-    <card>
-      <name>Omendancer</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Shapeshifter </type>
-        <maintype>Creature</maintype>
-        <pt>0/0</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>You may have Omendancer enter as a copy of a creature you control or a Curse you control. (If it copies a double-faced permanent, it can’t transform.)</text>
-    </card>
-    <card>
-      <name>Unethical Research</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>U</manacost>
-        <cmc>1</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Surveil 1, then draw a card.
-Flashback—{B}, Pay 1 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-    </card>
-    <card>
-      <name>Memory Surgeon</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Human Wizard </type>
-        <maintype>Creature</maintype>
-        <pt>1/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>{T}: Add CC. Spend this mana only to activate abilities.
-{2}, {T}: Target player mills two cards.</text>
-    </card>
-    <card>
-      <name>Haunted Waif</name>
-      <set rarity="uncommon" splitterPath="/Haunted Waif.png" >INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Peasant </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Vigilance
-When you activate an ability of a Spirit you control or a Spirit card in your hand or graveyard, transform Haunted Waif.
----
-(Back): Geist Whisperer</text>
-      <related attach="transform">Geist Whisperer</related>
-    </card>
-    <card>
-      <name>Geist Whisperer</name>
-      <set rarity="uncommon" splitterPath="/Geist Whisperer.png" >INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost></manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Wizard </type>
-        <pt>3/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Vigilance
-When this creature transforms into Geist Whisperer, create two 1/1 white Spirit creature tokens with flying.
-At the beginning of each combat, untap all Spirits you control.
----
-(Front): Haunted Waif</text>
-    </card>
-    <card>
-      <name>Carnage Throne</name>
-      <set rarity="uncommon" splitterPath="/Carnage Throne.png" >INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>B</manacost>
-        <cmc>1</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{1}, {T}, Sacrifice a creature: Draw a card. Activate only as a sorcery.
-Whenever you sacrifice a creature, put a corpse counter on Carnage Throne. Then if it has three or more corpse counters on it, remove them all and transform it.
----
-(Back): Carnage Demon</text>
-      <related attach="transform">Carnage Demon</related>
-    </card>
-    <card>
-      <name>Carnage Demon</name>
-      <set rarity="uncommon" splitterPath="/Carnage Demon.png" >INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost></manacost>
-        <cmc>1</cmc>
-        <type>Creature - Demon </type>
-        <pt>6/6</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample
-When this permanent transforms into Carnage Demon, each opponent sacrifices a creature.
----
-(Front): Carnage Throne</text>
-    </card>
-    <card>
-      <name>Voldaren Crypt-Guard</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Vampire Warrior </type>
-        <maintype>Creature</maintype>
-        <pt>4/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Voldaren Crypt-Guard enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)</text>
-    </card>
-    <card>
-      <name>Troublesome Throng</name>
-      <set rarity="common" splitterPath="/Troublesome Throng.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Human Werewolf </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Menace
-3R: Transform Troublesome Throng. Activate only if it’s attacking.
----
-(Back): Vartrossen Vandals</text>
-      <related attach="transform">Vartrossen Vandals</related>
-    </card>
-    <card>
-      <name>Vartrossen Vandals</name>
-      <set rarity="common" splitterPath="/Vartrossen Vandals.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost></manacost>
-        <cmc>4</cmc>
-        <type>Creature - Werewolf </type>
-        <pt>6/5</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Menace
-At the beginning of your end step, if Vartrossen Vandals didn’t attack this turn, transform it.
----
-(Front): Troublesome Throng</text>
-    </card>
-    <card>
-      <name>Curse of the Tattletale</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
-        <type>Enchantment - Aura Curse </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant player
-Whenever Curse of the Tattletale or another Curse becomes attached to enchanted player, each of their opponents draws a card.</text>
-    </card>
-    <card>
-      <name>Havengul Banshee</name>
-      <set rarity="uncommon" splitterPath="/Havengul Banshee.png" >INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>2U</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-Whenever Havengul Banshee attacks, each creature defending player controls gets -1/-0 until end of turn.
-3U: Return Havengul Banshee from your graveyard to the battlefield transformed under your control attached to target opponent. Activate only as a sorcery.
----
-(Back): Curse of the Banshee</text>
-      <related attach="transform">Curse of the Banshee</related>
-    </card>
-    <card>
-      <name>Curse of the Banshee</name>
-      <set rarity="uncommon" splitterPath="/Curse of the Banshee.png" >INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost></manacost>
-        <cmc>3</cmc>
-        <type>Enchantment - Aura Curse </type>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant player
-Creatures enchanted player controls get -1/-0.
----
-(Front): Havengul Banshee</text>
-    </card>
-    <card>
-      <name>Infernal Direwolf</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>4RR</manacost>
-        <cmc>6</cmc>
-        <type>Creature - Elemental Wolf </type>
-        <maintype>Creature</maintype>
-        <pt>6/6</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample
-When Infernal Direwolf enters, it fights up to one target creature an opponent controls. Excess damage Infernal Direwolf deals this way is dealt to that creature’s controller instead.</text>
-    </card>
-    <card>
-      <name>Dowager of Traublassen</name>
-      <set rarity="uncommon" splitterPath="/Dowager of Traublassen.png" >INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Human Noble </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever another creature dies, target opponent loses 1 life and you gain 1 life.
-At the beginning of each end step, if you gained 3 or more life this turn, transform Dowager of Traublassen.
----
-(Back): Despot of Traublassen</text>
-      <related attach="transform">Despot of Traublassen</related>
-    </card>
-    <card>
-      <name>Despot of Traublassen</name>
-      <set rarity="uncommon" splitterPath="/Despot of Traublassen.png" >INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost></manacost>
-        <cmc>2</cmc>
-        <type>Creature - Vampire </type>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-Whenever another creature dies, target opponent loses 1 life and you gain 1 life. Put a +1/+1 counter on Despot of Traublassen.
----
-(Front): Dowager of Traublassen</text>
-    </card>
-    <card>
-      <name>Crater Thing</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>4RR</manacost>
-        <cmc>6</cmc>
-        <type>Creature - Elemental Horror </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Reach
-When Crater Thing enters, it deals 3 damage to up to one target creature or planeswalker.
-Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand, then shuffle.)</text>
-    </card>
-    <card>
-      <name>Banewidow</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Spider </type>
-        <maintype>Creature</maintype>
-        <pt>1/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Reach
-2B: Each opponent loses 1 life and you gain 1 life.</text>
-    </card>
-    <card>
-      <name>Malicious Eclipse</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>1BB</manacost>
-        <cmc>3</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>All creatures get -2/-2 until end of turn. If a creature an opponent controls would die this turn, exile it instead.</text>
-    </card>
-    <card>
-      <name>Volatile Alchemist</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>2R</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Wizard </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Haste
-2U: Volatile Alchemist gains vigilance until end of turn and can’t be blocked this turn.</text>
-    </card>
-    <card>
-      <name>Stensia Cavalcade</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>4R</manacost>
-        <cmc>5</cmc>
-        <type>Creature - Vampire Knight </type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample
-When Stensia Cavalcade enters, create two Weapon tokens. (They’re Equipment artifacts with “Equipped creature gets +1/+1” and equip {2}.)</text>
-    </card>
-    <card>
-      <name>Breaking Dawn</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Choose one —
-• Creatures you control get +2/+0 until end of turn.
-• Destroy target artifact or enchantment. You gain 3 life.</text>
-    </card>
-    <card>
-      <name>Terror of the Ulvenwald</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>4GG</manacost>
-        <cmc>6</cmc>
-        <type>Creature - Insect Horror </type>
-        <maintype>Creature</maintype>
-        <pt>4/6</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Vigilance
-When Terror of the Ulvenwald enters, target creature gets +3/+3 until end of turn.
-Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand, then shuffle.)</text>
-    </card>
-    <card>
-      <name>Remove Soul</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Counter target creature spell.</text>
-    </card>
-    <card>
-      <name>Suffer the Blade</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Target creature you control gets +2/+0 and gains first strike until end of turn. If you control an artifact, draw a card.</text>
-    </card>
-    <card>
-      <name>Fangs of Wesgoth</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>R</manacost>
-        <cmc>1</cmc>
-        <type>Creature - Vampire Assassin </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever Fangs of Wesgoth deals combat damage to a player, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)
-As long as you control three or more artifacts, Fangs of Wesgoth has menace.</text>
-    </card>
-    <card>
-      <name>Crypt Viper</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Zombie Snake </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flash
-Deathtouch</text>
-    </card>
-    <card>
-      <name>Surfacing Horripede</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>4R</manacost>
-        <cmc>5</cmc>
-        <type>Creature - Insect Horror </type>
-        <maintype>Creature</maintype>
-        <pt>5/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Menace, reach
-When Surfacing Horripede enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-    </card>
-    <card>
-      <name>Dance with Devils</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Create two 1/1 red Devil creature tokens. They have “When this creature dies, it deals 1 damage to any target.”</text>
-    </card>
-    <card>
-      <name>Clash at Geier Reach</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>3RR</manacost>
-        <cmc>5</cmc>
-        <type>Sorcery</type>
-        <maintype>Sorcery</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Clash at Geier Reach deals 2 damage to each opponent and each creature and planeswalker they control.
-Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-    </card>
-    <card>
-      <name>Gisela, Blade of Morning</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>WR</colors>
-        <manacost>1RWW</manacost>
-        <cmc>4</cmc>
-        <type>Legendary Creature - Angel </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying, first strike, haste
-Whenever you gain life, you may have Gisela, Blade of Morning deal that much damage to any target. Do this only once each turn.</text>
-    </card>
-    <card>
-      <name>Grizzled Parish-Blade</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>3G</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Human Soldier </type>
-        <maintype>Creature</maintype>
-        <pt>2/5</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-Grizzled Parish-Blade gets +3/+0 as long as you control an artifact and an enchantment.</text>
-    </card>
-    <card>
-      <name>Nebelgast Possessor</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>U</manacost>
-        <cmc>1</cmc>
-        <type>Creature - Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>1/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-3U, {T}: Target creature gets +1/+1 and gains flying until end of turn. Activate only as a sorcery.</text>
-    </card>
-    <card>
-      <name>Brambleswine</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>2G</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Boar </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Foreshadow 4G (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
-When Brambleswine dies, create a 2/2 green Wolf creature token.</text>
-    </card>
-    <card>
-      <name>Torch Reveler</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Devil </type>
-        <maintype>Creature</maintype>
-        <pt>1/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Torch Reveler gets +2/+0 as long as you control an artifact.</text>
-    </card>
-    <card>
-      <name>Occult Metamorphosis</name>
-      <set rarity="mythic">INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>3U</manacost>
-        <cmc>4</cmc>
-        <type>Enchantment</type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>At the beginning of your end step, create a token that’s a copy of target transformed permanent you control, except it has “This permanent can’t transform.”</text>
-    </card>
-    <card>
-      <name>Hungering Howlpack</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>2GG</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Wolf </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Other Wolves and Werewolves you control get +1/+1.
-Whenever Hungering Howlpack or another Wolf or Werewolf you control enters, you gain 2 life.</text>
-    </card>
-    <card>
-      <name>Carrion Drake</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>3U</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Zombie Drake </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-When Carrion Drake enters, you may exile a creature card from your graveyard. If you do, draw a card.</text>
-    </card>
-    <card>
-      <name>Falkenrath Fletcher</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>3R</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Vampire Archer </type>
-        <maintype>Creature</maintype>
-        <pt>4/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Reach
-When Falkenrath Fletcher enters, if an opponent lost life this turn, create a 1/1 black and red Vampire creature token with menace.</text>
-    </card>
-    <card>
-      <name>Seagraf Shamblers</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Zombie </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever one or more cards leave your graveyard, put a +1/+1 counter on Seagraf Shamblers.</text>
-    </card>
-    <card>
-      <name>Lone Zombie</name>
-      <set rarity="common" splitterPath="/Lone Zombie.png" >INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>2B</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Zombie </type>
-        <maintype>Creature</maintype>
-        <pt>2/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Menace
-When Lone Zombie and two other creatures attack, transform Lone Zombie.
----
-(Back): Zombie Legion</text>
-      <related attach="transform">Zombie Legion</related>
-    </card>
-    <card>
-      <name>Zombie Legion</name>
-      <set rarity="common" splitterPath="/Zombie Legion.png" >INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost></manacost>
-        <cmc>3</cmc>
-        <type>Creature - Zombie </type>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Menace
----
-(Front): Lone Zombie</text>
-    </card>
-    <card>
-      <name>Candlecrown Stag</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>4W</manacost>
-        <cmc>5</cmc>
-        <type>Creature - Elk </type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Candlecrown Stag enters, choose one or both —
-• Exile target card from a graveyard.
-• You gain 3 life.</text>
-    </card>
-    <card>
-      <name>Alert the Village</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Create two 1/1 white Human creature tokens.</text>
-    </card>
-    <card>
-      <name>Undercroft Portal</name>
-      <set rarity="rare" splitterPath="/Undercroft Portal.png" >INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
-        <type>Artifact</type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Undercroft Portal enters with four barrier counters on it.
-Invocation — Whenever you spend four or more mana to cast a spell or activate an ability during your turn, draw a card and remove a barrier counter from Undercroft Portal. Then if it has no barrier counters 
-on it, transform it.
----
-(Back): Unleashed Mindboggler</text>
-      <related attach="transform">Unleashed Mindboggler</related>
-    </card>
-    <card>
-      <name>Unleashed Mindboggler</name>
-      <set rarity="rare" splitterPath="/Unleashed Mindboggler.png" >INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost></manacost>
-        <cmc>2</cmc>
-        <type>Creature - Horror </type>
-        <pt>6/8</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>If you would draw one or more cards, draw that many cards plus one instead.
-When Unleashed Mindboggler dies, return it to the battlefield (front face up).
----
-(Front): Undercroft Portal</text>
-    </card>
-    <card>
-      <name>Undead Hex</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>BB</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Target creature gets -X/-X until end of turn, where X is 2 plus the number of cards named Undead Servant in your graveyard.
-As long as this card is in your graveyard, its name is Undead Servant.</text>
-    </card>
-    <card>
-      <name>Stromkirk Sangromancer</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Vampire Wizard </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Whenever you cast an instant, sorcery, or Curse spell, Stromkirk Sangromancer deals 1 damage to each opponent.</text>
-    </card>
-    <card>
-      <name>Malevolus</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>UR</colors>
-        <manacost>6UR</manacost>
-        <cmc>8</cmc>
-        <type>Creature - Elemental Spirit </type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>This spell costs {2} less to cast for each Curse you control.
-Flying, vigilance, haste</text>
-    </card>
-    <card>
-      <name>Silverblade Cathar</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Human Knight </type>
-        <maintype>Creature</maintype>
-        <pt>2/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>First strike
-Whenever Silverblade Cathar and two other creatures attack, draw a card.</text>
-    </card>
-    <card>
-      <name>Embercut Duelist</name>
-      <set rarity="common" splitterPath="/Embercut Duelist.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>R</manacost>
-        <cmc>1</cmc>
-        <type>Creature - Human Soldier Werewolf </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>First strike
-1R: Transform Embercut Duelist. Activate only if it’s attacking.
----
-(Back): Emberslash Werewolf</text>
-      <related attach="transform">Emberslash Werewolf</related>
-    </card>
-    <card>
-      <name>Emberslash Werewolf</name>
-      <set rarity="common" splitterPath="/Emberslash Werewolf.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost></manacost>
-        <cmc>1</cmc>
-        <type>Creature - Werewolf </type>
-        <pt>2/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>First strike
-At the beginning of your end step, if Emberslash Werewolf didn’t attack this turn, transform it.
----
-(Front): Embercut Duelist</text>
-    </card>
-    <card>
-      <name>Undead Servant</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>3B</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Zombie </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Undead Servant enters, create a 2/2 black Zombie creature token for each card named Undead Servant in your graveyard.</text>
-    </card>
-    <card>
-      <name>Adderblade Exterminator</name>
-      <set rarity="uncommon" splitterPath="/Adderblade Exterminator.png" >INM</set>
-      <prop>
-        <colors>G</colors>
-        <manacost>G</manacost>
-        <cmc>1</cmc>
-        <type>Creature - Human Assassin Werewolf </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Deathtouch
-1G: Transform Adderblade Exterminator. Activate only if it’s attacking.
----
-(Back): Addermark Eviscerator</text>
-      <related attach="transform">Addermark Eviscerator</related>
-    </card>
-    <card>
-      <name>Addermark Eviscerator</name>
-      <set rarity="uncommon" splitterPath="/Addermark Eviscerator.png" >INM</set>
-      <prop>
-        <colors></colors>
-        <manacost></manacost>
-        <cmc>1</cmc>
-        <type>Creature - Werewolf </type>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Deathtouch
-Whenever Addermark Eviscerator deals combat damage to a player, draw a card.
-At the beginning of your end step, if Addermark Eviscerator didn’t attack this turn, transform it.
----
-(Front): Adderblade Exterminator</text>
-    </card>
-    <card>
-      <name>Voldaren Heartslicer</name>
-      <set rarity="uncommon" splitterPath="/Voldaren Heartslicer.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost>1R</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Vampire Warrior </type>
-        <maintype>Creature</maintype>
-        <pt>2/1</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Attacking creatures you control get +1/+0.
-2R: Return Voldaren Heartslicer from your graveyard to the battlefield transformed under your control attached to target opponent. Activate only as a sorcery.
----
-(Back): Curse of Incurable Wounds</text>
-      <related attach="transform">Curse of Incurable Wounds</related>
-    </card>
-    <card>
-      <name>Curse of Incurable Wounds</name>
-      <set rarity="uncommon" splitterPath="/Curse of Incurable Wounds.png" >INM</set>
-      <prop>
-        <colors>R</colors>
-        <manacost></manacost>
-        <cmc>2</cmc>
-        <type>Enchantment - Aura Curse </type>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Enchant player
-Creatures attacking enchanted player get +1/+0.
----
-(Front): Voldaren Heartslicer</text>
-    </card>
-    <card>
-      <name>Alabaster Halo</name>
-      <set rarity="uncommon" splitterPath="/Alabaster Halo.png" >INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Enchantment - Aura </type>
-        <maintype>Enchantment</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Flash
-Enchant creature you control
-Enchanted creature gets +2/+2.
-When enchanted creature dies, return Alabaster Halo to the battlefield transformed under your control.
----
-(Back): Alabaster Avenger</text>
-      <related attach="transform">Alabaster Avenger</related>
-    </card>
-    <card>
-      <name>Alabaster Avenger</name>
-      <set rarity="uncommon" splitterPath="/Alabaster Avenger.png" >INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost></manacost>
-        <cmc>3</cmc>
-        <type>Creature - Angel </type>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying, vigilance
-Whenever Alabaster Avenger attacks, if it’s enchanted or equipped, it gains first strike until end of turn.
----
-(Front): Alabaster Halo</text>
-    </card>
-    <card>
-      <name>Shilgengar&apos;s Harvester</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>4B</manacost>
-        <cmc>5</cmc>
-        <type>Creature - Demon </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying
-{3}, Sacrifice another creature: Draw a card. Activate only as a sorcery.</text>
-    </card>
-    <card>
-      <name>Drunau Egg</name>
-      <set rarity="uncommon" splitterPath="/Drunau Egg.png" >INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost>1U</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Leviathan Egg </type>
-        <maintype>Creature</maintype>
-        <pt>0/5</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Defender
-When Drunau Egg enters, target player mills two cards.
-At the beginning of each end step, if an opponent has thirteen or more cards in their graveyard, transform Drunau Egg.
----
-(Back): Drunau Engulfer</text>
-      <related attach="transform">Drunau Engulfer</related>
-    </card>
-    <card>
-      <name>Drunau Engulfer</name>
-      <set rarity="uncommon" splitterPath="/Drunau Engulfer.png" >INM</set>
-      <prop>
-        <colors>U</colors>
-        <manacost></manacost>
-        <cmc>2</cmc>
-        <type>Creature - Leviathan </type>
-        <pt>13/6</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Trample
----
-(Front): Drunau Egg</text>
-    </card>
-    <card>
-      <name>Plague Herald</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>2BB</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Zombie Goat </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Other Zombies you control get +1/+1.
-Whenever Plague Herald or another Zombie enters under your control, target creature you control gains deathtouch until end of turn.</text>
-    </card>
-    <card>
-      <name>Traft, Lunarch&apos;s Edge</name>
-      <set rarity="rare">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Legendary Creature - Human Cleric Knight </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>First strike
-Angel spells you cast cost {2} less to cast.
-Prevent all noncombat damage that would be dealt to Angels and Humans you control.</text>
-    </card>
-    <card>
-      <name>Righteous Chaplain</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>2WW</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Human Cleric </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Other Humans you control get +1/+1.
-Whenever Righteous Chaplain or another Human you control enters, tap target creature an opponent controls.</text>
-    </card>
-    <card>
-      <name>Markov Fencer</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>1B</manacost>
-        <cmc>2</cmc>
-        <type>Creature - Vampire Knight </type>
-        <maintype>Creature</maintype>
-        <pt>2/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>2W: Markov Fencer gains first strike until end of turn. You gain 1 life.</text>
-    </card>
-    <card>
       <name>Genesis Grove</name>
       <set rarity="uncommon">INM</set>
       <prop>
@@ -4825,78 +4754,45 @@ Whenever Righteous Chaplain or another Human you control enters, tap target crea
 {T}: Add one mana of any color. Spend this mana only to cast creature spells.</text>
     </card>
     <card>
-      <name>Dawnhart&apos;s Envoy</name>
+      <name>Elgaud Fortress</name>
       <set rarity="rare">INM</set>
       <prop>
-        <colors>W</colors>
-        <manacost>2W</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Elk </type>
-        <maintype>Creature</maintype>
-        <pt>1/4</pt>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land</type>
+        <maintype>Land</maintype>
       </prop>
-      <tablerow>2</tablerow>
-      <text>Lifelink
-Your opponents casting spells don’t cause abilities to trigger.
-Creatures entering under your opponents’ control don’t cause abilities to trigger.</text>
+      <tablerow>0</tablerow>
+      <text>When Elgaud Fortress enters, create a Weapon token. (It’s an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)
+{T}: Add {C}.
+{2}, {T}: Create a token that’s a copy of target artifact token you control. Activate only as a sorcery.</text>
     </card>
     <card>
-      <name>Dread Elk</name>
-      <set rarity="common">INM</set>
+      <name>Plains</name>
+      <set rarity="">INM</set>
       <prop>
-        <colors>B</colors>
-        <manacost>3B</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Zombie Elk </type>
-        <maintype>Creature</maintype>
-        <pt>4/3</pt>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
       </prop>
-      <tablerow>2</tablerow>
-      <text>Foreshadow 5B (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
-When Dread Elk dies, put a +1/+1 counter on target creature you control. If that creature is a Zombie, put two +1/+1 counters on it instead.</text>
+      <tablerow>0</tablerow>
+      <text></text>
     </card>
     <card>
-      <name>Irascible Bloodwitch</name>
-      <set rarity="uncommon">INM</set>
+      <name>Plains2</name>
+      <set rarity="">INM</set>
       <prop>
-        <colors>R</colors>
-        <manacost>2RR</manacost>
-        <cmc>4</cmc>
-        <type>Creature - Vampire Warlock </type>
-        <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
       </prop>
-      <tablerow>2</tablerow>
-      <text>Other Vampires you control get +1/+1.
-Whenever Irascible Bloodwitch or another Vampire enters under your control, Irascible Bloodwitch deals 1 damage to any target.</text>
-    </card>
-    <card>
-      <name>Undead Necromancer</name>
-      <set rarity="uncommon">INM</set>
-      <prop>
-        <colors>B</colors>
-        <manacost>2B</manacost>
-        <cmc>3</cmc>
-        <type>Creature - Zombie Warlock </type>
-        <maintype>Creature</maintype>
-        <pt>3/2</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>When Undead Necromancer enters, search your library for a card, put that card into your graveyard, then shuffle.
-As long as this card is in your graveyard, its name is Undead Servant.</text>
-    </card>
-    <card>
-      <name>Flawless Finesse</name>
-      <set rarity="common">INM</set>
-      <prop>
-        <colors>W</colors>
-        <manacost>1W</manacost>
-        <cmc>2</cmc>
-        <type>Instant</type>
-        <maintype>Instant</maintype>
-      </prop>
-      <tablerow>3</tablerow>
-      <text>Untap target creature you control. It gains indestructible until end of turn. Create a Weapon token and attach it to that creature. (A Weapon token is an Equipment artifact with “Equipped creature gets +1/+1” and equip {2}.)</text>
+      <tablerow>0</tablerow>
+      <text></text>
     </card>
     <card>
       <name>Plains3</name>
@@ -4906,6 +4802,32 @@ As long as this card is in your graveyard, its name is Undead Servant.</text>
         <manacost></manacost>
         <cmc>0</cmc>
         <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set rarity="">INM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island2</name>
+      <set rarity="">INM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
@@ -4925,6 +4847,32 @@ As long as this card is in your graveyard, its name is Undead Servant.</text>
       <text></text>
     </card>
     <card>
+      <name>Swamp</name>
+      <set rarity="">INM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp2</name>
+      <set rarity="">INM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
       <name>Swamp3</name>
       <set rarity="">INM</set>
       <prop>
@@ -4938,6 +4886,32 @@ As long as this card is in your graveyard, its name is Undead Servant.</text>
       <text></text>
     </card>
     <card>
+      <name>Mountain</name>
+      <set rarity="">INM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain2</name>
+      <set rarity="">INM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
       <name>Mountain3</name>
       <set rarity="">INM</set>
       <prop>
@@ -4945,6 +4919,32 @@ As long as this card is in your graveyard, its name is Undead Servant.</text>
         <manacost></manacost>
         <cmc>0</cmc>
         <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set rarity="">INM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest2</name>
+      <set rarity="">INM</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
         <maintype>Land</maintype>
       </prop>
       <tablerow>0</tablerow>
@@ -4975,8 +4975,8 @@ As long as this card is in your graveyard, its name is Undead Servant.</text>
       </prop>
       <tablerow>0</tablerow>
       <text>Wesgoth Cemetery enters tapped.
-{T}: Add {B} or {G}.
-Whenever a nontoken creature dies, put a corpse counter on Wesgoth Cemetery. Then if Wesgoth Cemetery has thirteen or more corpse counters on it, remove them and transform it.
+{T}: Add {B} or {G}. If there are thirteen or more corpse counters on Wesgoth Cemetery,  remove those counters, transform it, then untap it.
+Whenever a nontoken creature dies, put a corpse counter on Wesgoth Cemetery.
 Wesgoth Cemetery can be your commander.
 ---
 (Back): Skullbriar, Death&apos;s Mockery</text>
@@ -4989,13 +4989,14 @@ Wesgoth Cemetery can be your commander.
         <colors></colors>
         <manacost></manacost>
         <cmc>0</cmc>
-        <type>Legendary Creature - Zombie Elemental </type>
-        <pt>*/*</pt>
+        <type>Legendary Land Creature - Zombie Elemental </type>
+        <pt>0/0</pt>
       </prop>
       <tablerow>2</tablerow>
       <text>Trample, haste
 Skullbriar, Death’s Mockery remains transformed as it moves to any zone other than a player’s hand or library.
-Skullbriar’s power and toughness are each equal to the total number of creature cards in all graveyards.
+Skullbriar gets +1/+1 for each creature card in all graveyards.
+{T}: Add {B} or {G}.
 ---
 (Front): Wesgoth Cemetery</text>
     </card>
@@ -5003,29 +5004,16 @@ Skullbriar’s power and toughness are each equal to the total number of creatur
     <!-->Tokens</-->
 
     <card>
-      <name>Vampire</name>
+      <name>Angel</name>
       <set>INM</set>
       <prop>
-        <colors>BR</colors>
-        <type>Token Creature - Vampire </type>
+        <colors>W</colors>
+        <type>Token Creature - Angel </type>
         <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Menace</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Weapon</name>
-      <set>INM</set>
-      <prop>
-        <colors></colors>
-        <type>Artifact - Weapon </type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>Equipped creature gets +1/+1.
-Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+      <text>Flying</text>
       <token>1</token>
     </card>
     <card>
@@ -5039,6 +5027,18 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       </prop>
       <tablerow>2</tablerow>
       <text></text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Intangible Virtue</name>
+      <set>INM</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creature tokens you control get +1/+1 and have vigilance.</text>
       <token>1</token>
     </card>
     <card>
@@ -5068,6 +5068,32 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <token>1</token>
     </card>
     <card>
+      <name>Bat</name>
+      <set>INM</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Bat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Human Warlock</name>
+      <set>INM</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Human Warlock </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+    </card>
+    <card>
       <name>Zombie</name>
       <set>INM</set>
       <prop>
@@ -5081,16 +5107,16 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <token>1</token>
     </card>
     <card>
-      <name>Bat</name>
+      <name>Devil</name>
       <set>INM</set>
       <prop>
-        <colors>B</colors>
-        <type>Token Creature - Bat </type>
+        <colors>R</colors>
+        <type>Token Creature - Devil </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flying, lifelink</text>
+      <text>When this creature dies, it deals 1 damage to any target.</text>
       <token>1</token>
     </card>
     <card>
@@ -5107,25 +5133,13 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <token>1</token>
     </card>
     <card>
-      <name>Treasure</name>
-      <set>INM</set>
-      <prop>
-        <colors></colors>
-        <type>Token Artifact - Treasure </type>
-        <maintype>Artifact</maintype>
-      </prop>
-      <tablerow>1</tablerow>
-      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Wolf</name>
+      <name>Bear Spirit</name>
       <set>INM</set>
       <prop>
         <colors>G</colors>
-        <type>Token Creature - Wolf </type>
+        <type>Token Creature - Bear Spirit </type>
         <maintype>Creature</maintype>
-        <pt>2/2</pt>
+        <pt>3/3</pt>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
@@ -5145,67 +5159,54 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <token>1</token>
     </card>
     <card>
-      <name>Bear Spirit</name>
+      <name>Wolf</name>
       <set>INM</set>
       <prop>
         <colors>G</colors>
-        <type>Token Creature - Bear Spirit </type>
+        <type>Token Creature - Wolf </type>
         <maintype>Creature</maintype>
-        <pt>3/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
     </card>
     <card>
-      <name>Angel</name>
+      <name>Vampire</name>
       <set>INM</set>
       <prop>
-        <colors>W</colors>
-        <type>Token Creature - Angel </type>
-        <maintype>Creature</maintype>
-        <pt>4/4</pt>
-      </prop>
-      <tablerow>2</tablerow>
-      <text>Flying</text>
-      <token>1</token>
-    </card>
-    <card>
-      <name>Devil</name>
-      <set>INM</set>
-      <prop>
-        <colors>R</colors>
-        <type>Token Creature - Devil </type>
+        <colors>BR</colors>
+        <type>Token Creature - Vampire </type>
         <maintype>Creature</maintype>
         <pt>1/1</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>When this creature dies, it deals 1 damage to any target.</text>
+      <text>Menace</text>
       <token>1</token>
     </card>
     <card>
-      <name>Intangible Virtue</name>
+      <name>Treasure</name>
       <set>INM</set>
       <prop>
-        <colors>W</colors>
-        <type>Token Enchantment</type>
-        <maintype>Enchantment</maintype>
+        <colors></colors>
+        <type>Token Artifact - Treasure </type>
+        <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
-      <text>Creature tokens you control get +1/+1 and have vigilance.</text>
+      <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
       <token>1</token>
     </card>
     <card>
-      <name>Human Warlock</name>
+      <name>Weapon</name>
       <set>INM</set>
       <prop>
-        <colors>B</colors>
-        <type>Token Creature - Human Warlock </type>
-        <maintype>Creature</maintype>
-        <pt>1/1</pt>
+        <colors></colors>
+        <type>Artifact - Weapon </type>
+        <maintype>Artifact</maintype>
       </prop>
-      <tablerow>2</tablerow>
-      <text></text>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
       <token>1</token>
     </card>
 

@@ -1,287 +1,5 @@
 [CustomCards]
 	[    {
-	        "name": "Puresoul Possessor",
-	        "rarity": "uncommon",
-	        "mana_cost": "{W}",
-	        "type": "Creature — Spirit ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Puresoul Possessor.png"
-	        }
-	    },
-	    {
-	        "name": "Beckoning Possessor",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}",
-	        "type": "Creature — Spirit ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Beckoning Possessor.png"
-	        }
-	    },
-	    {
-	        "name": "Cathedral Gargoyle",
-	        "rarity": "uncommon",
-	        "mana_cost": "{3}{W}",
-	        "type": "Artifact Creature — Gargoyle ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Cathedral Gargoyle.png"
-	        }
-	    },
-	    {
-	        "name": "Angel of Sunrise",
-	        "rarity": "uncommon",
-	        "mana_cost": "{5}{W}",
-	        "type": "Creature — Angel ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Angel of Sunrise.png"
-	        }
-	    },
-	    {
-	        "name": "Blessed Bladewright",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}",
-	        "type": "Creature — Human Artificer ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Blessed Bladewright.png"
-	        }
-	    },
-	    {
-	        "name": "Phantom Presence",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{W}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Phantom Presence.png"
-	        }
-	    },
-	    {
-	        "name": "Sacralize",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{W}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Sacralize.png"
-	        }
-	    },
-	    {
-	        "name": "Lifted Spirits",
-	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
-	        "type": "Enchantment — Aura ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Lifted Spirits.png"
-	        }
-	    },
-	    {
-	        "name": "Avacyn's Mark",
-	        "rarity": "uncommon",
-	        "mana_cost": "{W}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn's Mark.png"
-	        }
-	    },
-	    {
-	        "name": "Plains",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Plains ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Plains.png"
-	        }
-	    },
-	    {
-	        "name": "Island2",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Island ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Island2.png"
-	        }
-	    },
-	    {
-	        "name": "Swamp",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Swamp ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Swamp.png"
-	        }
-	    },
-	    {
-	        "name": "Mountain2",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Mountain ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Mountain2.png"
-	        }
-	    },
-	    {
-	        "name": "Forest2",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Forest ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Forest2.png"
-	        }
-	    },
-	    {
-	        "name": "Vampire",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Vampire ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Vampire.png"
-	        }
-	    },
-	    {
-	        "name": "Resting Tombs",
-	        "mana_cost": "{2}{W}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Resting Tombs.png"
-	        },
-	        "printed names": {
-	            "en": "Resting Tombs"
-	        },
-	        "back": {
-	            "name": " Restless Souls",
-	            "printed_names": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/ Restless Souls"
-	            },
-	            "image_uris": {
-	                "en": " Restless Souls.png"
-	            },
-	            "type": "Enchantment"
-	        }
-	    },
-	    {
-	        "name": "Cenotaph Possessor",
-	        "rarity": "rare",
-	        "mana_cost": "{1}{W}",
-	        "type": "Creature — Spirit ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Cenotaph Possessor.png"
-	        }
-	    },
-	    {
-	        "name": "Cathar's Armory",
-	        "rarity": "rare",
-	        "mana_cost": "{1}{W}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Cathar's Armory.png"
-	        }
-	    },
-	    {
-	        "name": "Flight of Angels",
-	        "rarity": "mythic",
-	        "mana_cost": "{X}{X}{W}{W}{W}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Flight of Angels.png"
-	        }
-	    },
-	    {
-	        "name": "Plains2",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Plains ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Plains2.png"
-	        }
-	    },
-	    {
-	        "name": "Island",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Island ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Island.png"
-	        }
-	    },
-	    {
-	        "name": "Swamp2",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Swamp ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Swamp2.png"
-	        }
-	    },
-	    {
-	        "name": "Mountain",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Mountain ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Mountain.png"
-	        }
-	    },
-	    {
-	        "name": "Forest",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Basic Land — Forest ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Forest.png"
-	        }
-	    },
-	    {
-	        "name": "Avacyn",
-	        "rarity": "mythic",
-	        "mana_cost": "{2}{W}{W}{W}",
-	        "type": "Legendary Creature — Angel ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn.png"
-	        }
-	    },
-	    {
-	        "name": "Quell Evil",
-	        "rarity": "rare",
-	        "mana_cost": "{W}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Quell Evil.png"
-	        }
-	    },
-	    {
-	        "name": "Archdemon Shilgengar",
-	        "rarity": "mythic",
-	        "mana_cost": "{6}{B}{B}{B}{B}",
-	        "type": "Legendary Creature — Elder Demon ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Archdemon Shilgengar.png"
-	        }
-	    },
-	    {
-	        "name": "Sorin, Vampire Maverick",
-	        "rarity": "mythic",
-	        "mana_cost": "{2}{B}{B}",
-	        "type": "Legendary Planeswalker — Sorin ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Sorin, Vampire Maverick.png"
-	        }
-	    },
-	    {
-	        "name": "Wurgelurg",
-	        "rarity": "mythic",
-	        "mana_cost": "{4}{B}{B}{B}",
-	        "type": "Creature — Avatar Horror ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Wurgelurg.png"
-	        }
-	    },
-	    {
-	        "name": "Outrider Captain",
-	        "rarity": "rare",
-	        "mana_cost": "{3}{W}",
-	        "type": "Creature — Human Knight ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Outrider Captain.png"
-	        }
-	    },
-	    {
 	        "name": "Cobblespook",
 	        "rarity": "common",
 	        "mana_cost": "{W}",
@@ -297,6 +15,27 @@
 	        "type": "Creature — Spirit Knight ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Drogskol Possessor.png"
+	        }
+	    },
+	    {
+	        "name": "Avacyn's Partisan",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Peasant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn's Partisan.png"
+	        },
+	        "printed names": {
+	            "en": "Avacyn's Partisan"
+	        },
+	        "back": {
+	            "name": "Avacyn's Paladin",
+	            "printed_names": {
+	                "en": "Avacyn's Paladin"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn's Paladin.png"
+	            },
+	            "type": "Creature — Human Cleric Knight "
 	        }
 	    },
 	    {
@@ -318,21 +57,21 @@
 	        }
 	    },
 	    {
-	        "name": "Loyal Retriever",
-	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
-	        "type": "Creature — Dog ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Loyal Retriever.png"
-	        }
-	    },
-	    {
 	        "name": "Curewitch of Ghrin-Danu",
 	        "rarity": "common",
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curewitch of Ghrin-Danu.png"
+	        }
+	    },
+	    {
+	        "name": "Loyal Retriever",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Dog ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Loyal Retriever.png"
 	        }
 	    },
 	    {
@@ -351,6 +90,15 @@
 	        "type": "Creature — Angel ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Sigarda's Shepherd.png"
+	        }
+	    },
+	    {
+	        "name": "Candlecrown Stag",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Candlecrown Stag.png"
 	        }
 	    },
 	    {
@@ -381,21 +129,21 @@
 	        }
 	    },
 	    {
-	        "name": "Evanescence",
-	        "rarity": "uncommon",
-	        "mana_cost": "{W}",
-	        "type": "Sorcery",
+	        "name": "Alert the Village",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Evanescence.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Alert the Village.png"
 	        }
 	    },
 	    {
-	        "name": "Frightful Visitation",
+	        "name": "Flawless Finesse",
 	        "rarity": "common",
 	        "mana_cost": "{1}{W}",
-	        "type": "Sorcery",
+	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Frightful Visitation.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Flawless Finesse.png"
 	        }
 	    },
 	    {
@@ -408,6 +156,33 @@
 	        }
 	    },
 	    {
+	        "name": "Breaking Dawn",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Breaking Dawn.png"
+	        }
+	    },
+	    {
+	        "name": "Lifted Spirits",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Lifted Spirits.png"
+	        }
+	    },
+	    {
+	        "name": "Frightful Visitation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Frightful Visitation.png"
+	        }
+	    },
+	    {
 	        "name": "Slayer's Grimoire",
 	        "rarity": "common",
 	        "mana_cost": "{3}{W}",
@@ -417,24 +192,180 @@
 	        }
 	    },
 	    {
-	        "name": "Avacyn's Partisan",
+	        "name": "Puresoul Possessor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Puresoul Possessor.png"
+	        }
+	    },
+	    {
+	        "name": "Blessed Bladewright",
+	        "rarity": "uncommon",
 	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Artificer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Blessed Bladewright.png"
+	        }
+	    },
+	    {
+	        "name": "Beckoning Possessor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Beckoning Possessor.png"
+	        }
+	    },
+	    {
+	        "name": "Silverblade Cathar",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Silverblade Cathar.png"
+	        }
+	    },
+	    {
+	        "name": "Haunted Waif",
+	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Peasant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn's Partisan.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Haunted Waif.png"
 	        },
 	        "printed names": {
-	            "en": "Avacyn's Partisan"
+	            "en": "Haunted Waif"
 	        },
 	        "back": {
-	            "name": "Avacyn's Paladin",
+	            "name": "Geist Whisperer",
 	            "printed_names": {
-	                "en": "Avacyn's Paladin"
+	                "en": "Geist Whisperer"
 	            },
 	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn's Paladin.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Geist Whisperer.png"
 	            },
-	            "type": "Creature — Human Cleric Knight "
+	            "type": "Creature — Human Wizard "
+	        }
+	    },
+	    {
+	        "name": "Cathedral Gargoyle",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Artifact Creature — Gargoyle ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Cathedral Gargoyle.png"
+	        }
+	    },
+	    {
+	        "name": "Righteous Chaplain",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Human Cleric ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Righteous Chaplain.png"
+	        }
+	    },
+	    {
+	        "name": "Angel of Sunrise",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{W}",
+	        "type": "Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Angel of Sunrise.png"
+	        }
+	    },
+	    {
+	        "name": "Evanescence",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Evanescence.png"
+	        }
+	    },
+	    {
+	        "name": "Avacyn's Mark",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn's Mark.png"
+	        }
+	    },
+	    {
+	        "name": "Sacralize",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Sacralize.png"
+	        }
+	    },
+	    {
+	        "name": "Alabaster Halo",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Alabaster Halo.png"
+	        },
+	        "printed names": {
+	            "en": "Alabaster Halo"
+	        },
+	        "back": {
+	            "name": "Alabaster Avenger",
+	            "printed_names": {
+	                "en": "Alabaster Avenger"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Alabaster Avenger.png"
+	            },
+	            "type": "Creature — Angel "
+	        }
+	    },
+	    {
+	        "name": "Phantom Presence",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Phantom Presence.png"
+	        }
+	    },
+	    {
+	        "name": "Cenotaph Possessor",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Cenotaph Possessor.png"
+	        }
+	    },
+	    {
+	        "name": "Traft, Lunarch's Edge",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}",
+	        "type": "Legendary Creature — Human Cleric Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Traft, Lunarch's Edge.png"
+	        }
+	    },
+	    {
+	        "name": "Dawnhart's Envoy",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dawnhart's Envoy.png"
+	        }
+	    },
+	    {
+	        "name": "Outrider Captain",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Outrider Captain.png"
 	        }
 	    },
 	    {
@@ -447,12 +378,123 @@
 	        }
 	    },
 	    {
+	        "name": "Quell Evil",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Quell Evil.png"
+	        }
+	    },
+	    {
+	        "name": "Cathar's Armory",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Cathar's Armory.png"
+	        }
+	    },
+	    {
+	        "name": "Resting Tombs",
+	        "mana_cost": "{2}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Resting Tombs.png"
+	        },
+	        "printed names": {
+	            "en": "Resting Tombs"
+	        },
+	        "back": {
+	            "name": "Restless Souls",
+	            "printed_names": {
+	                "en": "Restless Souls"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Restless Souls.png"
+	            },
+	            "type": "Enchantment"
+	        }
+	    },
+	    {
+	        "name": "Sword of the Heavens",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Sword of the Heavens.png"
+	        }
+	    },
+	    {
+	        "name": "Flight of Angels",
+	        "rarity": "mythic",
+	        "mana_cost": "{X}{X}{W}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Flight of Angels.png"
+	        }
+	    },
+	    {
+	        "name": "Avacyn",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}{W}",
+	        "type": "Legendary Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn.png"
+	        }
+	    },
+	    {
+	        "name": "Polina Elgaud",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Legendary Planeswalker — Polina ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Polina Elgaud.png"
+	        }
+	    },
+	    {
+	        "name": "Nebelgast Possessor",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Nebelgast Possessor.png"
+	        }
+	    },
+	    {
+	        "name": "Memory Surgeon",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Memory Surgeon.png"
+	        }
+	    },
+	    {
 	        "name": "Widow Wisp",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Widow Wisp.png"
+	        }
+	    },
+	    {
+	        "name": "Seagraf Shamblers",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Seagraf Shamblers.png"
+	        }
+	    },
+	    {
+	        "name": "Covetous Possessor",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Covetous Possessor.png"
 	        }
 	    },
 	    {
@@ -465,12 +507,12 @@
 	        }
 	    },
 	    {
-	        "name": "Covetous Possessor",
+	        "name": "Carrion Drake",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Spirit ",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Zombie Drake ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Covetous Possessor.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Carrion Drake.png"
 	        }
 	    },
 	    {
@@ -531,12 +573,30 @@
 	        }
 	    },
 	    {
+	        "name": "Unethical Research",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Unethical Research.png"
+	        }
+	    },
+	    {
 	        "name": "Claim of the Deep",
 	        "rarity": "common",
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Claim of the Deep.png"
+	        }
+	    },
+	    {
+	        "name": "Remove Soul",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Remove Soul.png"
 	        }
 	    },
 	    {
@@ -603,6 +663,15 @@
 	        }
 	    },
 	    {
+	        "name": "Omendancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Omendancer.png"
+	        }
+	    },
+	    {
 	        "name": "Severed Hands",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{U}",
@@ -630,6 +699,27 @@
 	        }
 	    },
 	    {
+	        "name": "Drunau Egg",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Leviathan Egg ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Drunau Egg.png"
+	        },
+	        "printed names": {
+	            "en": "Drunau Egg"
+	        },
+	        "back": {
+	            "name": "Drunau Engulfer",
+	            "printed_names": {
+	                "en": "Drunau Engulfer"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Drunau Engulfer.png"
+	            },
+	            "type": "Creature — Leviathan "
+	        }
+	    },
+	    {
 	        "name": "Braineater Abominus",
 	        "rarity": "uncommon",
 	        "mana_cost": "{5}{U}",
@@ -645,6 +735,36 @@
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Spine-Chilling Discovery.png"
+	        }
+	    },
+	    {
+	        "name": "Curse of the Tattletale",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of the Tattletale.png"
+	        }
+	    },
+	    {
+	        "name": "Havengul Banshee",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Havengul Banshee.png"
+	        },
+	        "printed names": {
+	            "en": "Havengul Banshee"
+	        },
+	        "back": {
+	            "name": "Curse of the Banshee",
+	            "printed_names": {
+	                "en": "Curse of the Banshee"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of the Banshee.png"
+	            },
+	            "type": "Enchantment — Aura Curse "
 	        }
 	    },
 	    {
@@ -723,6 +843,27 @@
 	        }
 	    },
 	    {
+	        "name": "Undercroft Portal",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Undercroft Portal.png"
+	        },
+	        "printed names": {
+	            "en": "Undercroft Portal"
+	        },
+	        "back": {
+	            "name": "Unleashed Mindboggler",
+	            "printed_names": {
+	                "en": "Unleashed Mindboggler"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Unleashed Mindboggler.png"
+	            },
+	            "type": "Creature — Horror "
+	        }
+	    },
+	    {
 	        "name": "Curse of the Breathless",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{U}",
@@ -741,12 +882,30 @@
 	        }
 	    },
 	    {
+	        "name": "Nervewing Skaab",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Zombie Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Nervewing Skaab.png"
+	        }
+	    },
+	    {
 	        "name": "Stitched Gargantua",
 	        "rarity": "mythic",
 	        "mana_cost": "{1}{U}{U}{U}",
 	        "type": "Creature — Zombie Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Stitched Gargantua.png"
+	        }
+	    },
+	    {
+	        "name": "Occult Metamorphosis",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Occult Metamorphosis.png"
 	        }
 	    },
 	    {
@@ -777,6 +936,24 @@
 	        }
 	    },
 	    {
+	        "name": "Crypt Viper",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie Snake ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Crypt Viper.png"
+	        }
+	    },
+	    {
+	        "name": "Markov Fencer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Vampire Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Markov Fencer.png"
+	        }
+	    },
+	    {
 	        "name": "Falkenrath Ordainer",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
@@ -786,12 +963,60 @@
 	        }
 	    },
 	    {
+	        "name": "Lone Zombie",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Lone Zombie.png"
+	        },
+	        "printed names": {
+	            "en": "Lone Zombie"
+	        },
+	        "back": {
+	            "name": "Zombie Legion",
+	            "printed_names": {
+	                "en": "Zombie Legion"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Zombie Legion.png"
+	            },
+	            "type": "Creature — Zombie "
+	        }
+	    },
+	    {
 	        "name": "Acolyte of Griselbrand",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Acolyte of Griselbrand.png"
+	        }
+	    },
+	    {
+	        "name": "Undead Servant",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Undead Servant.png"
+	        }
+	    },
+	    {
+	        "name": "Dread Elk",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Zombie Elk ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dread Elk.png"
+	        }
+	    },
+	    {
+	        "name": "Shilgengar's Harvester",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Shilgengar's Harvester.png"
 	        }
 	    },
 	    {
@@ -822,12 +1047,21 @@
 	        }
 	    },
 	    {
-	        "name": "Curse of Opened Tombs",
+	        "name": "Curse of the Unburied",
 	        "rarity": "common",
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment — Aura Curse ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of Opened Tombs.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of the Unburied.png"
+	        }
+	    },
+	    {
+	        "name": "Undead Hex",
+	        "rarity": "common",
+	        "mana_cost": "{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Undead Hex.png"
 	        }
 	    },
 	    {
@@ -885,6 +1119,27 @@
 	        }
 	    },
 	    {
+	        "name": "Dowager of Traublassen",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dowager of Traublassen.png"
+	        },
+	        "printed names": {
+	            "en": "Dowager of Traublassen"
+	        },
+	        "back": {
+	            "name": "Despot of Traublassen",
+	            "printed_names": {
+	                "en": "Despot of Traublassen"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Despot of Traublassen.png"
+	            },
+	            "type": "Creature — Vampire "
+	        }
+	    },
+	    {
 	        "name": "Vespercloak Vampire",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
@@ -903,12 +1158,30 @@
 	        }
 	    },
 	    {
+	        "name": "Undead Necromancer",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Zombie Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Undead Necromancer.png"
+	        }
+	    },
+	    {
 	        "name": "Grim Raven of Wesgoth",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Bird ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Grim Raven of Wesgoth.png"
+	        }
+	    },
+	    {
+	        "name": "Plague Herald",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Creature — Zombie Goat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Plague Herald.png"
 	        }
 	    },
 	    {
@@ -921,6 +1194,27 @@
 	        }
 	    },
 	    {
+	        "name": "Carnage Throne",
+	        "mana_cost": "{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Carnage Throne.png"
+	        },
+	        "printed names": {
+	            "en": "Carnage Throne"
+	        },
+	        "back": {
+	            "name": "Carnage Demon",
+	            "printed_names": {
+	                "en": "Carnage Demon"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Carnage Demon.png"
+	            },
+	            "type": "Creature — Demon "
+	        }
+	    },
+	    {
 	        "name": "Skirsdag Edict",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{B}",
@@ -930,30 +1224,30 @@
 	        }
 	    },
 	    {
+	        "name": "Malicious Eclipse",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Malicious Eclipse.png"
+	        }
+	    },
+	    {
+	        "name": "Curse of Nightmares",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{B}",
+	        "type": "Enchantment — Aura Curse ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of Nightmares.png"
+	        }
+	    },
+	    {
 	        "name": "Death Undone",
 	        "rarity": "uncommon",
 	        "mana_cost": "{5}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Death Undone.png"
-	        }
-	    },
-	    {
-	        "name": "Nervewing Skaab",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{U}{U}",
-	        "type": "Creature — Zombie Horror ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Nervewing Skaab.png"
-	        }
-	    },
-	    {
-	        "name": "Sword of the Heavens",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{W}{W}",
-	        "type": "Artifact — Equipment ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Sword of the Heavens.png"
 	        }
 	    },
 	    {
@@ -1021,7 +1315,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Zombie Warrior ",
 	        "image_uris": {
-	            "en": "Deathless Butcher.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Deathless Butcher.png"
 	        },
 	        "printed names": {
 	            "en": "Deathless Butcher"
@@ -1032,7 +1326,7 @@
 	                "en": "Crawling Cottage"
 	            },
 	            "image_uris": {
-	                "en": "Crawling Cottage.png"
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Crawling Cottage.png"
 	            },
 	            "type": ""
 	        }
@@ -1056,6 +1350,15 @@
 	        }
 	    },
 	    {
+	        "name": "Dark Ascension",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dark Ascension.png"
+	        }
+	    },
+	    {
 	        "name": "Curse of Fangs",
 	        "rarity": "rare",
 	        "mana_cost": "{5}{B}{B}",
@@ -1065,12 +1368,153 @@
 	        }
 	    },
 	    {
+	        "name": "Sorin, Vampire Maverick",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{B}{B}",
+	        "type": "Legendary Planeswalker — Sorin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Sorin, Vampire Maverick.png"
+	        }
+	    },
+	    {
+	        "name": "Wurgelurg",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{B}{B}{B}",
+	        "type": "Creature — Avatar Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Wurgelurg.png"
+	        }
+	    },
+	    {
+	        "name": "Archdemon Shilgengar",
+	        "rarity": "mythic",
+	        "mana_cost": "{6}{B}{B}{B}{B}",
+	        "type": "Legendary Creature — Elder Demon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Archdemon Shilgengar.png"
+	        }
+	    },
+	    {
+	        "name": "Embercut Duelist",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Human Soldier Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Embercut Duelist.png"
+	        },
+	        "printed names": {
+	            "en": "Embercut Duelist"
+	        },
+	        "back": {
+	            "name": "Emberslash Werewolf",
+	            "printed_names": {
+	                "en": "Emberslash Werewolf"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Emberslash Werewolf.png"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Torch Reveler",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Devil ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Torch Reveler.png"
+	        }
+	    },
+	    {
+	        "name": "Affluent Host",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Vampire Noble ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Affluent Host.png"
+	        }
+	    },
+	    {
+	        "name": "Stromkirk Sangromancer",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Vampire Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Stromkirk Sangromancer.png"
+	        }
+	    },
+	    {
 	        "name": "Skirsdag Ritualist",
 	        "rarity": "common",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Shaman ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Skirsdag Ritualist.png"
+	        }
+	    },
+	    {
+	        "name": "Volatile Alchemist",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Volatile Alchemist.png"
+	        }
+	    },
+	    {
+	        "name": "Voldaren Crypt-Guard",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Vampire Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Voldaren Crypt-Guard.png"
+	        }
+	    },
+	    {
+	        "name": "Troublesome Throng",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Troublesome Throng.png"
+	        },
+	        "printed names": {
+	            "en": "Troublesome Throng"
+	        },
+	        "back": {
+	            "name": "Vartrossen Vandals",
+	            "printed_names": {
+	                "en": "Vartrossen Vandals"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Vartrossen Vandals.png"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Falkenrath Fletcher",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Vampire Archer ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Falkenrath Fletcher.png"
+	        }
+	    },
+	    {
+	        "name": "Stensia Cavalcade",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Vampire Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Stensia Cavalcade.png"
+	        }
+	    },
+	    {
+	        "name": "Crater Thing",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Elemental Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Crater Thing.png"
 	        }
 	    },
 	    {
@@ -1092,12 +1536,21 @@
 	        }
 	    },
 	    {
-	        "name": "Crave for Blood",
+	        "name": "Suffer the Blade",
 	        "rarity": "common",
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Crave for Blood.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Suffer the Blade.png"
+	        }
+	    },
+	    {
+	        "name": "Vampiric Vice",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Vampiric Vice.png"
 	        }
 	    },
 	    {
@@ -1146,6 +1599,48 @@
 	        }
 	    },
 	    {
+	        "name": "Voldaren Heartslicer",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Vampire Warrior ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Voldaren Heartslicer.png"
+	        },
+	        "printed names": {
+	            "en": "Voldaren Heartslicer"
+	        },
+	        "back": {
+	            "name": "Curse of Incurable Wounds",
+	            "printed_names": {
+	                "en": "Curse of Incurable Wounds"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of Incurable Wounds.png"
+	            },
+	            "type": "Enchantment — Aura Curse "
+	        }
+	    },
+	    {
+	        "name": "Kessig Jeweler",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Artificer Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Kessig Jeweler.png"
+	        },
+	        "printed names": {
+	            "en": "Kessig Jeweler"
+	        },
+	        "back": {
+	            "name": "Kessig Tombrobber",
+	            "printed_names": {
+	                "en": "Kessig Tombrobber"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Kessig Tombrobber.png"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
 	        "name": "Hellfreaks",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{R}",
@@ -1155,12 +1650,51 @@
 	        }
 	    },
 	    {
+	        "name": "Hanweir Miscreant",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Rebel Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Hanweir Miscreant.png"
+	        },
+	        "printed names": {
+	            "en": "Hanweir Miscreant"
+	        },
+	        "back": {
+	            "name": "Garrison Intruder",
+	            "printed_names": {
+	                "en": "Garrison Intruder"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Garrison Intruder.png"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
+	        "name": "Irascible Bloodwitch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Vampire Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Irascible Bloodwitch.png"
+	        }
+	    },
+	    {
 	        "name": "Obsidian Hellkite",
 	        "rarity": "uncommon",
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Obsidian Hellkite.png"
+	        }
+	    },
+	    {
+	        "name": "Surfacing Horripede",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}",
+	        "type": "Creature — Insect Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Surfacing Horripede.png"
 	        }
 	    },
 	    {
@@ -1200,6 +1734,54 @@
 	        }
 	    },
 	    {
+	        "name": "Dance with Devils",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dance with Devils.png"
+	        }
+	    },
+	    {
+	        "name": "Clash at Geier Reach",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Clash at Geier Reach.png"
+	        }
+	    },
+	    {
+	        "name": "Fangs of Wesgoth",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Vampire Assassin ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Fangs of Wesgoth.png"
+	        }
+	    },
+	    {
+	        "name": "Leyran Spellchainer",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Human Wizard Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Leyran Spellchainer.png"
+	        },
+	        "printed names": {
+	            "en": "Leyran Spellchainer"
+	        },
+	        "back": {
+	            "name": "Leyran Spellclaw",
+	            "printed_names": {
+	                "en": "Leyran Spellclaw"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Leyran Spellclaw.png"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
 	        "name": "Charging Commando",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Soldier ",
@@ -1221,12 +1803,42 @@
 	        }
 	    },
 	    {
+	        "name": "Pyromantic Duo",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Creature — Human Shaman Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Pyromantic Duo.png"
+	        },
+	        "printed names": {
+	            "en": "Pyromantic Duo"
+	        },
+	        "back": {
+	            "name": "Mayhem Tandem",
+	            "printed_names": {
+	                "en": "Mayhem Tandem"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Mayhem Tandem.png"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
 	        "name": "Tallowkeep",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{R}",
 	        "type": "Artifact Creature — Scarecrow ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Tallowkeep.png"
+	        }
+	    },
+	    {
+	        "name": "Infernal Direwolf",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Elemental Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Infernal Direwolf.png"
 	        }
 	    },
 	    {
@@ -1284,78 +1896,6 @@
 	        }
 	    },
 	    {
-	        "name": "Affluent Host",
-	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
-	        "type": "Creature — Vampire Noble ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Affluent Host.png"
-	        }
-	    },
-	    {
-	        "name": "Kessig Jeweler",
-	        "mana_cost": "{1}{R}",
-	        "type": "Creature — Human Artificer Werewolf ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Kessig Jeweler.png"
-	        },
-	        "printed names": {
-	            "en": "Kessig Jeweler"
-	        },
-	        "back": {
-	            "name": "Kessig Tombrobber",
-	            "printed_names": {
-	                "en": "Kessig Tombrobber"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Kessig Tombrobber.png"
-	            },
-	            "type": "Creature — Werewolf "
-	        }
-	    },
-	    {
-	        "name": "Leyran Spellchainer",
-	        "mana_cost": "{2}{R}{R}",
-	        "type": "Creature — Human Wizard Werewolf ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Leyran Spellchainer.png"
-	        },
-	        "printed names": {
-	            "en": "Leyran Spellchainer"
-	        },
-	        "back": {
-	            "name": "Leyran Spellclaw",
-	            "printed_names": {
-	                "en": "Leyran Spellclaw"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Leyran Spellclaw.png"
-	            },
-	            "type": "Creature — Werewolf "
-	        }
-	    },
-	    {
-	        "name": "Pyromantic Duo",
-	        "mana_cost": "{1}{R}{R}",
-	        "type": "Creature — Human Shaman Werewolf ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Pyromantic Duo.png"
-	        },
-	        "printed names": {
-	            "en": "Pyromantic Duo"
-	        },
-	        "back": {
-	            "name": "Mayhem Tandem",
-	            "printed_names": {
-	                "en": "Mayhem Tandem"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Mayhem Tandem.png"
-	            },
-	            "type": "Creature — Werewolf "
-	        }
-	    },
-	    {
 	        "name": "Creep of the Crop",
 	        "rarity": "common",
 	        "mana_cost": "{G}",
@@ -1404,6 +1944,15 @@
 	        }
 	    },
 	    {
+	        "name": "Banewidow",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Spider ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Banewidow.png"
+	        }
+	    },
+	    {
 	        "name": "Desperate Botanist",
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Druid Werewolf ",
@@ -1434,6 +1983,15 @@
 	        }
 	    },
 	    {
+	        "name": "Grizzled Parish-Blade",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Human Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Grizzled Parish-Blade.png"
+	        }
+	    },
+	    {
 	        "name": "Killer Scorpion",
 	        "rarity": "common",
 	        "mana_cost": "{3}{G}",
@@ -1458,6 +2016,15 @@
 	        "type": "Creature — Wolf ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Prowling Wolf.png"
+	        }
+	    },
+	    {
+	        "name": "Terror of the Ulvenwald",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Insect Horror ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Terror of the Ulvenwald.png"
 	        }
 	    },
 	    {
@@ -1533,6 +2100,27 @@
 	        }
 	    },
 	    {
+	        "name": "Adderblade Exterminator",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Human Assassin Werewolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Adderblade Exterminator.png"
+	        },
+	        "printed names": {
+	            "en": "Adderblade Exterminator"
+	        },
+	        "back": {
+	            "name": "Addermark Eviscerator",
+	            "printed_names": {
+	                "en": "Addermark Eviscerator"
+	            },
+	            "image_uris": {
+	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Addermark Eviscerator.png"
+	            },
+	            "type": "Creature — Werewolf "
+	        }
+	    },
+	    {
 	        "name": "Gavony Cavaliers",
 	        "rarity": "uncommon",
 	        "mana_cost": "{1}{G}",
@@ -1542,12 +2130,30 @@
 	        }
 	    },
 	    {
+	        "name": "Brambleswine",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Boar ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Brambleswine.png"
+	        }
+	    },
+	    {
 	        "name": "Cabin Golem",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{G}",
 	        "type": "Artifact Creature — Golem ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Cabin Golem.png"
+	        }
+	    },
+	    {
+	        "name": "Hungering Howlpack",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Hungering Howlpack.png"
 	        }
 	    },
 	    {
@@ -1857,6 +2463,15 @@
 	        }
 	    },
 	    {
+	        "name": "Malevolus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{6}{U}{R}",
+	        "type": "Creature — Elemental Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Malevolus.png"
+	        }
+	    },
+	    {
 	        "name": "Garden Ghoul",
 	        "rarity": "uncommon",
 	        "mana_cost": "{B}{G}",
@@ -1968,6 +2583,15 @@
 	        }
 	    },
 	    {
+	        "name": "Gisela, Blade of Morning",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{R}{W}{W}",
+	        "type": "Legendary Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Gisela, Blade of Morning.png"
+	        }
+	    },
+	    {
 	        "name": "Makodonis's Wolfbro",
 	        "rarity": "rare",
 	        "mana_cost": "{2}{G}{U}",
@@ -1980,27 +2604,18 @@
 	        "name": "Ghrin-Danu, the Dawnhart",
 	        "rarity": "mythic",
 	        "mana_cost": "{1}{G}{W}",
-	        "type": "Legendary Creature — God ",
+	        "type": "Legendary Creature — Elk God ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Ghrin-Danu, the Dawnhart.png"
 	        }
 	    },
 	    {
-	        "name": "Edgar Markov, Bloodsire",
+	        "name": "Divine Decree",
 	        "rarity": "mythic",
-	        "mana_cost": "{4}{R}{W}{B}",
-	        "type": "Legendary Creature — Vampire Knight ",
+	        "mana_cost": "{3}{W}{B}",
+	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Edgar Markov, Bloodsire.png"
-	        }
-	    },
-	    {
-	        "name": "Polina Elgaud",
-	        "rarity": "mythic",
-	        "mana_cost": "{4}{W}{W}",
-	        "type": "Legendary Planeswalker — Polina ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Polina Elgaud.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Divine Decree.png"
 	        }
 	    },
 	    {
@@ -2019,6 +2634,15 @@
 	        "type": "Legendary Creature — Human Wizard ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/The Selhoff Twins.png"
+	        }
+	    },
+	    {
+	        "name": "Edgar Markov, Bloodsire",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{R}{W}{B}",
+	        "type": "Legendary Creature — Vampire Knight ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Edgar Markov, Bloodsire.png"
 	        }
 	    },
 	    {
@@ -2256,828 +2880,6 @@
 	        }
 	    },
 	    {
-	        "name": "Elgaud Fortress",
-	        "rarity": "rare",
-	        "mana_cost": "",
-	        "type": "Land",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Elgaud Fortress.png"
-	        }
-	    },
-	    {
-	        "name": "Weapon",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Artifact — Weapon ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Weapon.png"
-	        }
-	    },
-	    {
-	        "name": "Human",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Human ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Human.png"
-	        }
-	    },
-	    {
-	        "name": "Spirit",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Spirit ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Spirit.png"
-	        }
-	    },
-	    {
-	        "name": "Crab",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Crab ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Crab.png"
-	        }
-	    },
-	    {
-	        "name": "Zombie",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Zombie ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Zombie.png"
-	        }
-	    },
-	    {
-	        "name": "Bat",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Bat ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Bat.png"
-	        }
-	    },
-	    {
-	        "name": "Human Survivor",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Human Survivor ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Human Survivor.png"
-	        }
-	    },
-	    {
-	        "name": "Treasure",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Artifact — Treasure ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Treasure.png"
-	        }
-	    },
-	    {
-	        "name": "Wolf",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Wolf ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Wolf.png"
-	        }
-	    },
-	    {
-	        "name": "Plant",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Plant ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Plant.png"
-	        }
-	    },
-	    {
-	        "name": "Bear Spirit",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Bear Spirit ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Bear Spirit.png"
-	        }
-	    },
-	    {
-	        "name": "Angel",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Angel ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Angel.png"
-	        }
-	    },
-	    {
-	        "name": "Devil",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Devil ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Devil.png"
-	        }
-	    },
-	    {
-	        "name": "Intangible Virtue",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Enchantment",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Intangible Virtue.png"
-	        }
-	    },
-	    {
-	        "name": "Divine Decree",
-	        "rarity": "mythic",
-	        "mana_cost": "{3}{W}{B}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Divine Decree.png"
-	        }
-	    },
-	    {
-	        "name": "Human Warlock",
-	        "rarity": "common",
-	        "mana_cost": "",
-	        "type": "Token Creature — Human Warlock ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Human Warlock.png"
-	        }
-	    },
-	    {
-	        "name": "Hanweir Miscreant",
-	        "mana_cost": "{2}{R}",
-	        "type": "Creature — Human Rebel Werewolf ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Hanweir Miscreant.png"
-	        },
-	        "printed names": {
-	            "en": "Hanweir Miscreant"
-	        },
-	        "back": {
-	            "name": "Garrison Intruder",
-	            "printed_names": {
-	                "en": "Garrison Intruder"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Garrison Intruder.png"
-	            },
-	            "type": "Creature — Werewolf "
-	        }
-	    },
-	    {
-	        "name": "Dark Ascension",
-	        "rarity": "rare",
-	        "mana_cost": "{2}{B}{B}{B}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dark Ascension.png"
-	        }
-	    },
-	    {
-	        "name": "Curse of Nightmares",
-	        "rarity": "uncommon",
-	        "mana_cost": "{3}{B}",
-	        "type": "Enchantment — Aura Curse ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of Nightmares.png"
-	        }
-	    },
-	    {
-	        "name": "Omendancer",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Shapeshifter ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Omendancer.png"
-	        }
-	    },
-	    {
-	        "name": "Unethical Research",
-	        "rarity": "common",
-	        "mana_cost": "{U}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Unethical Research.png"
-	        }
-	    },
-	    {
-	        "name": "Memory Surgeon",
-	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Human Wizard ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Memory Surgeon.png"
-	        }
-	    },
-	    {
-	        "name": "Haunted Waif",
-	        "mana_cost": "{2}{W}",
-	        "type": "Creature — Human Peasant ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Haunted Waif.png"
-	        },
-	        "printed names": {
-	            "en": "Haunted Waif"
-	        },
-	        "back": {
-	            "name": "Geist Whisperer",
-	            "printed_names": {
-	                "en": "Geist Whisperer"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Geist Whisperer.png"
-	            },
-	            "type": "Creature — Human Wizard "
-	        }
-	    },
-	    {
-	        "name": "Carnage Throne",
-	        "mana_cost": "{B}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Carnage Throne.png"
-	        },
-	        "printed names": {
-	            "en": "Carnage Throne"
-	        },
-	        "back": {
-	            "name": "Carnage Demon",
-	            "printed_names": {
-	                "en": "Carnage Demon"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Carnage Demon.png"
-	            },
-	            "type": "Creature — Demon "
-	        }
-	    },
-	    {
-	        "name": "Voldaren Crypt-Guard",
-	        "rarity": "common",
-	        "mana_cost": "{2}{R}",
-	        "type": "Creature — Vampire Warrior ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Voldaren Crypt-Guard.png"
-	        }
-	    },
-	    {
-	        "name": "Troublesome Throng",
-	        "mana_cost": "{3}{R}",
-	        "type": "Creature — Human Werewolf ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Troublesome Throng.png"
-	        },
-	        "printed names": {
-	            "en": "Troublesome Throng"
-	        },
-	        "back": {
-	            "name": "Vartrossen Vandals",
-	            "printed_names": {
-	                "en": "Vartrossen Vandals"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Vartrossen Vandals.png"
-	            },
-	            "type": "Creature — Werewolf "
-	        }
-	    },
-	    {
-	        "name": "Curse of the Tattletale",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{U}",
-	        "type": "Enchantment — Aura Curse ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of the Tattletale.png"
-	        }
-	    },
-	    {
-	        "name": "Havengul Banshee",
-	        "mana_cost": "{2}{U}",
-	        "type": "Creature — Spirit ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Havengul Banshee.png"
-	        },
-	        "printed names": {
-	            "en": "Havengul Banshee"
-	        },
-	        "back": {
-	            "name": "Curse of the Banshee",
-	            "printed_names": {
-	                "en": "Curse of the Banshee"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of the Banshee.png"
-	            },
-	            "type": "Enchantment — Aura Curse "
-	        }
-	    },
-	    {
-	        "name": "Infernal Direwolf",
-	        "rarity": "rare",
-	        "mana_cost": "{4}{R}{R}",
-	        "type": "Creature — Elemental Wolf ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Infernal Direwolf.png"
-	        }
-	    },
-	    {
-	        "name": "Dowager of Traublassen",
-	        "mana_cost": "{1}{B}",
-	        "type": "Creature — Human Noble ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dowager of Traublassen.png"
-	        },
-	        "printed names": {
-	            "en": "Dowager of Traublassen"
-	        },
-	        "back": {
-	            "name": "Despot of Traublassen",
-	            "printed_names": {
-	                "en": "Despot of Traublassen"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Despot of Traublassen.png"
-	            },
-	            "type": "Creature — Vampire "
-	        }
-	    },
-	    {
-	        "name": "Crater Thing",
-	        "rarity": "common",
-	        "mana_cost": "{4}{R}{R}",
-	        "type": "Creature — Elemental Horror ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Crater Thing.png"
-	        }
-	    },
-	    {
-	        "name": "Banewidow",
-	        "rarity": "common",
-	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Spider ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Banewidow.png"
-	        }
-	    },
-	    {
-	        "name": "Malicious Eclipse",
-	        "rarity": "uncommon",
-	        "mana_cost": "{1}{B}{B}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Malicious Eclipse.png"
-	        }
-	    },
-	    {
-	        "name": "Volatile Alchemist",
-	        "rarity": "common",
-	        "mana_cost": "{2}{R}",
-	        "type": "Creature — Human Wizard ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Volatile Alchemist.png"
-	        }
-	    },
-	    {
-	        "name": "Stensia Cavalcade",
-	        "rarity": "common",
-	        "mana_cost": "{4}{R}",
-	        "type": "Creature — Vampire Knight ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Stensia Cavalcade.png"
-	        }
-	    },
-	    {
-	        "name": "Breaking Dawn",
-	        "rarity": "common",
-	        "mana_cost": "{2}{W}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Breaking Dawn.png"
-	        }
-	    },
-	    {
-	        "name": "Terror of the Ulvenwald",
-	        "rarity": "common",
-	        "mana_cost": "{4}{G}{G}",
-	        "type": "Creature — Insect Horror ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Terror of the Ulvenwald.png"
-	        }
-	    },
-	    {
-	        "name": "Remove Soul",
-	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Remove Soul.png"
-	        }
-	    },
-	    {
-	        "name": "Suffer the Blade",
-	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Suffer the Blade.png"
-	        }
-	    },
-	    {
-	        "name": "Fangs of Wesgoth",
-	        "rarity": "rare",
-	        "mana_cost": "{R}",
-	        "type": "Creature — Vampire Assassin ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Fangs of Wesgoth.png"
-	        }
-	    },
-	    {
-	        "name": "Crypt Viper",
-	        "rarity": "common",
-	        "mana_cost": "{1}{B}",
-	        "type": "Creature — Zombie Snake ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Crypt Viper.png"
-	        }
-	    },
-	    {
-	        "name": "Surfacing Horripede",
-	        "rarity": "uncommon",
-	        "mana_cost": "{4}{R}",
-	        "type": "Creature — Insect Horror ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Surfacing Horripede.png"
-	        }
-	    },
-	    {
-	        "name": "Dance with Devils",
-	        "rarity": "uncommon",
-	        "mana_cost": "{3}{R}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dance with Devils.png"
-	        }
-	    },
-	    {
-	        "name": "Clash at Geier Reach",
-	        "rarity": "uncommon",
-	        "mana_cost": "{3}{R}{R}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Clash at Geier Reach.png"
-	        }
-	    },
-	    {
-	        "name": "Gisela, Blade of Morning",
-	        "rarity": "rare",
-	        "mana_cost": "{1}{R}{W}{W}",
-	        "type": "Legendary Creature — Angel ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Gisela, Blade of Morning.png"
-	        }
-	    },
-	    {
-	        "name": "Grizzled Parish-Blade",
-	        "rarity": "common",
-	        "mana_cost": "{3}{G}",
-	        "type": "Creature — Human Soldier ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Grizzled Parish-Blade.png"
-	        }
-	    },
-	    {
-	        "name": "Nebelgast Possessor",
-	        "rarity": "common",
-	        "mana_cost": "{U}",
-	        "type": "Creature — Spirit ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Nebelgast Possessor.png"
-	        }
-	    },
-	    {
-	        "name": "Brambleswine",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}",
-	        "type": "Creature — Boar ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Brambleswine.png"
-	        }
-	    },
-	    {
-	        "name": "Torch Reveler",
-	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
-	        "type": "Creature — Devil ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Torch Reveler.png"
-	        }
-	    },
-	    {
-	        "name": "Occult Metamorphosis",
-	        "rarity": "mythic",
-	        "mana_cost": "{3}{U}",
-	        "type": "Enchantment",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Occult Metamorphosis.png"
-	        }
-	    },
-	    {
-	        "name": "Hungering Howlpack",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{G}{G}",
-	        "type": "Creature — Wolf ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Hungering Howlpack.png"
-	        }
-	    },
-	    {
-	        "name": "Carrion Drake",
-	        "rarity": "common",
-	        "mana_cost": "{3}{U}",
-	        "type": "Creature — Zombie Drake ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Carrion Drake.png"
-	        }
-	    },
-	    {
-	        "name": "Falkenrath Fletcher",
-	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
-	        "type": "Creature — Vampire Archer ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Falkenrath Fletcher.png"
-	        }
-	    },
-	    {
-	        "name": "Seagraf Shamblers",
-	        "rarity": "common",
-	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Zombie ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Seagraf Shamblers.png"
-	        }
-	    },
-	    {
-	        "name": "Lone Zombie",
-	        "mana_cost": "{2}{B}",
-	        "type": "Creature — Zombie ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Lone Zombie.png"
-	        },
-	        "printed names": {
-	            "en": "Lone Zombie"
-	        },
-	        "back": {
-	            "name": "Zombie Legion",
-	            "printed_names": {
-	                "en": "Zombie Legion"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Zombie Legion.png"
-	            },
-	            "type": "Creature — Zombie "
-	        }
-	    },
-	    {
-	        "name": "Candlecrown Stag",
-	        "rarity": "common",
-	        "mana_cost": "{4}{W}",
-	        "type": "Creature — Elk ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Candlecrown Stag.png"
-	        }
-	    },
-	    {
-	        "name": "Alert the Village",
-	        "rarity": "common",
-	        "mana_cost": "{1}{W}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Alert the Village.png"
-	        }
-	    },
-	    {
-	        "name": "Undercroft Portal",
-	        "mana_cost": "{1}{U}",
-	        "type": "Artifact",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Undercroft Portal.png"
-	        },
-	        "printed names": {
-	            "en": "Undercroft Portal"
-	        },
-	        "back": {
-	            "name": "Unleashed Mindboggler",
-	            "printed_names": {
-	                "en": "Unleashed Mindboggler"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Unleashed Mindboggler.png"
-	            },
-	            "type": "Creature — Horror "
-	        }
-	    },
-	    {
-	        "name": "Undead Hex",
-	        "rarity": "common",
-	        "mana_cost": "{B}{B}",
-	        "type": "Instant",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Undead Hex.png"
-	        }
-	    },
-	    {
-	        "name": "Stromkirk Sangromancer",
-	        "rarity": "common",
-	        "mana_cost": "{1}{R}",
-	        "type": "Creature — Vampire Wizard ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Stromkirk Sangromancer.png"
-	        }
-	    },
-	    {
-	        "name": "Malevolus",
-	        "rarity": "uncommon",
-	        "mana_cost": "{6}{U}{R}",
-	        "type": "Creature — Elemental Spirit ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Malevolus.png"
-	        }
-	    },
-	    {
-	        "name": "Silverblade Cathar",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{W}",
-	        "type": "Creature — Human Knight ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Silverblade Cathar.png"
-	        }
-	    },
-	    {
-	        "name": "Embercut Duelist",
-	        "mana_cost": "{R}",
-	        "type": "Creature — Human Soldier Werewolf ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Embercut Duelist.png"
-	        },
-	        "printed names": {
-	            "en": "Embercut Duelist"
-	        },
-	        "back": {
-	            "name": "Emberslash Werewolf",
-	            "printed_names": {
-	                "en": "Emberslash Werewolf"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Emberslash Werewolf.png"
-	            },
-	            "type": "Creature — Werewolf "
-	        }
-	    },
-	    {
-	        "name": "Undead Servant",
-	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
-	        "type": "Creature — Zombie ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Undead Servant.png"
-	        }
-	    },
-	    {
-	        "name": "Adderblade Exterminator",
-	        "mana_cost": "{G}",
-	        "type": "Creature — Human Assassin Werewolf ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Adderblade Exterminator.png"
-	        },
-	        "printed names": {
-	            "en": "Adderblade Exterminator"
-	        },
-	        "back": {
-	            "name": "Addermark Eviscerator",
-	            "printed_names": {
-	                "en": "Addermark Eviscerator"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Addermark Eviscerator.png"
-	            },
-	            "type": "Creature — Werewolf "
-	        }
-	    },
-	    {
-	        "name": "Voldaren Heartslicer",
-	        "mana_cost": "{1}{R}",
-	        "type": "Creature — Vampire Warrior ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Voldaren Heartslicer.png"
-	        },
-	        "printed names": {
-	            "en": "Voldaren Heartslicer"
-	        },
-	        "back": {
-	            "name": "Curse of Incurable Wounds",
-	            "printed_names": {
-	                "en": "Curse of Incurable Wounds"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of Incurable Wounds.png"
-	            },
-	            "type": "Enchantment — Aura Curse "
-	        }
-	    },
-	    {
-	        "name": "Alabaster Halo",
-	        "mana_cost": "{2}{W}",
-	        "type": "Enchantment — Aura ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Alabaster Halo.png"
-	        },
-	        "printed names": {
-	            "en": "Alabaster Halo"
-	        },
-	        "back": {
-	            "name": "Alabaster Avenger",
-	            "printed_names": {
-	                "en": "Alabaster Avenger"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Alabaster Avenger.png"
-	            },
-	            "type": "Creature — Angel "
-	        }
-	    },
-	    {
-	        "name": "Shilgengar's Harvester",
-	        "rarity": "common",
-	        "mana_cost": "{4}{B}",
-	        "type": "Creature — Demon ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Shilgengar's Harvester.png"
-	        }
-	    },
-	    {
-	        "name": "Drunau Egg",
-	        "mana_cost": "{1}{U}",
-	        "type": "Creature — Leviathan Egg ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Drunau Egg.png"
-	        },
-	        "printed names": {
-	            "en": "Drunau Egg"
-	        },
-	        "back": {
-	            "name": "Drunau Engulfer",
-	            "printed_names": {
-	                "en": "Drunau Engulfer"
-	            },
-	            "image_uris": {
-	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Drunau Engulfer.png"
-	            },
-	            "type": "Creature — Leviathan "
-	        }
-	    },
-	    {
-	        "name": "Plague Herald",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{B}{B}",
-	        "type": "Creature — Zombie Goat ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Plague Herald.png"
-	        }
-	    },
-	    {
-	        "name": "Traft, Lunarch's Edge",
-	        "rarity": "rare",
-	        "mana_cost": "{1}{W}",
-	        "type": "Legendary Creature — Human Cleric Knight ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Traft, Lunarch's Edge.png"
-	        }
-	    },
-	    {
-	        "name": "Righteous Chaplain",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{W}{W}",
-	        "type": "Creature — Human Cleric ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Righteous Chaplain.png"
-	        }
-	    },
-	    {
-	        "name": "Markov Fencer",
-	        "rarity": "common",
-	        "mana_cost": "{1}{B}",
-	        "type": "Creature — Vampire Knight ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Markov Fencer.png"
-	        }
-	    },
-	    {
 	        "name": "Genesis Grove",
 	        "rarity": "uncommon",
 	        "mana_cost": "",
@@ -3087,48 +2889,30 @@
 	        }
 	    },
 	    {
-	        "name": "Dawnhart's Envoy",
+	        "name": "Elgaud Fortress",
 	        "rarity": "rare",
-	        "mana_cost": "{2}{W}",
-	        "type": "Creature — Elk ",
+	        "mana_cost": "",
+	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dawnhart's Envoy.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Elgaud Fortress.png"
 	        }
 	    },
 	    {
-	        "name": "Dread Elk",
+	        "name": "Plains",
 	        "rarity": "common",
-	        "mana_cost": "{3}{B}",
-	        "type": "Creature — Zombie Elk ",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Dread Elk.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Plains.png"
 	        }
 	    },
 	    {
-	        "name": "Irascible Bloodwitch",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{R}{R}",
-	        "type": "Creature — Vampire Warlock ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Irascible Bloodwitch.png"
-	        }
-	    },
-	    {
-	        "name": "Undead Necromancer",
-	        "rarity": "uncommon",
-	        "mana_cost": "{2}{B}",
-	        "type": "Creature — Zombie Warlock ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Undead Necromancer.png"
-	        }
-	    },
-	    {
-	        "name": "Flawless Finesse",
+	        "name": "Plains2",
 	        "rarity": "common",
-	        "mana_cost": "{1}{W}",
-	        "type": "Instant",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Flawless Finesse.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Plains2.png"
 	        }
 	    },
 	    {
@@ -3141,12 +2925,48 @@
 	        }
 	    },
 	    {
+	        "name": "Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Island.png"
+	        }
+	    },
+	    {
+	        "name": "Island2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Island2.png"
+	        }
+	    },
+	    {
 	        "name": "Island3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Island3.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Swamp.png"
+	        }
+	    },
+	    {
+	        "name": "Swamp2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Swamp2.png"
 	        }
 	    },
 	    {
@@ -3159,12 +2979,48 @@
 	        }
 	    },
 	    {
+	        "name": "Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Mountain.png"
+	        }
+	    },
+	    {
+	        "name": "Mountain2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Mountain2.png"
+	        }
+	    },
+	    {
 	        "name": "Mountain3",
 	        "rarity": "common",
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Mountain3.png"
+	        }
+	    },
+	    {
+	        "name": "Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Forest.png"
+	        }
+	    },
+	    {
+	        "name": "Forest2",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Forest2.png"
 	        }
 	    },
 	    {
@@ -3194,58 +3050,197 @@
 	            "image_uris": {
 	                "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Skullbriar, Death's Mockery.png"
 	            },
-	            "type": "Legendary Creature — Zombie Elemental "
+	            "type": "Legendary Land Creature — Zombie Elemental "
+	        }
+	    },
+	    {
+	        "name": "Angel",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Angel ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Angel.png"
+	        }
+	    },
+	    {
+	        "name": "Human",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Human ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Human.png"
+	        }
+	    },
+	    {
+	        "name": "Intangible Virtue",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Intangible Virtue.png"
+	        }
+	    },
+	    {
+	        "name": "Spirit",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Spirit.png"
+	        }
+	    },
+	    {
+	        "name": "Crab",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Crab ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Crab.png"
+	        }
+	    },
+	    {
+	        "name": "Bat",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Bat ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Bat.png"
+	        }
+	    },
+	    {
+	        "name": "Human Warlock",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Human Warlock ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Human Warlock.png"
+	        }
+	    },
+	    {
+	        "name": "Zombie",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Zombie.png"
+	        }
+	    },
+	    {
+	        "name": "Devil",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Devil ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Devil.png"
+	        }
+	    },
+	    {
+	        "name": "Human Survivor",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Human Survivor ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Human Survivor.png"
+	        }
+	    },
+	    {
+	        "name": "Bear Spirit",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Bear Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Bear Spirit.png"
+	        }
+	    },
+	    {
+	        "name": "Plant",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Plant.png"
+	        }
+	    },
+	    {
+	        "name": "Wolf",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Wolf ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Wolf.png"
+	        }
+	    },
+	    {
+	        "name": "Vampire",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Vampire ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Vampire.png"
+	        }
+	    },
+	    {
+	        "name": "Treasure",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Artifact — Treasure ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Treasure.png"
+	        }
+	    },
+	    {
+	        "name": "Weapon",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Artifact — Weapon ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Weapon.png"
 	        }
 	    }
 	]
 	[RareSlot(1)]
-		30 Resting Tombs
 		30 Cenotaph Possessor
-		30 Cathar's Armory
-		30 Quell Evil
+		30 Traft, Lunarch's Edge
+		30 Dawnhart's Envoy
 		30 Outrider Captain
 		30 Hecatomb Haunter
+		30 Quell Evil
+		30 Cathar's Armory
+		30 Sword of the Heavens
 		30 Cryptic Possessor
 		30 Nephalia Inquisitors
 		30 Krothuss, Abyssal Terror
 		30 Snag Apparition
-		30 Paranormal Convergence
 		30 Curse of the Breathless
 		30 Curse of Time
 		30 Nervewing Skaab
-		30 Sword of the Heavens
-		30 Oswin, Skirsdag Diabolist
-		30 Corpse Thief
 		30 Falkenrath Bladesire
 		30 Doomsday Horde
 		30 Deathless Butcher
 		30 Syphon Dreams
 		30 Left for Dead
+		30 Dark Ascension
 		30 Curse of Fangs
-		30 Charging Commando
+		30 Fangs of Wesgoth
 		30 Tallowkeep
+		30 Infernal Direwolf
 		30 Welcome to the Ashmouth
 		30 Curse of Hallucinations
 		30 Exhaust Possibilities
-		30 Leyran Spellchainer
-		30 Pyromantic Duo
 		30 Molderkin
-		30 Ulvenwald Ranger
 		30 Phantom of Wolf's Run
 		30 Glutton of Zhava
 		30 Ursagore
-		30 Vartrossen Primalist
 		30 Risen Lumberknot
-		30 Mistwood Rites
 		30 Harness Nature
 		30 Bruna, Shepherd of Souls
 		30 Drownyard Colossus
 		30 Olivia Voldaren, Progenitrix
-		30 Valseid, Leyran Brute
 		30 Sigarda, Dawn of Mercy
 		30 Liesa, Enemy of Shadow
 		30 Curse of Whispers
 		30 Krallenmaw, the Tempter
+		30 Gisela, Blade of Morning
 		30 Makodonis's Wolfbro
 		30 Exsanguinator
 		30 Scrolls of Succession
@@ -3253,72 +3248,75 @@
 		30 The Wickerscreech of Gatstaf
 		30 Helvault, Shard of the Moon
 		30 Elgaud Fortress
-		30 Dark Ascension
-		30 Infernal Direwolf
-		30 Fangs of Wesgoth
-		30 Gisela, Blade of Morning
-		30 Undercroft Portal
-		30 Traft, Lunarch's Edge
-		30 Dawnhart's Envoy
 		10 Flight of Angels
 		10 Avacyn
-		10 Archdemon Shilgengar
+		10 Polina Elgaud
+		10 Stitched Gargantua
+		10 Occult Metamorphosis
+		10 Fathom the Unfathomable
 		10 Sorin, Vampire Maverick
 		10 Wurgelurg
-		10 Stitched Gargantua
-		10 Fathom the Unfathomable
+		10 Archdemon Shilgengar
 		10 Volcanic Malignus
 		10 Marzela Falkenrath
 		10 Utter Pandemonium
 		10 Prayers for the Hunted
 		10 Kernon, Primeval Ritualist
-		10 Krendel of Kessig
 		10 Ghrin-Danu, the Dawnhart
-		10 Edgar Markov, Bloodsire
-		10 Polina Elgaud
+		10 Divine Decree
 		10 Makodonis, Master of Form
 		10 The Selhoff Twins
-		10 Divine Decree
-		10 Occult Metamorphosis
+		10 Edgar Markov, Bloodsire
 	[UncommonSlot(3)]
 		50 Puresoul Possessor
-		50 Beckoning Possessor
-		50 Cathedral Gargoyle
-		50 Angel of Sunrise
 		50 Blessed Bladewright
-		50 Phantom Presence
-		50 Sacralize
-		50 Avacyn's Mark
+		50 Beckoning Possessor
+		50 Silverblade Cathar
+		50 Cathedral Gargoyle
+		50 Righteous Chaplain
+		50 Angel of Sunrise
 		50 Evanescence
+		50 Avacyn's Mark
+		50 Sacralize
+		50 Phantom Presence
 		50 Ensnaring Possessor
 		50 Niblis of Hail
+		50 Omendancer
 		50 Severed Hands
 		50 Mistmourner
 		50 Morkrut Gryff
 		50 Braineater Abominus
 		50 Spine-Chilling Discovery
+		50 Curse of the Tattletale
 		50 Shackled Memories
 		50 Curse of Scuttling Thoughts
 		50 Bone Lich
 		50 Vespercloak Vampire
 		50 Diregraf Crawler
+		50 Undead Necromancer
 		50 Grim Raven of Wesgoth
+		50 Plague Herald
 		50 Umbersteed
 		50 Skirsdag Edict
+		50 Malicious Eclipse
+		50 Curse of Nightmares
 		50 Death Undone
 		50 Hellfreaks
+		50 Irascible Bloodwitch
 		50 Obsidian Hellkite
+		50 Surfacing Horripede
 		50 Curse of the Hunter's Moon
 		50 Silvershot Crossbow
 		50 Curse of Raining Daggers
 		50 Ignite the Future
-		50 Kessig Jeweler
+		50 Dance with Devils
+		50 Clash at Geier Reach
 		50 Gavony Cavaliers
+		50 Brambleswine
 		50 Cabin Golem
-		50 Treeline Archer
+		50 Hungering Howlpack
 		50 Rosenhulk
 		50 Primordial Slime
-		50 Dawnhart Ceremony
 		50 Pushing Daisies
 		50 Barge Through
 		50 Brutalizer Gear
@@ -3329,6 +3327,7 @@
 		50 Leyran Hunting Pack
 		50 Heron's Grace Patrol
 		50 March of the Unhallowed
+		50 Malevolus
 		50 Garden Ghoul
 		50 Goldnight Seraph
 		50 Liturgy of Brine
@@ -3337,57 +3336,41 @@
 		50 Angelic Statue
 		50 Demonrune Wall
 		50 Ghoulcaller's Graf
-		50 Hanweir Miscreant
-		50 Curse of Nightmares
-		50 Omendancer
-		50 Haunted Waif
-		50 Carnage Throne
-		50 Curse of the Tattletale
-		50 Havengul Banshee
-		50 Dowager of Traublassen
-		50 Malicious Eclipse
-		50 Surfacing Horripede
-		50 Dance with Devils
-		50 Clash at Geier Reach
-		50 Brambleswine
-		50 Hungering Howlpack
-		50 Malevolus
-		50 Silverblade Cathar
-		50 Adderblade Exterminator
-		50 Voldaren Heartslicer
-		50 Alabaster Halo
-		50 Drunau Egg
-		50 Plague Herald
-		50 Righteous Chaplain
 		50 Genesis Grove
-		50 Irascible Bloodwitch
-		50 Undead Necromancer
 	[CommonSlot(10)]
-		50 Lifted Spirits
 		50 Cobblespook
 		50 Drogskol Possessor
 		50 Stalwart Cathar
 		50 Departed Butler
-		50 Loyal Retriever
 		50 Curewitch of Ghrin-Danu
+		50 Loyal Retriever
 		50 Moorland Slayer
 		50 Sigarda's Shepherd
+		50 Candlecrown Stag
 		50 Weizenmother
 		50 Moonscythe
 		50 Subdue the Monster
-		50 Frightful Visitation
+		50 Alert the Village
+		50 Flawless Finesse
 		50 Spectral Salvo
+		50 Breaking Dawn
+		50 Lifted Spirits
+		50 Frightful Visitation
 		50 Slayer's Grimoire
-		50 Avacyn's Partisan
+		50 Nebelgast Possessor
+		50 Memory Surgeon
 		50 Widow Wisp
-		50 Brine Cultist
+		50 Seagraf Shamblers
 		50 Covetous Possessor
+		50 Brine Cultist
+		50 Carrion Drake
 		50 Escaped Ooze
 		50 Skaab Grappler
 		50 Sunken One
-		50 Corrupted Sorcerer
 		50 Ghastly Guidance
+		50 Unethical Research
 		50 Claim of the Deep
+		50 Remove Soul
 		50 Curse of Doubt
 		50 Body and Mind
 		50 Curse of Lost Identity
@@ -3395,36 +3378,51 @@
 		50 Scare Away
 		50 Contagious Ghoul
 		50 Mirrorfright
+		50 Crypt Viper
+		50 Markov Fencer
 		50 Falkenrath Ordainer
 		50 Acolyte of Griselbrand
+		50 Undead Servant
+		50 Dread Elk
+		50 Shilgengar's Harvester
 		50 It Came from the Bog
 		50 Sanguine Salvation
 		50 Lich's Grimoire
-		50 Curse of Opened Tombs
+		50 Curse of the Unburied
+		50 Undead Hex
 		50 Drain Youth
 		50 True Blood
 		50 Olivia's Offer
 		50 Strangleroot's Clutches
 		50 Final Destination
+		50 Torch Reveler
+		50 Affluent Host
+		50 Stromkirk Sangromancer
 		50 Skirsdag Ritualist
+		50 Volatile Alchemist
+		50 Voldaren Crypt-Guard
+		50 Falkenrath Fletcher
+		50 Stensia Cavalcade
+		50 Crater Thing
 		50 Alchemist's Grimoire
 		50 Go Feral
-		50 Crave for Blood
+		50 Suffer the Blade
+		50 Vampiric Vice
 		50 Curse of the Vein
 		50 Faithless Razing
 		50 Grasping Carriage
 		50 Curse of Slaughter
 		50 Hatefire
-		50 Affluent Host
 		50 Creep of the Crop
 		50 Dawnhart Druid
-		50 Somberwald Rider
 		50 Lambholt Tracker
-		50 Desperate Botanist
+		50 Banewidow
 		50 Kessig Woodcutter
+		50 Grizzled Parish-Blade
 		50 Killer Scorpion
 		50 Orchard Overseer
 		50 Prowling Wolf
+		50 Terror of the Ulvenwald
 		50 Moldgraf Wurm
 		50 Never Give Up
 		50 Blossoming Defense
@@ -3438,6 +3436,41 @@
 		50 Pulse Seeker
 		50 Bodyless Knight
 		50 Guardian Grotesque
+		50 Sinister Thicket
+	[DFCSlot (1)]
+		50 Avacyn's Partisan
+		40 Haunted Waif
+		40 Alabaster Halo
+		50 Corrupted Sorcerer
+		40 Drunau Egg
+		50 Havengul Banshee
+		50 Lone Zombie
+		40 Dowager of Traublassen
+		40 Carnage Throne
+		50 Embercut Duelist
+		50 Troublesome Throng
+		40 Voldaren Heartslicer
+		40 Kessig Jeweler
+		40 Hanweir Miscreant
+		50 Somberwald Rider
+		50 Desperate Botanist
+		40 Adderblade Exterminator
+		40 Treeline Archer
+		40 Dawnhart Ceremony
+		30 Resting Tombs
+		30 Paranormal Convergence
+		30 Undercroft Portal
+		30 Oswin, Skirsdag Diabolist
+		30 Corpse Thief
+		30 Leyran Spellchainer
+		30 Charging Commando
+		30 Pyromantic Duo
+		30 Ulvenwald Ranger
+		30 Vartrossen Primalist
+		30 Mistwood Rites
+		30 Valseid, Leyran Brute
+		10 Krendel of Kessig
+	[BasicSlot(1)] 
 		50 Fog-Ridden Wharf
 		50 Macabre Pools
 		50 Hellfire Crater
@@ -3448,34 +3481,18 @@
 		50 Putrid Corcass
 		50 Sunswept Grange
 		50 Secret Lagoon
-		50 Sinister Thicket
-		50 Unethical Research
-		50 Memory Surgeon
-		50 Voldaren Crypt-Guard
-		50 Troublesome Throng
-		50 Crater Thing
-		50 Banewidow
-		50 Volatile Alchemist
-		50 Stensia Cavalcade
-		50 Breaking Dawn
-		50 Terror of the Ulvenwald
-		50 Remove Soul
-		50 Suffer the Blade
-		50 Crypt Viper
-		50 Grizzled Parish-Blade
-		50 Nebelgast Possessor
-		50 Torch Reveler
-		50 Carrion Drake
-		50 Falkenrath Fletcher
-		50 Seagraf Shamblers
-		50 Lone Zombie
-		50 Candlecrown Stag
-		50 Alert the Village
-		50 Undead Hex
-		50 Stromkirk Sangromancer
-		50 Embercut Duelist
-		50 Undead Servant
-		50 Shilgengar's Harvester
-		50 Markov Fencer
-		50 Dread Elk
-		50 Flawless Finesse
+		20 Plains
+		20 Plains2
+		20 Island
+		20 Island2
+		20 Swamp
+		20 Swamp2
+		20 Mountain
+		20 Mountain2
+		20 Forest
+		20 Forest2
+		10 Plains3
+		10 Island3
+		10 Swamp3
+		10 Mountain3
+		10 Forest3
