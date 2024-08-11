@@ -3198,6 +3198,39 @@
 	        }
 	    }
 	]
+	[DFCSlot (1)]
+		50 Avacyn's Partisan
+		40 Haunted Waif
+		40 Alabaster Halo
+		50 Corrupted Sorcerer
+		40 Drunau Egg
+		50 Havengul Banshee
+		50 Lone Zombie
+		40 Dowager of Traublassen
+		40 Carnage Throne
+		50 Embercut Duelist
+		50 Troublesome Throng
+		40 Voldaren Heartslicer
+		40 Kessig Jeweler
+		40 Hanweir Miscreant
+		50 Somberwald Rider
+		50 Desperate Botanist
+		40 Adderblade Exterminator
+		40 Treeline Archer
+		40 Dawnhart Ceremony
+		30 Resting Tombs
+		30 Paranormal Convergence
+		30 Undercroft Portal
+		30 Oswin, Skirsdag Diabolist
+		30 Corpse Thief
+		30 Leyran Spellchainer
+		30 Charging Commando
+		30 Pyromantic Duo
+		30 Ulvenwald Ranger
+		30 Vartrossen Primalist
+		30 Mistwood Rites
+		30 Valseid, Leyran Brute
+		10 Krendel of Kessig
 	[RareSlot(1)]
 		30 Cenotaph Possessor
 		30 Traft, Lunarch's Edge
@@ -3437,39 +3470,6 @@
 		50 Bodyless Knight
 		50 Guardian Grotesque
 		50 Sinister Thicket
-	[DFCSlot (1)]
-		50 Avacyn's Partisan
-		40 Haunted Waif
-		40 Alabaster Halo
-		50 Corrupted Sorcerer
-		40 Drunau Egg
-		50 Havengul Banshee
-		50 Lone Zombie
-		40 Dowager of Traublassen
-		40 Carnage Throne
-		50 Embercut Duelist
-		50 Troublesome Throng
-		40 Voldaren Heartslicer
-		40 Kessig Jeweler
-		40 Hanweir Miscreant
-		50 Somberwald Rider
-		50 Desperate Botanist
-		40 Adderblade Exterminator
-		40 Treeline Archer
-		40 Dawnhart Ceremony
-		30 Resting Tombs
-		30 Paranormal Convergence
-		30 Undercroft Portal
-		30 Oswin, Skirsdag Diabolist
-		30 Corpse Thief
-		30 Leyran Spellchainer
-		30 Charging Commando
-		30 Pyromantic Duo
-		30 Ulvenwald Ranger
-		30 Vartrossen Primalist
-		30 Mistwood Rites
-		30 Valseid, Leyran Brute
-		10 Krendel of Kessig
 	[BasicSlot(1)] 
 		50 Fog-Ridden Wharf
 		50 Macabre Pools
