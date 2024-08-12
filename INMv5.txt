@@ -3375,7 +3375,7 @@
 		50 Drogskol Possessor
 		50 Stalwart Cathar
 		50 Departed Butler
-		50 Curewitch of Ghrin-Danu
+		50 Harvesttide Healer
 		50 Loyal Retriever
 		50 Moorland Slayer
 		50 Sigarda's Shepherd
