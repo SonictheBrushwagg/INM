@@ -211,7 +211,7 @@ Enchanted creature gets +1/+1 and has flying.</text>
     </card>
     <card>
       <name>Resting Tombs</name>
-      <set rarity="rare" splitterPath="/Resting Tombs.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Resting Tombs.png" >INM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -229,7 +229,7 @@ When Resting Tombs enters, exile target creature an opponent controls until this
     </card>
     <card>
       <name>Restless Souls</name>
-      <set rarity="rare" splitterPath="/Restless Souls.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Restless Souls.png" >INM</set>
       <prop>
         <colors>B</colors>
         <manacost></manacost>
@@ -663,7 +663,7 @@ Flashback 3U (You may cast this card from your graveyard for its flashback cost.
     </card>
     <card>
       <name>Avacyn&apos;s Partisan</name>
-      <set rarity="common" splitterPath="/Avacyn's Partisan.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Avacyn's Partisan.png" >INM</set>
       <prop>
         <colors>W</colors>
         <manacost>1W</manacost>
@@ -680,7 +680,7 @@ Flashback 3U (You may cast this card from your graveyard for its flashback cost.
     </card>
     <card>
       <name>Avacyn&apos;s Paladin</name>
-      <set rarity="common" splitterPath="/Avacyn's Paladin.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Avacyn's Paladin.png" >INM</set>
       <prop>
         <colors>W</colors>
         <manacost></manacost>
@@ -801,7 +801,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
     </card>
     <card>
       <name>Corrupted Sorcerer</name>
-      <set rarity="common" splitterPath="/Corrupted Sorcerer.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Corrupted Sorcerer.png" >INM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -819,7 +819,7 @@ Islandcycling {2} ({2}, Discard this card: Search your library for an Island car
     </card>
     <card>
       <name>Conjured Stalker</name>
-      <set rarity="common" splitterPath="/Conjured Stalker.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Conjured Stalker.png" >INM</set>
       <prop>
         <colors>U</colors>
         <manacost></manacost>
@@ -1132,7 +1132,7 @@ Flashback—2U or Tap two untapped blue creatures you control. (You may cast thi
     </card>
     <card>
       <name>Paranormal Convergence</name>
-      <set rarity="rare" splitterPath="/Paranormal Convergence.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Paranormal Convergence.png" >INM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -1151,7 +1151,7 @@ in your graveyard is five or more.
     </card>
     <card>
       <name>Parabolic Predator</name>
-      <set rarity="rare" splitterPath="/Parabolic Predator.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Parabolic Predator.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost></manacost>
@@ -1552,7 +1552,7 @@ Equip {3}</text>
     </card>
     <card>
       <name>Oswin, Skirsdag Diabolist</name>
-      <set rarity="rare" splitterPath="/Oswin, Skirsdag Diabolist.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Oswin, Skirsdag Diabolist.png" >INM</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -1571,7 +1571,7 @@ At the beginning of your first main phase, you lose 1 life and create a 1/1 blac
     </card>
     <card>
       <name>Griselbrand, the Usurper</name>
-      <set rarity="rare" splitterPath="/Griselbrand, the Usurper.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Griselbrand, the Usurper.png" >INM</set>
       <prop>
         <colors>B</colors>
         <manacost></manacost>
@@ -1587,7 +1587,7 @@ When this creature transforms into Griselbrand, the Usurper, draw seven cards.
     </card>
     <card>
       <name>Corpse Thief</name>
-      <set rarity="rare" splitterPath="/Corpse Thief.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Corpse Thief.png" >INM</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -1606,7 +1606,7 @@ Whenever Corpse Thief deals combat damage to a player, return target creature ca
     </card>
     <card>
       <name>Copse Tyrant</name>
-      <set rarity="rare" splitterPath="/Copse Tyrant.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Copse Tyrant.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -1935,7 +1935,7 @@ Flashback 7R (You may cast this card from your graveyard for its flashback cost.
     </card>
     <card>
       <name>Charging Commando</name>
-      <set rarity="rare" splitterPath="/Charging Commando.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Charging Commando.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -1953,7 +1953,7 @@ Flashback 7R (You may cast this card from your graveyard for its flashback cost.
     </card>
     <card>
       <name>Cornered Cathar</name>
-      <set rarity="rare" splitterPath="/Cornered Cathar.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Cornered Cathar.png" >INM</set>
       <prop>
         <colors>W</colors>
         <manacost></manacost>
@@ -2089,7 +2089,7 @@ When Affluent Host dies, it deals 1 damage to each opponent. Create a Treasure t
     </card>
     <card>
       <name>Kessig Jeweler</name>
-      <set rarity="uncommon" splitterPath="/Kessig Jeweler.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Kessig Jeweler.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -2107,7 +2107,7 @@ When Affluent Host dies, it deals 1 damage to each opponent. Create a Treasure t
     </card>
     <card>
       <name>Kessig Tombrobber</name>
-      <set rarity="uncommon" splitterPath="/Kessig Tombrobber.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Kessig Tombrobber.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost></manacost>
@@ -2123,7 +2123,7 @@ At the beginning of your end step, if Kessig Tombrobber didn’t attack this tur
     </card>
     <card>
       <name>Leyran Spellchainer</name>
-      <set rarity="rare" splitterPath="/Leyran Spellchainer.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Leyran Spellchainer.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost>2RR</manacost>
@@ -2141,7 +2141,7 @@ At the beginning of your end step, if Kessig Tombrobber didn’t attack this tur
     </card>
     <card>
       <name>Leyran Spellclaw</name>
-      <set rarity="rare" splitterPath="/Leyran Spellclaw.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Leyran Spellclaw.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost></manacost>
@@ -2157,7 +2157,7 @@ At the beginning of your end step, if Leyran Spellclaw didn’t attack this turn
     </card>
     <card>
       <name>Pyromantic Duo</name>
-      <set rarity="rare" splitterPath="/Pyromantic Duo.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Pyromantic Duo.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost>1RR</manacost>
@@ -2176,7 +2176,7 @@ If a source you control would deal damage to an opponent, it deals that much dam
     </card>
     <card>
       <name>Mayhem Tandem</name>
-      <set rarity="rare" splitterPath="/Mayhem Tandem.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Mayhem Tandem.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost></manacost>
@@ -2224,7 +2224,7 @@ Invocation — Whenever you spend four or more mana to cast a spell or activate 
     </card>
     <card>
       <name>Somberwald Rider</name>
-      <set rarity="common" splitterPath="/Somberwald Rider.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Somberwald Rider.png" >INM</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2242,7 +2242,7 @@ Invocation — Whenever you spend four or more mana to cast a spell or activate 
     </card>
     <card>
       <name>Somberwald Slaughterer</name>
-      <set rarity="common" splitterPath="/Somberwald Slaughterer.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Somberwald Slaughterer.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -2273,7 +2273,7 @@ When Lambholt Tracker dies, exile up to one target card from a graveyard.</text>
     </card>
     <card>
       <name>Desperate Botanist</name>
-      <set rarity="common" splitterPath="/Desperate Botanist.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Desperate Botanist.png" >INM</set>
       <prop>
         <colors>G</colors>
         <manacost>2G</manacost>
@@ -2291,7 +2291,7 @@ When Lambholt Tracker dies, exile up to one target card from a graveyard.</text>
     </card>
     <card>
       <name>Bramblemane</name>
-      <set rarity="common" splitterPath="/Bramblemane.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Bramblemane.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -2513,7 +2513,7 @@ Creatures you control that are enchanted or equipped have trample.</text>
     </card>
     <card>
       <name>Treeline Archer</name>
-      <set rarity="uncommon" splitterPath="/Treeline Archer.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Treeline Archer.png" >INM</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -2532,7 +2532,7 @@ When Treeline Archer enters, mill four cards.
     </card>
     <card>
       <name>Towering Alpha</name>
-      <set rarity="uncommon" splitterPath="/Towering Alpha.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Towering Alpha.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -2583,7 +2583,7 @@ When Primordial Slime dies, exile target artifact or enchantment an opponent con
     </card>
     <card>
       <name>Dawnhart Ceremony</name>
-      <set rarity="uncommon" splitterPath="/Dawnhart Ceremony.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Dawnhart Ceremony.png" >INM</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2600,7 +2600,7 @@ Invocation — When you spend four or more mana to cast a spell or activate an a
     </card>
     <card>
       <name>Dawnhart Scourge</name>
-      <set rarity="uncommon" splitterPath="/Dawnhart Scourge.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Dawnhart Scourge.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -2689,7 +2689,7 @@ Once during each of your turns, you may cast a creature spell from your graveyar
     </card>
     <card>
       <name>Ulvenwald Ranger</name>
-      <set rarity="rare" splitterPath="/Ulvenwald Ranger.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Ulvenwald Ranger.png" >INM</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2707,7 +2707,7 @@ Once during each of your turns, you may cast a creature spell from your graveyar
     </card>
     <card>
       <name>Ulvenwald Howler</name>
-      <set rarity="rare" splitterPath="/Ulvenwald Howler.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Ulvenwald Howler.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -2771,7 +2771,7 @@ When Ursagore dies, draw a card.</text>
     </card>
     <card>
       <name>Vartrossen Primalist</name>
-      <set rarity="rare" splitterPath="/Vartrossen Primalist.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Vartrossen Primalist.png" >INM</set>
       <prop>
         <colors>G</colors>
         <manacost>3G</manacost>
@@ -2790,7 +2790,7 @@ When Vartrossen Primalist enters, target creature you control fights up to one t
     </card>
     <card>
       <name>Vartrossen Packleader</name>
-      <set rarity="rare" splitterPath="/Vartrossen Packleader.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Vartrossen Packleader.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -2823,7 +2823,7 @@ Invocation — Whenever you spend four or more mana to cast a spell or activate 
     </card>
     <card>
       <name>Mistwood Rites</name>
-      <set rarity="rare" splitterPath="/Mistwood Rites.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Mistwood Rites.png" >INM</set>
       <prop>
         <colors>G</colors>
         <manacost>1G</manacost>
@@ -2841,7 +2841,7 @@ You may play an additional land on each of your turns.
     </card>
     <card>
       <name>Mistwood Enigma</name>
-      <set rarity="rare" splitterPath="/Mistwood Enigma.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Mistwood Enigma.png" >INM</set>
       <prop>
         <colors>U</colors>
         <manacost></manacost>
@@ -2902,7 +2902,7 @@ Flashback—2G or Tap two untapped green creatures you control. (You may cast th
     </card>
     <card>
       <name>Krendel of Kessig</name>
-      <set rarity="mythic" splitterPath="/Krendel of Kessig.jpg" >INM</set>
+      <set rarity="mythic" splitterPath="/Krendel of Kessig.png" >INM</set>
       <prop>
         <colors>G</colors>
         <manacost>3GGG</manacost>
@@ -2921,7 +2921,7 @@ Whenever another nontoken creature you control dies, return it to its owner’s 
     </card>
     <card>
       <name>Krendel, Krallenhorde Alpha</name>
-      <set rarity="mythic" splitterPath="/Krendel, Krallenhorde Alpha.jpg" >INM</set>
+      <set rarity="mythic" splitterPath="/Krendel, Krallenhorde Alpha.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -3123,7 +3123,7 @@ Whenever you discard a creature card, put a +1/+1 counter on Olivia Voldaren, Pr
     </card>
     <card>
       <name>Valseid, Leyran Brute</name>
-      <set rarity="rare" splitterPath="/Valseid, Leyran Brute.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Valseid, Leyran Brute.png" >INM</set>
       <prop>
         <colors>RG</colors>
         <manacost>RRGG</manacost>
@@ -3142,7 +3142,7 @@ Whenever this creature enters or transforms into Valseid, Leyran Brute, it deals
     </card>
     <card>
       <name>Valseid, Leyran Ravager</name>
-      <set rarity="rare" splitterPath="/Valseid, Leyran Ravager.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Valseid, Leyran Ravager.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost></manacost>
@@ -3728,7 +3728,7 @@ Flashback 8WB (You may cast this card from your graveyard for its flashback cost
     </card>
     <card>
       <name>Hanweir Miscreant</name>
-      <set rarity="uncommon" splitterPath="/Hanweir Miscreant.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Hanweir Miscreant.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost>2R</manacost>
@@ -3746,7 +3746,7 @@ Flashback 8WB (You may cast this card from your graveyard for its flashback cost
     </card>
     <card>
       <name>Garrison Intruder</name>
-      <set rarity="uncommon" splitterPath="/Garrison Intruder.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Garrison Intruder.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost></manacost>
@@ -3834,7 +3834,7 @@ Flashback—1B, Pay 1 life. (You may cast this card from your graveyard for its 
     </card>
     <card>
       <name>Haunted Waif</name>
-      <set rarity="uncommon" splitterPath="/Haunted Waif.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Haunted Waif.png" >INM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -3852,7 +3852,7 @@ When you activate an ability of a Spirit you control or a Spirit card in your ha
     </card>
     <card>
       <name>Geist Whisperer</name>
-      <set rarity="uncommon" splitterPath="/Geist Whisperer.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Geist Whisperer.png" >INM</set>
       <prop>
         <colors>W</colors>
         <manacost></manacost>
@@ -3869,7 +3869,7 @@ At the beginning of each combat, untap all Spirits you control.
     </card>
     <card>
       <name>Carnage Throne</name>
-      <set rarity="uncommon" splitterPath="/Carnage Throne.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Carnage Throne.png" >INM</set>
       <prop>
         <colors>B</colors>
         <manacost>B</manacost>
@@ -3886,7 +3886,7 @@ Whenever you sacrifice a creature, put a corpse counter on Carnage Throne. Then 
     </card>
     <card>
       <name>Carnage Demon</name>
-      <set rarity="uncommon" splitterPath="/Carnage Demon.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Carnage Demon.png" >INM</set>
       <prop>
         <colors>B</colors>
         <manacost></manacost>
@@ -3916,7 +3916,7 @@ When this permanent transforms into Carnage Demon, each opponent sacrifices a cr
     </card>
     <card>
       <name>Troublesome Throng</name>
-      <set rarity="common" splitterPath="/Troublesome Throng.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Troublesome Throng.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost>3R</manacost>
@@ -3934,7 +3934,7 @@ When this permanent transforms into Carnage Demon, each opponent sacrifices a cr
     </card>
     <card>
       <name>Vartrossen Vandals</name>
-      <set rarity="common" splitterPath="/Vartrossen Vandals.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Vartrossen Vandals.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost></manacost>
@@ -3964,7 +3964,7 @@ Whenever Curse of the Tattletale or another Curse becomes attached to enchanted 
     </card>
     <card>
       <name>Havengul Banshee</name>
-      <set rarity="uncommon" splitterPath="/Havengul Banshee.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Havengul Banshee.png" >INM</set>
       <prop>
         <colors>U</colors>
         <manacost>2U</manacost>
@@ -3983,7 +3983,7 @@ Whenever Havengul Banshee attacks, each creature defending player controls gets 
     </card>
     <card>
       <name>Curse of the Banshee</name>
-      <set rarity="uncommon" splitterPath="/Curse of the Banshee.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Curse of the Banshee.png" >INM</set>
       <prop>
         <colors>U</colors>
         <manacost></manacost>
@@ -4014,7 +4014,7 @@ When Infernal Direwolf enters, it fights up to one target creature an opponent c
     </card>
     <card>
       <name>Dowager of Traublassen</name>
-      <set rarity="uncommon" splitterPath="/Dowager of Traublassen.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Dowager of Traublassen.png" >INM</set>
       <prop>
         <colors>B</colors>
         <manacost>1B</manacost>
@@ -4032,7 +4032,7 @@ At the beginning of each end step, if you gained 3 or more life this turn, trans
     </card>
     <card>
       <name>Despot of Traublassen</name>
-      <set rarity="uncommon" splitterPath="/Despot of Traublassen.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Despot of Traublassen.png" >INM</set>
       <prop>
         <colors>B</colors>
         <manacost></manacost>
@@ -4397,7 +4397,7 @@ When Falkenrath Fletcher enters, if an opponent lost life this turn, create a 1/
     </card>
     <card>
       <name>Lone Zombie</name>
-      <set rarity="common" splitterPath="/Lone Zombie.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Lone Zombie.png" >INM</set>
       <prop>
         <colors>B</colors>
         <manacost>2B</manacost>
@@ -4415,7 +4415,7 @@ When Lone Zombie and two other creatures attack, transform Lone Zombie.
     </card>
     <card>
       <name>Zombie Legion</name>
-      <set rarity="common" splitterPath="/Zombie Legion.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Zombie Legion.png" >INM</set>
       <prop>
         <colors>B</colors>
         <manacost></manacost>
@@ -4459,7 +4459,7 @@ When Lone Zombie and two other creatures attack, transform Lone Zombie.
     </card>
     <card>
       <name>Undercroft Portal</name>
-      <set rarity="rare" splitterPath="/Undercroft Portal.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Undercroft Portal.png" >INM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -4477,7 +4477,7 @@ on it, transform it.
     </card>
     <card>
       <name>Unleashed Mindboggler</name>
-      <set rarity="rare" splitterPath="/Unleashed Mindboggler.jpg" >INM</set>
+      <set rarity="rare" splitterPath="/Unleashed Mindboggler.png" >INM</set>
       <prop>
         <colors>U</colors>
         <manacost></manacost>
@@ -4551,7 +4551,7 @@ Whenever Silverblade Cathar and two other creatures attack, draw a card.</text>
     </card>
     <card>
       <name>Embercut Duelist</name>
-      <set rarity="common" splitterPath="/Embercut Duelist.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Embercut Duelist.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost>R</manacost>
@@ -4569,7 +4569,7 @@ Whenever Silverblade Cathar and two other creatures attack, draw a card.</text>
     </card>
     <card>
       <name>Emberslash Werewolf</name>
-      <set rarity="common" splitterPath="/Emberslash Werewolf.jpg" >INM</set>
+      <set rarity="common" splitterPath="/Emberslash Werewolf.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost></manacost>
@@ -4599,7 +4599,7 @@ At the beginning of your end step, if Emberslash Werewolf didn’t attack this t
     </card>
     <card>
       <name>Adderblade Exterminator</name>
-      <set rarity="uncommon" splitterPath="/Adderblade Exterminator.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Adderblade Exterminator.png" >INM</set>
       <prop>
         <colors>G</colors>
         <manacost>G</manacost>
@@ -4617,7 +4617,7 @@ At the beginning of your end step, if Emberslash Werewolf didn’t attack this t
     </card>
     <card>
       <name>Addermark Eviscerator</name>
-      <set rarity="uncommon" splitterPath="/Addermark Eviscerator.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Addermark Eviscerator.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -4634,7 +4634,7 @@ At the beginning of your end step, if Addermark Eviscerator didn’t attack this
     </card>
     <card>
       <name>Voldaren Heartslicer</name>
-      <set rarity="uncommon" splitterPath="/Voldaren Heartslicer.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Voldaren Heartslicer.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost>1R</manacost>
@@ -4652,7 +4652,7 @@ At the beginning of your end step, if Addermark Eviscerator didn’t attack this
     </card>
     <card>
       <name>Curse of Incurable Wounds</name>
-      <set rarity="uncommon" splitterPath="/Curse of Incurable Wounds.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Curse of Incurable Wounds.png" >INM</set>
       <prop>
         <colors>R</colors>
         <manacost></manacost>
@@ -4668,7 +4668,7 @@ If Curse of Incurable Wounds would be put into a graveyard from the battlefield,
     </card>
     <card>
       <name>Alabaster Halo</name>
-      <set rarity="uncommon" splitterPath="/Alabaster Halo.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Alabaster Halo.png" >INM</set>
       <prop>
         <colors>W</colors>
         <manacost>2W</manacost>
@@ -4686,7 +4686,7 @@ When enchanted creature dies, return Alabaster Halo to the battlefield transform
     </card>
     <card>
       <name>Alabaster Avenger</name>
-      <set rarity="uncommon" splitterPath="/Alabaster Avenger.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Alabaster Avenger.png" >INM</set>
       <prop>
         <colors>W</colors>
         <manacost></manacost>
@@ -4717,7 +4717,7 @@ Whenever Alabaster Avenger attacks, if it’s enchanted or equipped, it gains fi
     </card>
     <card>
       <name>Drunau Egg</name>
-      <set rarity="uncommon" splitterPath="/Drunau Egg.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Drunau Egg.png" >INM</set>
       <prop>
         <colors>U</colors>
         <manacost>1U</manacost>
@@ -4736,7 +4736,7 @@ At the beginning of each end step, if an opponent has thirteen or more cards in 
     </card>
     <card>
       <name>Drunau Engulfer</name>
-      <set rarity="uncommon" splitterPath="/Drunau Engulfer.jpg" >INM</set>
+      <set rarity="uncommon" splitterPath="/Drunau Engulfer.png" >INM</set>
       <prop>
         <colors>U</colors>
         <manacost></manacost>
@@ -4965,7 +4965,7 @@ As long as this card is in your graveyard, its name is Undead Servant.</text>
     </card>
     <card>
       <name>Wesgoth Cemetery</name>
-      <set rarity="" splitterPath="/Wesgoth Cemetery.jpg" >INM</set>
+      <set rarity="" splitterPath="/Wesgoth Cemetery.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -4984,7 +4984,7 @@ Wesgoth Cemetery can be your commander.
     </card>
     <card>
       <name>Skullbriar, Death&apos;s Mockery</name>
-      <set rarity="" splitterPath="/Skullbriar, Death's Mockery.jpg" >INM</set>
+      <set rarity="" splitterPath="/Skullbriar, Death's Mockery.png" >INM</set>
       <prop>
         <colors></colors>
         <manacost></manacost>
@@ -5015,19 +5015,40 @@ Skullbriar gets +1/+1 for each creature card in all graveyards.
       <tablerow>2</tablerow>
       <text>Menace</text>
       <token>1</token>
+      <reverse-related>Pulse Seeker</reverse-related>
+      <reverse-related>Falkenrath Fletcher</reverse-related>
+      <reverse-related>Falkenrath Bladesire</reverse-related>
+      <reverse-related>Curse of the Vein</reverse-related>
+      <reverse-related>Olivia&apos;s Offer</reverse-related>
+      <reverse-related>Marzela Falkenrath</reverse-related>
+      <reverse-related>Olivia Voldaren, Progenitrix</reverse-related>
+      <reverse-related count="2">True Blood</reverse-related>
     </card>
     <card>
       <name>Weapon</name>
       <set>INM</set>
       <prop>
         <colors></colors>
-        <type>Artifact - Weapon </type>
+        <type>Token Artifact - Weapon </type>
         <maintype>Artifact</maintype>
       </prop>
       <tablerow>1</tablerow>
       <text>Equipped creature gets +1/+1.
 Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
       <token>1</token>
+      <reverse-related>Cathedral Gargoyle</reverse-related>
+      <reverse-related>Hunter&apos;s Arsenal</reverse-related>
+      <reverse-related>Blessed Bladewright</reverse-related>
+      <reverse-related>Gavony Cavaliers</reverse-related>
+      <reverse-related>Moorland SLayer</reverse-related>
+      <reverse-related>Kessig Woodcutter</reverse-related>
+      <reverse-related>Fangs of Wesgoth</reverse-related>
+      <reverse-related count="2">Stensia Cavalcade</reverse-related>
+      <reverse-related>Voldaren Crypt-Guard</reverse-related>
+      <reverse-related count="3"> Cathar&apos;s Armory </reverse-related>
+      <reverse-related>Curse of Raining Daggers</reverse-related>
+      <reverse-related>Flawless Finesse</reverse-related>
+      <reverse-related>Elgaud Fortress</reverse-related>
     </card>
     <card>
       <name>Human</name>
@@ -5041,6 +5062,8 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related>Charging Commando</reverse-related>
+      <reverse-related count="2">Alert the Village</reverse-related>
     </card>
     <card>
       <name>Spirit</name>
@@ -5054,6 +5077,13 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
+      <reverse-related count="2">Geist Whisperer</reverse-related>
+      <reverse-related>Beckoning Possessor</reverse-related>
+      <reverse-related>Shackled Memories</reverse-related>
+      <reverse-related count="x">Curse of the Breathless</reverse-related>
+      <reverse-related>Curse of the Breathless</reverse-related>
+      <reverse-related>Lifted Spirits</reverse-related>
+      <reverse-related>Evanescence</reverse-related>
     </card>
     <card>
       <name>Crab</name>
@@ -5067,6 +5097,8 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text>{T}: Target player mills a card.</text>
       <token>1</token>
+      <reverse-related>Drownyard Colossus</reverse-related>
+      <reverse-related>Curse of Scuttling Thoughts</reverse-related>
     </card>
     <card>
       <name>Zombie</name>
@@ -5080,6 +5112,12 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related>Lich&apos;s Grimoire</reverse-related>
+      <reverse-related count="3">Wurgelurg </reverse-related>
+      <reverse-related>Stitched Gargantua</reverse-related>
+      <reverse-related>Garden Ghoul</reverse-related>
+      <reverse-related count="x">Undead Servant</reverse-related>
+      <reverse-related>Undead Servant</reverse-related>
     </card>
     <card>
       <name>Bat</name>
@@ -5093,6 +5131,8 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text>Flying, lifelink</text>
       <token>1</token>
+      <reverse-related>Vespercloak Vampire</reverse-related>
+      <reverse-related count="2">Sorin, Vampire Maverick</reverse-related>
     </card>
     <card>
       <name>Human Survivor</name>
@@ -5106,6 +5146,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related count="4">Left for Dead</reverse-related>
     </card>
     <card>
       <name>Treasure</name>
@@ -5118,6 +5159,8 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>1</tablerow>
       <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
       <token>1</token>
+      <reverse-related>Kessig Tombrobber</reverse-related>
+      <reverse-related>Affluent Host</reverse-related>
     </card>
     <card>
       <name>Wolf</name>
@@ -5131,6 +5174,11 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related count="2">Druid&apos;s Grimoire</reverse-related>
+      <reverse-related>Brambleswine</reverse-related>
+      <reverse-related>Phantom of Wolf&apos;s Run</reverse-related>
+      <reverse-related>Curse of the Hunter&apos;s Moon</reverse-related>
+      <reverse-related>Faithless Razing</reverse-related>
     </card>
     <card>
       <name>Plant</name>
@@ -5144,6 +5192,8 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text>{T}: Add {G}.</text>
       <token>1</token>
+      <reverse-related>Desperate Botanist</reverse-related>
+      <reverse-related>Rosenhulk</reverse-related>
     </card>
     <card>
       <name>Bear Spirit</name>
@@ -5157,6 +5207,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related>Ursagore</reverse-related>
     </card>
     <card>
       <name>Angel</name>
@@ -5170,6 +5221,8 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text>Flying</text>
       <token>1</token>
+      <reverse-related>Polina Elgaud</reverse-related>
+      <reverse-related count="x">Flight of Angels</reverse-related>
     </card>
     <card>
       <name>Devil</name>
@@ -5183,6 +5236,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text>When this creature dies, it deals 1 damage to any target.</text>
       <token>1</token>
+      <reverse-related count="2">Dance with Devils</reverse-related>
     </card>
     <card>
       <name>Intangible Virtue</name>
@@ -5195,6 +5249,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>1</tablerow>
       <text>Creature tokens you control get +1/+1 and have vigilance.</text>
       <token>1</token>
+      <reverse-related>Polina Elgaud</reverse-related>
     </card>
     <card>
       <name>Human Warlock</name>
@@ -5208,6 +5263,7 @@ Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
       <tablerow>2</tablerow>
       <text></text>
       <token>1</token>
+      <reverse-related>Oswin, Skirsdag Diabolist</reverse-related>
     </card>
 
   </cards>
