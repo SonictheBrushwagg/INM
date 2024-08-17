@@ -3495,4 +3495,3 @@
 		10 Island3
 		10 Swamp3
 		10 Mountain3
-		10 Forest3

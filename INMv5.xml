@@ -455,7 +455,7 @@ Whenever Outrider Captain attacks, search your library for a creature card with 
       <tablerow>2</tablerow>
       <text>Flash
 Flying
-When Cobblespook enters the battlefield, tap target artifact or creature an opponent controls.</text>
+When Cobblespook enters, tap target artifact or creature an opponent controls.</text>
     </card>
     <card>
       <name>Drogskol Possessor</name>
@@ -705,8 +705,7 @@ Flashback 3U (You may cast this card from your graveyard for its flashback cost.
         <pt>4/3</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Flash
-Flying
+      <text>Flying
 Whenever Hecatomb Haunter enters or attacks, up to one other target nonland permanent phases out. (Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</text>
     </card>
     <card>
@@ -2346,9 +2345,8 @@ Invocation — Whenever you spend four or more mana to cast a spell or activate 
         <pt>4/4</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>Foreshadow 4G (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
-Trample
-When Orchard Overseer dies, you gain 3 life.</text>
+      <text>Trample
+When Orchard Overseer enters, you gain 3 life.</text>
     </card>
     <card>
       <name>Prowling Wolf</name>
@@ -2579,7 +2577,7 @@ When Rosenhulk enters, choose one —
       <tablerow>2</tablerow>
       <text>Foreshadow 5GG (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
 Primordial Slime can’t be blocked by creatures with power 2 or less.
-When Primordial Slime dies, exile target artifact or enchantment an opponent controls.</text>
+When Primordial Slime dies, you gain 5 life.</text>
     </card>
     <card>
       <name>Dawnhart Ceremony</name>
@@ -3368,11 +3366,11 @@ Equip {1}</text>
         <cmc>3</cmc>
         <type>Artifact Creature - Construct Knight </type>
         <maintype>Creature</maintype>
-        <pt>2/3</pt>
+        <pt>2/2</pt>
       </prop>
       <tablerow>2</tablerow>
-      <text>As long as it’s your turn, Bodyless Knight has first strike.
-Whenever Bodyless Knight enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+      <text>First strike
+Whenever Bodyless Knight attacks, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)</text>
     </card>
     <card>
       <name>Guardian Grotesque</name>
