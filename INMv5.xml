@@ -160,7 +160,7 @@ When Loyal Retriever dies, search your library for an Aura or Equipment card, re
       </prop>
       <tablerow>2</tablerow>
       <text>Flying
-When Sigarda’s Shepherd enters, put a +1/+1 counter on another target creature you control. If that creature is a Human, it gains indestructible until end of turn.</text>
+When Sigarda’s Shepherd enters, another target creature you control gains indestructible until end of turn.</text>
     </card>
     <card>
       <name>Candlecrown Stag</name>
@@ -2599,7 +2599,7 @@ Creatures attacking enchanted player have trample.</text>
       </prop>
       <tablerow>3</tablerow>
       <text>This spell costs {3} less to cast if a creature died this turn.
-Hatefire deals 6 damage to target creature. If that creature would die this turn, exile it instead.</text>
+Hatefire deals 6 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</text>
     </card>
     <card>
       <name>Voldaren Heartslicer</name>
@@ -2748,7 +2748,7 @@ Whenever Irascible Bloodwitch or another Vampire enters under your control, Iras
       <tablerow>2</tablerow>
       <text>Foreshadow 4RR (You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” ability when it enters.)
 Flying
-When Obsidian Hellkite dies, it deals 2 damage to up to one target creature or planeswalker. If that permanent would die this turn, exile it instead.</text>
+When Obsidian Hellkite dies, it deals 2 damage to up to one target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.</text>
     </card>
     <card>
       <name>Surfacing Horripede</name>

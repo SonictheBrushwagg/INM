@@ -3246,7 +3246,7 @@
 		30 Dawnhart's Envoy
 		30 Outrider Captain
 		30 Hecatomb Haunter
-		30 Quell Evil
+		30 Beseech Aid
 		30 Cathar's Armory
 		30 Sword of the Heavens
 		30 Cryptic Possessor
@@ -3291,7 +3291,7 @@
 		30 Helvault, Shard of the Moon
 		30 Elgaud Fortress
 		10 Flight of Angels
-		10 Avacyn
+		10 Avacyn, the Savior
 		10 Polina Elgaud
 		10 Stitched Gargantua
 		10 Occult Metamorphosis
@@ -3415,7 +3415,7 @@
 		50 Remove Soul
 		50 Curse of Doubt
 		50 Body and Mind
-		50 Curse of Lost Identity
+		50 Erase Identity
 		50 Geistmage's Grimoire
 		50 Scare Away
 		50 Contagious Ghoul
