@@ -378,12 +378,12 @@
 	        }
 	    },
 	    {
-	        "name": "Quell Evil",
+	        "name": "Beseech Aid",
 	        "rarity": "rare",
-	        "mana_cost": "{W}",
+	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Quell Evil.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Beseech Aid.png"
 	        }
 	    },
 	    {
@@ -435,12 +435,12 @@
 	        }
 	    },
 	    {
-	        "name": "Avacyn",
+	        "name": "Avacyn, the Savior",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{W}{W}{W}",
+	        "mana_cost": "{4}{W}{W}{W}",
 	        "type": "Legendary Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Avacyn, the Savior.png"
 	        }
 	    },
 	    {
@@ -611,19 +611,19 @@
 	    {
 	        "name": "Body and Mind",
 	        "rarity": "common",
-	        "mana_cost": "{2}{U}",
+	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Body and Mind.png"
 	        }
 	    },
 	    {
-	        "name": "Curse of Lost Identity",
+	        "name": "Erase Identity",
 	        "rarity": "common",
 	        "mana_cost": "{2}{U}",
-	        "type": "Enchantment — Aura Curse ",
+	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of Lost Identity.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Erase Identity.png"
 	        }
 	    },
 	    {
@@ -1076,7 +1076,7 @@
 	    {
 	        "name": "True Blood",
 	        "rarity": "common",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/True Blood.png"
@@ -1149,12 +1149,12 @@
 	        }
 	    },
 	    {
-	        "name": "Diregraf Crawler",
+	        "name": "Diregraf Skulleater",
 	        "rarity": "uncommon",
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Zombie ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Diregraf Crawler.png"
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Diregraf Skulleater.png"
 	        }
 	    },
 	    {
@@ -1273,7 +1273,7 @@
 	    },
 	    {
 	        "name": "Corpse Thief",
-	        "mana_cost": "{2}{B}",
+	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Corpse Thief.png"
@@ -1304,7 +1304,7 @@
 	    {
 	        "name": "Doomsday Horde",
 	        "rarity": "rare",
-	        "mana_cost": "{1}{B}{B}",
+	        "mana_cost": "{1}{B}{B}{B}",
 	        "type": "Creature — Zombie ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Doomsday Horde.png"
@@ -1388,7 +1388,7 @@
 	    {
 	        "name": "Archdemon Shilgengar",
 	        "rarity": "mythic",
-	        "mana_cost": "{6}{B}{B}{B}{B}",
+	        "mana_cost": "{3}{B}{B}{B}",
 	        "type": "Legendary Creature — Elder Demon ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Archdemon Shilgengar.png"
@@ -1565,7 +1565,7 @@
 	    {
 	        "name": "Faithless Razing",
 	        "rarity": "common",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Faithless Razing.png"
@@ -1583,7 +1583,7 @@
 	    {
 	        "name": "Curse of Slaughter",
 	        "rarity": "common",
-	        "mana_cost": "{3}{R}",
+	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment — Aura Curse ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Curse of Slaughter.png"
@@ -1691,7 +1691,7 @@
 	    {
 	        "name": "Surfacing Horripede",
 	        "rarity": "uncommon",
-	        "mana_cost": "{4}{R}",
+	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Insect Horror ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Surfacing Horripede.png"
@@ -1871,7 +1871,7 @@
 	    {
 	        "name": "Volcanic Malignus",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Elemental Spirit ",
 	        "image_uris": {
 	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Volcanic Malignus.png"
@@ -3135,6 +3135,15 @@
 	        }
 	    },
 	    {
+	        "name": "Elemental Spirit",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Token Creature — Elemental Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/SonictheBrushwagg/INM/main/INMv5-files/Elemental Spirit.png"
+	        }
+	    },
+	    {
 	        "name": "Human Survivor",
 	        "rarity": "common",
 	        "mana_cost": "",
@@ -3325,7 +3334,7 @@
 		50 Curse of Scuttling Thoughts
 		50 Bone Lich
 		50 Vespercloak Vampire
-		50 Diregraf Crawler
+		50 Diregraf Skulleater
 		50 Undead Necromancer
 		50 Grim Raven of Wesgoth
 		50 Plague Herald
